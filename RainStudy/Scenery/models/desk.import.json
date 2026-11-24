@@ -1,0 +1,16 @@
+{
+  "revision": "610f2e67d6595633d08456025952bac8560fa253fb5bc49f34caab2174f12287",
+  "result": {
+    "prefabId": "homeward-rain",
+    "resourceId": "model-desk",
+    "sourcePath": "assets/models/model-desk",
+    "path": "assets/models/model-desk/package/model.glb",
+    "sourceState": "topology",
+    "canonicalResourceId": "model-desk",
+    "sourceFiles": [
+      "meta.json",
+      "topology/README.md",
+      "topology/model.glb"
+    ]
+  }
+}

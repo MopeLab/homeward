@@ -1,0 +1,9 @@
+{
+  "resourceId": "model-campus",
+  "modelType": 1,
+  "nodeCount": 3,
+  "sourceFiles": [
+    "meta.json",
+    "topology/model.glb"
+  ]
+}

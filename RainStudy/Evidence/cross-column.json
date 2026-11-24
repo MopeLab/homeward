@@ -1,0 +1,162 @@
+{
+  "ok": true,
+  "status": "completed",
+  "result": [
+    {
+      "z": 0.04959869384765625,
+      "bedPlaying": true,
+      "bedTime": 4.102020740509033,
+      "bedClip": -5498,
+      "tinVolume": 0.506879985332489,
+      "basinVolume": 0
+    },
+    {
+      "z": 0.2984161376953125,
+      "bedPlaying": true,
+      "bedTime": 4.201916694641113,
+      "bedClip": -5498,
+      "tinVolume": 0.506879985332489,
+      "basinVolume": 0
+    },
+    {
+      "z": 0.5990219116210938,
+      "bedPlaying": true,
+      "bedTime": 4.301708221435547,
+      "bedClip": -5498,
+      "tinVolume": 0.506879985332489,
+      "basinVolume": 0
+    },
+    {
+      "z": 0.899017333984375,
+      "bedPlaying": true,
+      "bedTime": 4.401708126068115,
+      "bedClip": -5498,
+      "tinVolume": 0.506879985332489,
+      "basinVolume": 0
+    },
+    {
+      "z": 1.1999130249023438,
+      "bedPlaying": true,
+      "bedTime": 4.502020835876465,
+      "bedClip": -5498,
+      "tinVolume": 0.506879985332489,
+      "basinVolume": 0
+    },
+    {
+      "z": 1.499908447265625,
+      "bedPlaying": true,
+      "bedTime": 4.602208137512207,
+      "bedClip": -5498,
+      "tinVolume": 0.506879985332489,
+      "basinVolume": 0
+    },
+    {
+      "z": 1.7999114990234375,
+      "bedPlaying": true,
+      "bedTime": 4.702208518981934,
+      "bedClip": -5498,
+      "tinVolume": 0,
+      "basinVolume": 0
+    },
+    {
+      "z": 2.1023101806640625,
+      "bedPlaying": true,
+      "bedTime": 4.803208351135254,
+      "bedClip": -5498,
+      "tinVolume": 0,
+      "basinVolume": 0
+    },
+    {
+      "z": 2.39691162109375,
+      "bedPlaying": true,
+      "bedTime": 4.901208400726318,
+      "bedClip": -5498,
+      "tinVolume": 0,
+      "basinVolume": 0
+    },
+    {
+      "z": 2.6972122192382812,
+      "bedPlaying": true,
+      "bedTime": 5.001208305358887,
+      "bedClip": -5498,
+      "tinVolume": 0,
+      "basinVolume": 0
+    },
+    {
+      "z": 3.0008163452148438,
+      "bedPlaying": true,
+      "bedTime": 5.10281229019165,
+      "bedClip": -5498,
+      "tinVolume": 0.506879985332489,
+      "basinVolume": 0
+    },
+    {
+      "z": 3.29931640625,
+      "bedPlaying": true,
+      "bedTime": 5.202604293823242,
+      "bedClip": -5498,
+      "tinVolume": 0.4853377342224121,
+      "basinVolume": 0
+    },
+    {
+      "z": 3.6008224487304688,
+      "bedPlaying": true,
+      "bedTime": 5.302520751953125,
+      "bedClip": -5498,
+      "tinVolume": 0.4423646032810211,
+      "basinVolume": 0
+    },
+    {
+      "z": 3.9005279541015625,
+      "bedPlaying": true,
+      "bedTime": 5.402604103088379,
+      "bedClip": -5498,
+      "tinVolume": 0.38904982805252075,
+      "basinVolume": 0
+    },
+    {
+      "z": 4.1978302001953125,
+      "bedPlaying": true,
+      "bedTime": 5.501312732696533,
+      "bedClip": -5498,
+      "tinVolume": 0.33103591203689575,
+      "basinVolume": 0
+    },
+    {
+      "z": 4.499031066894531,
+      "bedPlaying": true,
+      "bedTime": 5.602104187011719,
+      "bedClip": -5498,
+      "tinVolume": 0.2699528932571411,
+      "basinVolume": 0
+    },
+    {
+      "z": 4.797233581542969,
+      "bedPlaying": true,
+      "bedTime": 5.701104164123535,
+      "bedClip": -5498,
+      "tinVolume": 0.2080872356891632,
+      "basinVolume": 0
+    },
+    {
+      "z": 5.099327087402344,
+      "bedPlaying": true,
+      "bedTime": 5.802021026611328,
+      "bedClip": -5498,
+      "tinVolume": 0.14498427510261536,
+      "basinVolume": 0
+    },
+    {
+      "z": 5.396629333496094,
+      "bedPlaying": true,
+      "bedTime": 5.900708198547363,
+      "bedClip": -5498,
+      "tinVolume": 0.08235320448875427,
+      "basinVolume": 0
+    }
+  ],
+  "startFrame": 828,
+  "endFrame": 866,
+  "durationMs": 1871,
+  "mode": "native-puerts"
+}

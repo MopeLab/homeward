@@ -1,0 +1,16 @@
+{
+  "revision": "be6fe89a56ccef83d5e419c9bb1030610b09d2c2b64c38727a7bbb9ce7114a41",
+  "result": {
+    "prefabId": "homeward-rain",
+    "resourceId": "model-basin",
+    "sourcePath": "assets/models/model-basin",
+    "path": "assets/models/model-basin/package/model.glb",
+    "sourceState": "topology",
+    "canonicalResourceId": "model-basin",
+    "sourceFiles": [
+      "meta.json",
+      "topology/README.md",
+      "topology/model.glb"
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "ok": true,
+  "status": "completed",
+  "result": [
+    {
+      "time": 10541.84375,
+      "clip": -9394,
+      "title": "第 1 格 · 走啦，吃饭去",
+      "artwork": [
+        [
+          "Window"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "time": 10544.04296875,
+      "clip": null,
+      "title": "第 1 格 · 走啦，吃饭去",
+      "artwork": [
+        [
+          "Window"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "time": 10544.3427734375,
+      "clip": -9392,
+      "title": "第 2 格 · 迟来一滴",
+      "artwork": [
+        [
+          "Window"
+        ],
+        [
+          "Basin"
+        ],
+        []
+      ]
+    },
+    {
+      "time": 10547.2412109375,
+      "clip": null,
+      "title": "第 2 格 · 迟来一滴",
+      "artwork": [
+        [
+          "Window"
+        ],
+        [
+          "Basin"
+        ],
+        []
+      ]
+    },
+    {
+      "time": 10547.6416015625,
+      "clip": -9388,
+      "title": "第 3 格 · 铁皮重滴",
+      "artwork": [
+        [
+          "Window"
+        ],
+        [
+          "Basin"
+        ],
+        [
+          "Tin"
+        ]
+      ]
+    },
+    {
+      "time": 10550.240234375,
+      "clip": null,
+      "title": "第 3 格 · 铁皮重滴",
+      "artwork": [
+        [
+          "Window"
+        ],
+        [
+          "Basin"
+        ],
+        [
+          "Tin"
+        ]
+      ]
+    },
+    {
+      "time": 10550.640625,
+      "clip": null,
+      "title": "这一封，听完了。",
+      "artwork": [
+        [
+          "Window"
+        ],
+        [
+          "Basin"
+        ],
+        [
+          "Tin"
+        ]
+      ]
+    }
+  ],
+  "startFrame": 202753,
+  "endFrame": 203193,
+  "durationMs": 22015,
+  "mode": "native-puerts"
+}

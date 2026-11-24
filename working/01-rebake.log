@@ -1,0 +1,62 @@
+00:03.156  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+Extensions: writing cache failed ([WinError 5] 拒绝访问。: 'C:\\Users\\Auntn\\AppData\\Roaming\\Blender Foundation\\Blender\\5.3\\extensions').
+Baking with OPTIX NVIDIA GeForce RTX 5060 Laptop GPU
+F:\Mopelab\Homeward\RainStudy\Scenery\build_scenery.py:36: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes = True
+F:\Mopelab\Homeward\RainStudy\Scenery\build_scenery.py:48: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+00:03.500  image.write      | ERROR OpenImageIO write failed: Could not open file "C:\Users\Auntn\.thumbnails\large\blender_7020_e7ac77d47d501477e321201cdf619169.png.png"
+Info: Saved as "rain-master.blend"
+Info: Baking map saved to internal image, save it externally or pack it
+Baked walkway
+Info: Baking map saved to internal image, save it externally or pack it
+Baked campus
+Info: Baking map saved to internal image, save it externally or pack it
+Baked old-eaves
+Info: Baking map saved to internal image, save it externally or pack it
+Baked desk
+INFO Draco is available, use library at C:\Program Files\Blender Foundation\Blender 5.3\blender.shared\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Program Files\Blender Foundation\Blender 5.3\blender.shared\bf_intern_meshopt_bridge.dll
+17:51:15 | INFO: Starting glTF 2.0 export
+17:51:15 | INFO: Extracting primitive: Bed joint
+17:51:15 | INFO: Primitives created: 1
+17:51:15 | INFO: Finished glTF 2.0 export in 0.09670567512512207 s
+
+Exported walkway
+F:\Mopelab\Homeward\RainStudy\Scenery\build_scenery.py:48: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+17:51:15 | INFO: Starting glTF 2.0 export
+17:51:15 | INFO: Extracting primitive: School wall
+17:51:15 | INFO: Primitives created: 1
+17:51:15 | INFO: Extracting primitive: School wall.001
+17:51:15 | INFO: Primitives created: 1
+17:51:15 | INFO: Finished glTF 2.0 export in 0.060307979583740234 s
+
+Exported campus
+17:51:15 | INFO: Starting glTF 2.0 export
+17:51:15 | INFO: Extracting primitive: Limewashed old wall
+17:51:15 | INFO: Primitives created: 1
+17:51:15 | INFO: Finished glTF 2.0 export in 0.06347107887268066 s
+
+Exported old-eaves
+17:51:15 | INFO: Starting glTF 2.0 export
+17:51:15 | INFO: Extracting primitive: Tapered leg
+17:51:15 | INFO: Primitives created: 1
+17:51:15 | INFO: Finished glTF 2.0 export in 0.005270242691040039 s
+
+Exported desk
+17:51:15 | INFO: Starting glTF 2.0 export
+17:51:15 | INFO: Extracting primitive: BasinRipple
+17:51:15 | INFO: Primitives created: 1
+17:51:15 | INFO: Extracting primitive: Enamel bowl
+17:51:15 | INFO: Primitives created: 1
+17:51:15 | INFO: Extracting primitive: Rain surface
+17:51:15 | INFO: Primitives created: 1
+17:51:15 | INFO: Extracting primitive: Rolled blue rim
+17:51:15 | INFO: Primitives created: 1
+17:51:15 | INFO: Finished glTF 2.0 export in 0.007436037063598633 s
+
+Exported basin
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

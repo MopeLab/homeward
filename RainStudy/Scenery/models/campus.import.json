@@ -1,0 +1,16 @@
+{
+  "revision": "278e00fe2a985865dc5bd4921453e9881ac959f7934ad52eef1b888fe3445743",
+  "result": {
+    "prefabId": "homeward-rain",
+    "resourceId": "model-campus",
+    "sourcePath": "assets/models/model-campus",
+    "path": "assets/models/model-campus/package/model.glb",
+    "sourceState": "topology",
+    "canonicalResourceId": "model-campus",
+    "sourceFiles": [
+      "meta.json",
+      "topology/README.md",
+      "topology/model.glb"
+    ]
+  }
+}

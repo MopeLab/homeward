@@ -1,0 +1,16 @@
+{
+  "revision": "9477b443e955b99335cf4d2710f79ed4a5f895cfc55c5bd88a008dca5a9a7840",
+  "result": {
+    "prefabId": "homeward-rain",
+    "resourceId": "model-old-eaves",
+    "sourcePath": "assets/models/model-old-eaves",
+    "path": "assets/models/model-old-eaves/package/model.glb",
+    "sourceState": "topology",
+    "canonicalResourceId": "model-old-eaves",
+    "sourceFiles": [
+      "meta.json",
+      "topology/README.md",
+      "topology/model.glb"
+    ]
+  }
+}

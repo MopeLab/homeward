@@ -1,0 +1,50 @@
+{
+  "status": "valid",
+  "resourceId": "effect-gutter-rain",
+  "sourceSha256": "99e61bc251beb96b37bfce2dddd583a02f1125a262f23dd4d1b64cfd127e9ed7",
+  "sourceFiles": [
+    {
+      "path": "effect.json",
+      "byteLength": 153246,
+      "sha256": "ec5d9c02f278d7dbd576f3cef435410e747aa78f4ab8e03444ed7894ab05b9d8"
+    },
+    {
+      "path": "meta.json",
+      "byteLength": 82,
+      "sha256": "2b4381e13957bae01c02bb0470e7238147742812830ba921a1cd0aa8d71ff2b5"
+    },
+    {
+      "path": "models/2e35678716e2cbb9befdea76906e8cd21a744273c124e9548579d4e93d434897.glb",
+      "byteLength": 28320,
+      "sha256": "2e35678716e2cbb9befdea76906e8cd21a744273c124e9548579d4e93d434897"
+    },
+    {
+      "path": "textures/3cd778cfb054c86f59532e927b97ca3bcfd03894a747998eca077d4c8058f9e4.png",
+      "byteLength": 14033,
+      "sha256": "3cd778cfb054c86f59532e927b97ca3bcfd03894a747998eca077d4c8058f9e4"
+    },
+    {
+      "path": "textures/5c267b7408e0355e9fb7e49f33807aa580dd47072c8c00b73d7926c307bf32d5.png",
+      "byteLength": 21538,
+      "sha256": "5c267b7408e0355e9fb7e49f33807aa580dd47072c8c00b73d7926c307bf32d5"
+    },
+    {
+      "path": "textures/6de04cc8ba759a5d207f685468c69be755ccf23a51b29b26f1857c619fb5b25e.png",
+      "byteLength": 159216,
+      "sha256": "6de04cc8ba759a5d207f685468c69be755ccf23a51b29b26f1857c619fb5b25e"
+    },
+    {
+      "path": "textures/80e1150ae1385d27e77b09d01d39cfa3f60953389efcedf707449e3871daec74.png",
+      "byteLength": 19154,
+      "sha256": "80e1150ae1385d27e77b09d01d39cfa3f60953389efcedf707449e3871daec74"
+    }
+  ],
+  "effectRootIds": [
+    1
+  ],
+  "particleSystemCount": 3,
+  "prepared": {
+    "path": "assets/effects/effect-gutter-rain/package/effect.wprefab",
+    "state": "missing"
+  }
+}

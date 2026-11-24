@@ -1,0 +1,16 @@
+{
+  "revision": "d6ac08e806037225f81b447b2e9ab3c02afb857d369160567ca237c36e5a584f",
+  "result": {
+    "prefabId": "homeward-rain",
+    "resourceId": "model-walkway",
+    "sourcePath": "assets/models/model-walkway",
+    "path": "assets/models/model-walkway/package/model.glb",
+    "sourceState": "topology",
+    "canonicalResourceId": "model-walkway",
+    "sourceFiles": [
+      "meta.json",
+      "topology/README.md",
+      "topology/model.glb"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "mainLightPitch": 31,
+  "mainLightYaw": -58,
+  "mainLightColor": "#a6bfd1",
+  "mainLightStrength": 0.62,
+  "shadowStrength": 0.72,
+  "flareEnable": false,
+  "skyboxTextureUri": {
+    "type": "cubeimage",
+    "uri": "hamlet-ugc/aigc_editor/MarsWorld_sky01_night01.tga"
+  },
+  "reflectionTextureUri": {
+    "type": "cubeimage",
+    "uri": "hamlet-ugc/aigc_editor/env_sky_rain.tga"
+  },
+  "characterAmbientEnable": true,
+  "characterAmbient": "#8294a5",
+  "characterLightColor": "#b2c6d1",
+  "characterStrenght": 1.1,
+  "fogColor": "#344958",
+  "startFog": 9,
+  "endFog": 42,
+  "bloomIntensity": 0.25,
+  "vignette": false
+}

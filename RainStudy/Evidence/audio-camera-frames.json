@@ -1,0 +1,402 @@
+{
+  "runtime": "a0f11e3c-47e6-48eb-a146-90ab4f524a6b",
+  "method": "Stationary desktop editor player, invoke ordinary listen button callback, observe each Unity frame including the timed second sound. Renderer visibility is an engine signal, not framebuffer capture.",
+  "runs": [
+    {
+      "source": "雨棚铁皮",
+      "samples": 340,
+      "startFrame": 1463,
+      "endFrame": 1802,
+      "maxGap": 1,
+      "taps": [
+        1468,
+        1574,
+        1681
+      ],
+      "onsets": [
+        {
+          "frame": 1463,
+          "channel": "Homeward_Rain",
+          "clip": -5588,
+          "time": 7.726395606994629
+        },
+        {
+          "frame": 1463,
+          "channel": "Homeward_Tin",
+          "clip": -5578,
+          "time": 1.6778124570846558
+        },
+        {
+          "frame": 1468,
+          "channel": "Homeward_Card",
+          "clip": -5576,
+          "time": 0
+        },
+        {
+          "frame": 1483,
+          "channel": "Homeward_Tin",
+          "clip": -5576,
+          "time": 0.0023958333767950535
+        },
+        {
+          "frame": 1522,
+          "channel": "Homeward_Card",
+          "clip": -5578,
+          "time": 0.003000000026077032
+        },
+        {
+          "frame": 1538,
+          "channel": "Homeward_Tin",
+          "clip": -5576,
+          "time": 0.0027083333116024733
+        },
+        {
+          "frame": 1574,
+          "channel": "Homeward_Card",
+          "clip": -5576,
+          "time": 0
+        },
+        {
+          "frame": 1596,
+          "channel": "Homeward_Tin",
+          "clip": -5578,
+          "time": 0.002812500111758709
+        },
+        {
+          "frame": 1628,
+          "channel": "Homeward_Card",
+          "clip": -5578,
+          "time": 0.003000000026077032
+        },
+        {
+          "frame": 1648,
+          "channel": "Homeward_Tin",
+          "clip": -5576,
+          "time": 0.0028958332259207964
+        },
+        {
+          "frame": 1681,
+          "channel": "Homeward_Card",
+          "clip": -5576,
+          "time": 0
+        },
+        {
+          "frame": 1703,
+          "channel": "Homeward_Tin",
+          "clip": -5576,
+          "time": 0.003104166593402624
+        },
+        {
+          "frame": 1735,
+          "channel": "Homeward_Card",
+          "clip": -5578,
+          "time": 0.003312499960884452
+        },
+        {
+          "frame": 1761,
+          "channel": "Homeward_Tin",
+          "clip": -5578,
+          "time": 0.003083333373069763
+        },
+        {
+          "frame": 1789,
+          "channel": "Homeward_Rain",
+          "clip": -5588,
+          "time": 0.001687500043772161
+        }
+      ],
+      "observations": [
+        {
+          "frame": 1463,
+          "state": {
+            "actor": [
+              119.7404,
+              78.8521,
+              90.6263
+            ],
+            "map": true,
+            "visible": 16,
+            "camera": {
+              "id": -8846,
+              "position": [
+                119.7394,
+                80.5505,
+                87.2976
+              ],
+              "forward": [
+                0.0003,
+                -0.309,
+                0.9511
+              ],
+              "mask": -612353,
+              "enabled": true,
+              "near": 0.05000000074505806,
+              "far": 1000,
+              "fov": 45
+            }
+          }
+        }
+      ]
+    },
+    {
+      "source": "檐下接雨盆",
+      "samples": 340,
+      "startFrame": 2220,
+      "endFrame": 2559,
+      "maxGap": 1,
+      "taps": [
+        2225,
+        2331,
+        2438
+      ],
+      "onsets": [
+        {
+          "frame": 2220,
+          "channel": "Homeward_Rain",
+          "clip": -5588,
+          "time": 21.558584213256836
+        },
+        {
+          "frame": 2220,
+          "channel": "Homeward_Basin",
+          "clip": -5580,
+          "time": 2.0608959197998047
+        },
+        {
+          "frame": 2225,
+          "channel": "Homeward_Card",
+          "clip": -5580,
+          "time": 0
+        },
+        {
+          "frame": 2245,
+          "channel": "Homeward_Basin",
+          "clip": -5580,
+          "time": 0.0027083333116024733
+        },
+        {
+          "frame": 2269,
+          "channel": "Homeward_Rain",
+          "clip": -5588,
+          "time": 0.0005000000237487257
+        },
+        {
+          "frame": 2278,
+          "channel": "Homeward_Card",
+          "clip": -5582,
+          "time": 0.00320833339355886
+        },
+        {
+          "frame": 2314,
+          "channel": "Homeward_Basin",
+          "clip": -5582,
+          "time": 0.0028958332259207964
+        },
+        {
+          "frame": 2331,
+          "channel": "Homeward_Card",
+          "clip": -5580,
+          "time": 0
+        },
+        {
+          "frame": 2377,
+          "channel": "Homeward_Basin",
+          "clip": -5580,
+          "time": 0.00320833339355886
+        },
+        {
+          "frame": 2384,
+          "channel": "Homeward_Card",
+          "clip": -5582,
+          "time": 0.0023958333767950535
+        },
+        {
+          "frame": 2438,
+          "channel": "Homeward_Card",
+          "clip": -5580,
+          "time": 0
+        },
+        {
+          "frame": 2443,
+          "channel": "Homeward_Basin",
+          "clip": -5580,
+          "time": 0.003104166593402624
+        },
+        {
+          "frame": 2491,
+          "channel": "Homeward_Card",
+          "clip": -5582,
+          "time": 0.003479166654869914
+        },
+        {
+          "frame": 2512,
+          "channel": "Homeward_Basin",
+          "clip": -5582,
+          "time": 0.003104166593402624
+        }
+      ],
+      "observations": [
+        {
+          "frame": 2220,
+          "state": {
+            "actor": [
+              119.7415,
+              78.8521,
+              94.2646
+            ],
+            "map": true,
+            "visible": 15,
+            "camera": {
+              "id": -8846,
+              "position": [
+                119.7402,
+                80.5505,
+                90.9359
+              ],
+              "forward": [
+                0.0004,
+                -0.309,
+                0.9511
+              ],
+              "mask": -612353,
+              "enabled": true,
+              "near": 0.05000000074505806,
+              "far": 1000,
+              "fov": 45
+            }
+          }
+        }
+      ]
+    },
+    {
+      "source": "宿舍亮窗",
+      "samples": 340,
+      "startFrame": 3120,
+      "endFrame": 3459,
+      "maxGap": 1,
+      "taps": [
+        3125,
+        3231,
+        3338
+      ],
+      "onsets": [
+        {
+          "frame": 3120,
+          "channel": "Homeward_Rain",
+          "clip": -5588,
+          "time": 18.58329200744629
+        },
+        {
+          "frame": 3120,
+          "channel": "Homeward_Basin",
+          "clip": -5582,
+          "time": 0.687791645526886
+        },
+        {
+          "frame": 3125,
+          "channel": "Homeward_Card",
+          "clip": -5584,
+          "time": 0
+        },
+        {
+          "frame": 3170,
+          "channel": "Homeward_Basin",
+          "clip": -5580,
+          "time": 0.003083333373069763
+        },
+        {
+          "frame": 3179,
+          "channel": "Homeward_Card",
+          "clip": -5586,
+          "time": 0.0027083333116024733
+        },
+        {
+          "frame": 3230,
+          "channel": "Homeward_Rain",
+          "clip": -5588,
+          "time": 0.0494999997317791
+        },
+        {
+          "frame": 3231,
+          "channel": "Homeward_Card",
+          "clip": -5584,
+          "time": 0
+        },
+        {
+          "frame": 3236,
+          "channel": "Homeward_Basin",
+          "clip": -5580,
+          "time": 0.0028958332259207964
+        },
+        {
+          "frame": 3285,
+          "channel": "Homeward_Card",
+          "clip": -5586,
+          "time": 0.003000000026077032
+        },
+        {
+          "frame": 3305,
+          "channel": "Homeward_Basin",
+          "clip": -5582,
+          "time": 0.00320833339355886
+        },
+        {
+          "frame": 3338,
+          "channel": "Homeward_Card",
+          "clip": -5584,
+          "time": 0
+        },
+        {
+          "frame": 3369,
+          "channel": "Homeward_Basin",
+          "clip": -5580,
+          "time": 0.00320833339355886
+        },
+        {
+          "frame": 3392,
+          "channel": "Homeward_Card",
+          "clip": -5586,
+          "time": 0.0027916666585952044
+        },
+        {
+          "frame": 3435,
+          "channel": "Homeward_Basin",
+          "clip": -5580,
+          "time": 0.0036041666753590107
+        }
+      ],
+      "observations": [
+        {
+          "frame": 3120,
+          "state": {
+            "actor": [
+              120.8089,
+              78.8521,
+              97.6364
+            ],
+            "map": true,
+            "visible": 4,
+            "camera": {
+              "id": -8846,
+              "position": [
+                120.5092,
+                79.8161,
+                96.0396
+              ],
+              "forward": [
+                0.1754,
+                -0.309,
+                0.9347
+              ],
+              "mask": -612353,
+              "enabled": true,
+              "near": 0.05000000074505806,
+              "far": 1000,
+              "fov": 45
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

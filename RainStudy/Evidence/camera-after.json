@@ -1,0 +1,178 @@
+[
+  {
+    "cycle": 1,
+    "slots": [
+      "盆中双响",
+      "迟来一滴"
+    ],
+    "state": {
+      "pos": [
+        119.74,
+        78.852,
+        94.229
+      ],
+      "camera": [
+        119.74,
+        80.551,
+        90.9
+      ],
+      "forward": [
+        0,
+        -0.309,
+        0.951
+      ],
+      "near": 0.05000000074505806,
+      "mask": -612353,
+      "visible": [
+        "volume/Node-2",
+        "volume/Node-6",
+        "volume/Node-12",
+        "volume/Node-15",
+        "volume/Node-18",
+        "volume/Node-21",
+        "Model/BasinRipple",
+        "Model/Enamel bowl",
+        "Model/Rain surface",
+        "Model/Rolled blue rim",
+        "Model/CampusStructure",
+        "Model/RoofSkin",
+        "desk/Model",
+        "old-eaves/Model",
+        "walkway/Model"
+      ],
+      "solids": []
+    }
+  },
+  {
+    "cycle": 2,
+    "slots": [
+      "盆中双响",
+      "迟来一滴"
+    ],
+    "state": {
+      "pos": [
+        119.74,
+        78.852,
+        94.229
+      ],
+      "camera": [
+        119.74,
+        80.551,
+        90.9
+      ],
+      "forward": [
+        0,
+        -0.309,
+        0.951
+      ],
+      "near": 0.05000000074505806,
+      "mask": -612353,
+      "visible": [
+        "volume/Node-2",
+        "volume/Node-6",
+        "volume/Node-12",
+        "volume/Node-15",
+        "volume/Node-18",
+        "volume/Node-21",
+        "Model/BasinRipple",
+        "Model/Enamel bowl",
+        "Model/Rain surface",
+        "Model/Rolled blue rim",
+        "Model/CampusStructure",
+        "Model/RoofSkin",
+        "desk/Model",
+        "old-eaves/Model",
+        "walkway/Model"
+      ],
+      "solids": []
+    }
+  },
+  {
+    "cycle": 3,
+    "slots": [
+      "盆中双响",
+      "迟来一滴"
+    ],
+    "state": {
+      "pos": [
+        119.74,
+        78.852,
+        94.229
+      ],
+      "camera": [
+        119.74,
+        80.551,
+        90.9
+      ],
+      "forward": [
+        0,
+        -0.309,
+        0.951
+      ],
+      "near": 0.05000000074505806,
+      "mask": -612353,
+      "visible": [
+        "volume/Node-2",
+        "volume/Node-6",
+        "volume/Node-12",
+        "volume/Node-15",
+        "volume/Node-18",
+        "volume/Node-21",
+        "Model/BasinRipple",
+        "Model/Enamel bowl",
+        "Model/Rain surface",
+        "Model/Rolled blue rim",
+        "Model/CampusStructure",
+        "Model/RoofSkin",
+        "desk/Model",
+        "old-eaves/Model",
+        "walkway/Model"
+      ],
+      "solids": []
+    }
+  },
+  {
+    "cycle": 4,
+    "slots": [
+      "盆中双响",
+      "迟来一滴"
+    ],
+    "state": {
+      "pos": [
+        119.74,
+        78.852,
+        94.229
+      ],
+      "camera": [
+        119.74,
+        80.551,
+        90.9
+      ],
+      "forward": [
+        0,
+        -0.309,
+        0.951
+      ],
+      "near": 0.05000000074505806,
+      "mask": -612353,
+      "visible": [
+        "volume/Node-2",
+        "volume/Node-6",
+        "volume/Node-12",
+        "volume/Node-15",
+        "volume/Node-18",
+        "volume/Node-21",
+        "Model/BasinRipple",
+        "Model/Enamel bowl",
+        "Model/Rain surface",
+        "Model/Rolled blue rim",
+        "Model/CampusStructure",
+        "Model/RoofSkin",
+        "desk/Model",
+        "old-eaves/Model",
+        "walkway/Model"
+      ],
+      "solids": []
+    }
+  }
+]

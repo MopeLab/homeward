@@ -1,0 +1,9 @@
+{
+  "resourceId": "model-basin",
+  "modelType": 1,
+  "nodeCount": 5,
+  "sourceFiles": [
+    "meta.json",
+    "topology/model.glb"
+  ]
+}

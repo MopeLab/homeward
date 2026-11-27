@@ -21,14 +21,14 @@ def step(tag,*args,workspace=False):
     return data
 
 if "sync" in sys.argv:
-    rain=ROOT/"RainStudy"
+    rain=ROOT/"Game"
     sync("Postcard.lua",[rain/"Card/RainCard.lua"])
     sync("RainHost.lua",[rain/"Audio/RainHost.lua",rain/"Runtime/locations.lua"])
     sync("BakedColors.lua",[rain/"Scenery/BakedColors.lua"])
     sync("ShoreSteam.lua",[ROUTE/"Steam/ShoreSteam.lua"])
 if "bind" in sys.argv:
     keys={**{k.lower():k for k in [f"S0{s}{beat}" for s in range(3,7) for beat in "AB"]},"market":"MarketBed","dusk":"DuskBed"}
-    binds=json.loads((ROOT/"RainStudy/Audio/bindings.json").read_text(encoding="utf-8"))
+    binds=json.loads((ROOT/"Game/Audio/bindings.json").read_text(encoding="utf-8"))
     for name,uri in receipt("03-resource-uris.json").items():binds[keys[name.removeprefix("audio-route-")]]={"uri":uri}
     a=receipt("03-shore-assembly.json")["result"]
     uri=json.loads((PF/"assets/effects/effect-shore-steam/package/resource.json").read_text(encoding="utf-8-sig"))["uri"]
@@ -43,7 +43,7 @@ if "build" in sys.argv:
     b=step("build","authoring","prefab","build",PREFAB,workspace=True)
     out=step("archive","authoring","result","archive",PREFAB,"--name","听见来处两岸航线",workspace=True)
 if "export" in sys.argv:
-    step("export","authoring","prefab","export",PREFAB,"--out",str(ROOT/"RainStudy/Homeward-shores.wprefab"),workspace=True)
+    step("export","authoring","prefab","export",PREFAB,"--out",str(ROOT/"Game/Homeward-shores.wprefab"),workspace=True)
 if "deploy" in sys.argv:
     old=sys.argv[sys.argv.index("deploy")+1]
     # The first test replaces the shared 02 root; its saved scene and editable package are backed up.

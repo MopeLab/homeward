@@ -1,14 +1,14 @@
 # 01 手机反馈修订 · 2026-11-24
 用户已在手机验证基本交互。用户报告试听时偶发只剩蓝色背景和 HUD，拖动视角或移动后即可恢复。尚无陌生玩家跨柱听感反馈。
-旧版固定机位证据 RainStudy/Evidence/desk-before.png。原始图集可见散粒，旧烘焙采样 12；本轮使用 256 次、限制间接极亮样本、降低底材噪声对比并将每张图的边长加倍。保留完整 GI。
+旧版固定机位证据 Game/Evidence/desk-before.png。原始图集可见散粒，旧烘焙采样 12；本轮使用 256 次、限制间接极亮样本、降低底材噪声对比并将每张图的边长加倍。保留完整 GI。
 旧默认 MeshCollider 位于可动的 BasinRipple 上；铁皮试音实际在缩放整个 campus/Model（含墙柱、碰撞）。计划只让独立棚顶薄片和盆内水纹作视觉反馈，物理保留在静态墙柱与盆的碰撞体上。以上是明确的作者配置问题；手机短暂蓝屏的因果仍待真机复测。
 后台实例 awc-1068c9b6-6608-4d8b-a1d3-f35b2324b7ff，作者目标 workspace_7y98mqge/homeward-rain。旧运行 6aa67f84-967e-455b-aca8-8a44bc008d95，原主场景根 354582227。
 
 ## 完成与恢复点
 
-1. 四张静态图重新烘焙。运行时导入后边长为 1024，砖面单独分配贴图空间。五个导入模型根在槽内还原 Blender 烘焙位置和比例，修正桌凳脚与地面阴影错位。固定机位 PNG 在 RainStudy/Evidence/desk-before.png 和 desk-after.png。
+1. 四张静态图重新烘焙。运行时导入后边长为 1024，砖面单独分配贴图空间。五个导入模型根在槽内还原 Blender 烘焙位置和比例，修正桌凳脚与地面阴影错位。固定机位 PNG 在 Game/Evidence/desk-before.png 和 desk-after.png。
 2. 棚顶和墙柱拆分，RoofSkin 只作表现，RoofContact 复制同一网格的静止碰撞。盆内水面和水纹不参与碰撞。重开最终工程后实测固定棚顶网格存在、棚片正常绘制且零碰撞，水纹无碰撞。
-3. 归档 ku3xkay4byznfqw1.wprefab 已导入原场景，场景根 -1185704754。作者修订、包 SHA256 和导出文件见[验收记录](../RainStudy/Evidence/README.md)。从磁盘重开后运行 4778bfde-b4e8-43d8-9d22-ece629c5fc19，烘焙面 5/0。实际从出生点走至盆边，持有两格卡时连续四轮点按完毕，循环末相机位置、朝向及 15 个可见渲染器稳定。临时探针残余为零。最后保存 clean-rain-aligned-reopened-save，committed，hasUnsavedChanges=false，专用实例已退出。
+3. 归档 ku3xkay4byznfqw1.wprefab 已导入原场景，场景根 -1185704754。作者修订、包 SHA256 和导出文件见[验收记录](../Game/Evidence/README.md)。从磁盘重开后运行 4778bfde-b4e8-43d8-9d22-ece629c5fc19，烘焙面 5/0。实际从出生点走至盆边，持有两格卡时连续四轮点按完毕，循环末相机位置、朝向及 15 个可见渲染器稳定。临时探针残余为零。最后保存 clean-rain-aligned-reopened-save，committed，hasUnsavedChanges=false，专用实例已退出。
 4. 下一次读新版手机实测。旧版用户报告拖动或移动可恢复，桌面原版与新版均未复现，因果未定。保留两组 camera JSON 以便对照。陌生玩家外放听感另记。
 
 ## 人声与音效的触发时刻
@@ -17,4 +17,4 @@
 
 在铁皮、接雨盆、宿舍亮窗各停住，调用正式试听按钮回调三次，每次等待自动第二拍。每处连续观测 340 个逻辑帧，最大帧差均为 1，记录到 18 次卡声轨起播。各采样窗口内相机姿态、投影参数、角色位置和地图激活状态均稳定，可见网格渲染器分别为 16、15、4。此处采样的是 Unity 状态，未捕获手机最终合成画面，未覆盖开场家人语音首次加载。此次使用临时测试脚本，无工程修改，实例已停止。下次优先区分蓝屏发生在手指点按当下，还是已经松手后的自动第二拍或环境音。
 
-[逐帧采样结果](../RainStudy/Evidence/audio-camera-frames.json) · [采样脚本](./01-audio-camera-probe.js)
+[逐帧采样结果](../Game/Evidence/audio-camera-frames.json) · [采样脚本](./01-audio-camera-probe.js)

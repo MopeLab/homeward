@@ -23,7 +23,7 @@ function scope:GetGameObjectByPath(path)
 end
 package.preload["official.core.runtime_scope"]=function() return {from=function() return scope end} end
 package.preload["official.core.logger"]=function() return {create=function() return {warnOnce=function() end} end} end
-dofile("RainStudy/Card/RainCard.lua")
+dofile("Game/Card/RainCard.lua")
 local function tick(delta)
     elapsed=elapsed+delta
     CS.UnityEngine.Time.realtimeSinceStartup=elapsed

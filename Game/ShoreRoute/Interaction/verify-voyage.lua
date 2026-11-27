@@ -25,7 +25,8 @@ function scope:GetGameObjectByPath(path)
     return node
 end
 local U = {Time=timer,Vector3=vector,Quaternion={LookRotation=function(v) return v end},UI={Text="text",Button="button"}}
-local engine = {UnityEngine=U,DouyinActorService={GetLocalActor=function() return actor end}}
+local engine = {UnityEngine=U,DouyinActorService={GetLocalActor=function() return actor end},
+    DouyinCameraService={GetPitch=function() return 0 end}}
 local function loadBound(env,path)
     setmetatable(env,{__index=_G})
     env.CS,env.typeof = engine,function(v) return v end
@@ -36,8 +37,8 @@ local function loadBound(env,path)
     end
     setfenv(assert(loadfile(path)),env)()
 end
-loadBound(host,"RainStudy/Runtime/locations.lua")
-loadBound(card,"RainStudy/Card/RainCard.lua")
+loadBound(host,"Game/Runtime/locations.lua")
+loadBound(card,"Game/Card/RainCard.lua")
 function host.PlayBeat(source,beat) table.insert(played,source..beat); host.HostBeat(source,beat); return 2 end
 function host.PlayShoreCue(destination) table.insert(cues,destination); return 2 end
 function host.SetMix() end

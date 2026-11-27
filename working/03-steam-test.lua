@@ -20,7 +20,7 @@ package.preload["official.effect.playback"] = function()
         return nil,"effect-not-ready"
     end}
 end
-dofile("RainStudy/ShoreRoute/Steam/ShoreSteam.lua")
+dofile("Game/ShoreRoute/Steam/ShoreSteam.lua")
 Update()
 source, beat, began = "S04", "A", 0
 Update()

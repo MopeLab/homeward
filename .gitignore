@@ -1,6 +1,6 @@
 /OfficialDocs
 
-# 剪辑用的原始录音留在本机，游戏实际使用的版本在 RainStudy/Audio/assets。
+# 剪辑用的原始录音留在本机，游戏实际使用的版本在 Game/Audio/assets。
 /SFX/
 /Voice/
 __pycache__/

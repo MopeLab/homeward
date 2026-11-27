@@ -5,7 +5,7 @@ from zipfile import ZipFile
 version = os.environ.get("RIVER_VERSION", "river1")
 scene = PROJECT / "scene.data"
 ripples=version.startswith("ripples")
-export = ROOT / ("RainStudy/Homeward-ripples.wprefab" if ripples else "RainStudy/Homeward-river.wprefab")
+export = ROOT / ("Game/Homeward-ripples.wprefab" if ripples else "Game/Homeward-river.wprefab")
 def receipt(name):
     return json.loads((WORK / name).read_text(encoding="utf-8-sig"))
 def step(name,*args,workspace=False):
@@ -20,7 +20,7 @@ def sync(name,*sources):
     dest=PF/"scripts"/name
     lines=dest.read_text(encoding="utf-8-sig").splitlines()
     assert lines[0].startswith("---@id ") and lines[1]=="---@referenceName "+name
-    dest.write_text("\n".join(lines[:2]+[(ROOT/"RainStudy"/p).read_text(encoding="utf-8") for p in sources]),encoding="utf-8")
+    dest.write_text("\n".join(lines[:2]+[(ROOT/"Game"/p).read_text(encoding="utf-8") for p in sources]),encoding="utf-8")
 
 if "assemble" in sys.argv:
     boat=receipt("03-river-uri-harbor-boat.json")["uri"]

@@ -1,4 +1,4 @@
-// Author origin: RainStudy/ShoreRoute, at RainStudy z=10.8 m.
+// Scene origin: ShoreRoute under the RainStudy node, at root-local z=10.8 m.
 // The saved rain map covers |x| <= 10.5 and RainStudy z=-8.5..16.5.
 world_map_bounds = [90, 100];
 world_seed = 1124;

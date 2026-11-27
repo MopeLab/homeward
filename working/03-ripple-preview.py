@@ -37,7 +37,7 @@ try:
 finally:
     t.js(f"CS.UnityEngine.Time.timeScale={float(old)};return true;")
 dur=[max(25,round((b-a)*1000)) for a,b in zip(times,times[1:])]
-out=ROOT/"RainStudy/Evidence/03-river-waves.webp"
+out=ROOT/"Game/Evidence/03-river-waves.webp"
 frames[0].save(out,format="WEBP",save_all=True,append_images=frames[1:],duration=dur+[dur[-1]],loop=0,quality=88)
 with Image.open(out) as image: assert image.n_frames==len(frames)
 save(t.output/"check.json",dict(runtime=rid,render=info,view=view,times=times,frames=len(frames)))

@@ -9,7 +9,7 @@ import route_cli as cli
 
 ROOT, WORK, PF, WS, PROJECT = cli.ROOT, cli.WORK, cli.PF, cli.WS, cli.PROJECT
 PREFAB = cli.PREFAB
-RAIN = ROOT / "RainStudy"
+RAIN = ROOT / "Game"
 UI = PF / "assets/uis/ui-homeward-card"
 CARD = RAIN / "Card/ui-homeward-card"
 SOUNDS = {

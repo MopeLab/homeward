@@ -10,7 +10,7 @@ import route_cli as cli
 
 
 ROOT, WORK, PF, PROJECT = cli.ROOT, cli.WORK, cli.PF, cli.PROJECT
-RAIN = ROOT / "RainStudy"
+RAIN = ROOT / "Game"
 ASSETS = RAIN / "Audio/assets"
 PREFAB = cli.PREFAB
 EXPORT = RAIN / "Homeward-content-voice.wprefab"

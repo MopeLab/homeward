@@ -9,8 +9,9 @@ local actor={isLocal=true,position=vec(0,0,0),rotation={}}
 function actor:Teleport(p,r) self.position,self.rotation=p,r end
 local scope={GetRuntimeHostRoot=function() return {transform=frame} end}
 package.preload["official.core.runtime_scope"]=function() return {from=function() return scope end} end
-CS={UnityEngine={Time=clock,Vector3=vec,Quaternion={LookRotation=function(v) return v end}},DouyinActorService={GetLocalActor=function() return actor end}}
-dofile("RainStudy/Runtime/locations.lua")
+CS={UnityEngine={Time=clock,Vector3=vec,Quaternion={LookRotation=function(v) return v end}},DouyinActorService={GetLocalActor=function() return actor end},
+    DouyinCameraService={GetPitch=function() return 0 end}}
+dofile("Game/Runtime/locations.lua")
 local function tick(n)
     for _=1,n or 1 do clock.time=clock.time+.08;HostUpdate() end
 end

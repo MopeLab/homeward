@@ -29,16 +29,16 @@
 
 | 共用信息 | 当前记录 |
 | --- | --- |
-| 世界名、项目 ID、实际项目目录、workspaceId、prefabId、主场景及源码入口 | 听见来处；编辑器项目目录 `%APPDATA%\AI World Creator\projects\project-268b3d7f-1770-4720-8617-933ab1a1fe14`，主场景 `scene.data`；作者工作区 `ai-sessions/workspace_7y98mqge`，WPrefab `wprefabs/homeward-rain`；仓库源码 [RainStudy](./RainStudy)。 |
-| 回信桌、航线、声画内容的编辑位置；声源编号、三格样卡及已绑定样本的位置 | 作者根 n1，`ReplyDesk` n7，`ShoreRoute` n9，地图 n11，UI 和本局草稿 n48。02 可从 n48 的 `Postcard.lua / GetDraft()` 读取当前卡的副本。03 的航线入口使用 n9。04 使用 [声源编号](./RainStudy/Audio/README.md)、[已绑定音轨](./RainStudy/Audio/bindings.json) 和 [共用卡面](./RainStudy/Card)。[三格样卡、保存版本与证据](./RainStudy/Evidence/README.md)。01 已结束装配。 |
+| 世界名、项目 ID、实际项目目录、workspaceId、prefabId、主场景及源码入口 | 听见来处；编辑器项目目录 `%APPDATA%\AI World Creator\projects\project-268b3d7f-1770-4720-8617-933ab1a1fe14`，主场景 `scene.data`；作者工作区 `ai-sessions/workspace_7y98mqge`，WPrefab `wprefabs/homeward-rain`；仓库源码 [Game/](./Game/)。 |
+| 回信桌、航线、声画内容的编辑位置；声源编号、三格样卡及已绑定样本的位置 | 作者根 n1，`ReplyDesk` n7，`ShoreRoute` n9，地图 n11，UI 和本局草稿 n48。02 可从 n48 的 `Postcard.lua / GetDraft()` 读取当前卡的副本。03 的航线入口使用 n9。04 使用 [声源编号](./Game/Audio/README.md)、[已绑定音轨](./Game/Audio/bindings.json) 和 [共用卡面](./Game/Card)。[三格样卡、保存版本与证据](./Game/Evidence/README.md)。01 已结束装配。 |
 | 已确认的场景模式；如使用星光，记录授权范围、任务回执及结算情况 | 用户已选高品质模式。当前样段采用自制几何、烘焙和声音，无收费模型或 PCG 任务。 |
-| 整局候选版与最终录制版本 | 05 桌面验收通过。06 使用原主场景根 `766109963`、归档 `ffynlcjxtl9fa75t`。[录制版、快照与实测功能](./RainStudy/Evidence/05-playtest.md) |
+| 整局候选版与最终录制版本 | 05 桌面验收通过。06 使用原主场景根 `766109963`、归档 `ffynlcjxtl9fa75t`。[录制版、快照与实测功能](./Game/Evidence/05-playtest.md) |
 
 | 线程 | 状态 | 认领线程 | 产物、版本、实测证据、待办及交给谁 |
 | --- | --- | --- | --- |
-| 01 | 手机交互通过，画面修订已保存 | 01 雨棚 · 01a206d9-117b-7490-9034-e359be2a1d76 | 用户确认手机交互正常。02 可接手单人草稿与回信桌，04 可制作内容。03 等陌生玩家外放听出跨柱变化。新版已修正纹理与可动物件碰撞，点按时偶发只剩天空仍待新版手机复测。[验收记录](./RainStudy/Evidence/README.md) · [续作笔记](./working/01-mobile-revision.md) |
-| 02 | 同机传卡已保存并通过桌面试玩，待真人递机 | 02 回信桌 · 01a20dea-6760-7fa1-b914-d693ad271076 | 装配已结束。原主场景新根 1978400842，归档 fyzfa20porblnsk7，磁盘重开已核对入口。05 可从回信桌「合写一封」验收同机流程；两对真人手机递机待测。06 可按同机方式准备说明。[交接与复现路径](./RainStudy/Evidence/02-reply-desk.md) · [工作笔记](./working/02-reply-desk.md) |
-| 03 | 动态水纹已保存，桌面重开通过 | 03 两岸与返航 | 当前主场景根 766109963，归档 ffynlcjxtl9fa75t，已结束装配。暮路船俯拍、触水回船和换岸通过。[动态水纹与动图](./RainStudy/Evidence/03-river-ripples.md) · [水岸修订](./RainStudy/Evidence/03-river-revision.md) · [完整航线](./RainStudy/Evidence/03-shore-route.md)。手机外放听感待补。 |
-| 04 | 四条指定音效已保存，桌面复测通过 | 04 七组声画内容 | 已结束装配。主场景根 1472798171，归档 pta9cih1x2r6hmg2。四条音效保留原片长，S02A 19.09 秒已通过完整试听、主动切 B、盖章回放与邮戳跳过。05 可接手同一保存版。[声画、绑定与证据](./RainStudy/Evidence/04-content.md) · [工作笔记](./working/04-content.md) |
-| 05 | 本地验收已交付，真人盲测待安排 | 05 整局试玩 · 01a21e04-d7f3-7290-b518-2ac777c7b792 | 06 可按指定版本录制单人两岸、十四拍与同机传卡。低音量、静音、换格、重播及重开合写均在桌面通过。真人 0 人、0 对；手机外放待验。[交接](./RainStudy/Evidence/05-playtest.md) · [工作笔记](./working/05/README.md) |
+| 01 | 手机交互通过，画面修订已保存 | 01 雨棚 · 01a206d9-117b-7490-9034-e359be2a1d76 | 用户确认手机交互正常。02 可接手单人草稿与回信桌，04 可制作内容。03 等陌生玩家外放听出跨柱变化。新版已修正纹理与可动物件碰撞，点按时偶发只剩天空仍待新版手机复测。[验收记录](./Game/Evidence/README.md) · [续作笔记](./working/01-mobile-revision.md) |
+| 02 | 同机传卡已保存并通过桌面试玩，待真人递机 | 02 回信桌 · 01a20dea-6760-7fa1-b914-d693ad271076 | 装配已结束。原主场景新根 1978400842，归档 fyzfa20porblnsk7，磁盘重开已核对入口。05 可从回信桌「合写一封」验收同机流程；两对真人手机递机待测。06 可按同机方式准备说明。[交接与复现路径](./Game/Evidence/02-reply-desk.md) · [工作笔记](./working/02-reply-desk.md) |
+| 03 | 动态水纹已保存，桌面重开通过 | 03 两岸与返航 | 当前主场景根 766109963，归档 ffynlcjxtl9fa75t，已结束装配。暮路船俯拍、触水回船和换岸通过。[动态水纹与动图](./Game/Evidence/03-river-ripples.md) · [水岸修订](./Game/Evidence/03-river-revision.md) · [完整航线](./Game/Evidence/03-shore-route.md)。手机外放听感待补。 |
+| 04 | 四条指定音效已保存，桌面复测通过 | 04 七组声画内容 | 已结束装配。主场景根 1472798171，归档 pta9cih1x2r6hmg2。四条音效保留原片长，S02A 19.09 秒已通过完整试听、主动切 B、盖章回放与邮戳跳过。05 可接手同一保存版。[声画、绑定与证据](./Game/Evidence/04-content.md) · [工作笔记](./working/04-content.md) |
+| 05 | 本地验收已交付，真人盲测待安排 | 05 整局试玩 · 01a21e04-d7f3-7290-b518-2ac777c7b792 | 06 可按指定版本录制单人两岸、十四拍与同机传卡。低音量、静音、换格、重播及重开合写均在桌面通过。真人 0 人、0 对；手机外放待验。[交接](./Game/Evidence/05-playtest.md) · [工作笔记](./working/05/README.md) |
 | 06 | 待认领 | — | 等 05 交出录制版本与实测功能清单 |

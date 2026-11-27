@@ -20,6 +20,6 @@
 
 以 S02B 为例，`RainCard.lua` 的 `catalogue.S02.B` 给出短标题和字幕。播放器接收 `PlayBeat("S02","B")` 并返回片长。音频引用在 `../Audio/bindings.json` 的 `S02B`，动作入口在 `../Runtime/locations.lua` 的 `HostBeat`。任一格选择 S02 时，显示该格的 `slot1Basin`、`slot2Basin` 或 `slot3Basin`。三格使用相同构图，顺序随玩家草稿。
 
-图像来自本次生成的铁皮、盆、窗三幅钢笔淡彩速写，统一深蓝墨色和留白。原图集是 `sketch-atlas.png`，正式 UI 使用 `ui-homeward-card/images/` 中造世界切出的三幅透明 PNG。04 更换同名图后可沿用控件路径。新增岸上物件时，将新图片加入 `build_layout.py` 的三格图层，并在 Lua 的 `catalogue` 和 `artNames` 加相应条目。运行 `python RainStudy/Card/build_layout.py` 更新横竖屏 HTML，然后在原作者资源 check、archive，并更新已有实例。
+图像来自本次生成的铁皮、盆、窗三幅钢笔淡彩速写，统一深蓝墨色和留白。原图集是 `sketch-atlas.png`，正式 UI 使用 `ui-homeward-card/images/` 中造世界切出的三幅透明 PNG。04 更换同名图后可沿用控件路径。新增岸上物件时，将新图片加入 `build_layout.py` 的三格图层，并在 Lua 的 `catalogue` 和 `artNames` 加相应条目。运行 `python Game/Card/build_layout.py` 更新横竖屏 HTML，然后在原作者资源 check、archive，并更新已有实例。
 
 三幅并排的纸卡及收声 HUD 使用自写 HTML，两种方向共享控件名。归档时横竖屏检查均完成，51 个控件节点、9 个图片节点。`verify_card.lua` 用模拟按钮和播放器执行实际 Lua 的状态回归，包含两种按序回放、满卡确认与取消路径中的草稿保护、空白纸面、未就绪宿主和监听清理。真机外放与点按记录见项目交接表。

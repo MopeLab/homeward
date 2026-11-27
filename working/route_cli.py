@@ -7,7 +7,7 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 WORK = ROOT / "working"
-ROUTE = ROOT / "RainStudy/ShoreRoute"
+ROUTE = ROOT / "Game/ShoreRoute"
 EDITOR = Path(os.environ["LOCALAPPDATA"]) / "Programs/造世界编辑器"
 PROJECT = Path(os.environ["APPDATA"]) / "AI World Creator/projects/project-268b3d7f-1770-4720-8617-933ab1a1fe14"
 WSID = "workspace_7y98mqge"

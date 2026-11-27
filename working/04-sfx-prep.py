@@ -6,7 +6,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-ASSETS = ROOT / "RainStudy/Audio/assets"
+ASSETS = ROOT / "Game/Audio/assets"
 TAKES = {
     "S02A": ("audio-basin-drips-recorded", "碗中雨滴"),
     "S03B": ("audio-shutter-stop-recorded", "卷门顿住"),

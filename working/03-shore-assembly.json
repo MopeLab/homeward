@@ -1,0 +1,270 @@
+{
+  "changed": {
+    "nodes": 80,
+    "components": 62,
+    "scripts": 2,
+    "resources": 0
+  },
+  "summary": "Updated 80 nodes, 62 components, 2 scripts and 0 resources",
+  "result": {
+    "records": {
+      "HarborPier": [
+        {
+          "handle": "n64",
+          "name": "HarborPier",
+          "componentTypes": [
+            "editorOnlyData",
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        }
+      ],
+      "CentralBoat": [
+        {
+          "handle": "n65",
+          "name": "CentralBoat",
+          "componentTypes": [
+            "editorOnlyData",
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n66",
+          "name": "BowGlass",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n67",
+          "name": "FerryTimber",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n68",
+          "name": "SternGlass",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        }
+      ],
+      "MarketBoat": [
+        {
+          "handle": "n69",
+          "name": "MarketBoat",
+          "componentTypes": [
+            "editorOnlyData",
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n70",
+          "name": "BowGlass",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n71",
+          "name": "FerryTimber",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n72",
+          "name": "SternGlass",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        }
+      ],
+      "DuskBoat": [
+        {
+          "handle": "n73",
+          "name": "DuskBoat",
+          "componentTypes": [
+            "editorOnlyData",
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n74",
+          "name": "BowGlass",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n75",
+          "name": "FerryTimber",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n76",
+          "name": "SternGlass",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        }
+      ],
+      "MarketBank": [
+        {
+          "handle": "n77",
+          "name": "MarketBank",
+          "componentTypes": [
+            "editorOnlyData",
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        }
+      ],
+      "DuskBank": [
+        {
+          "handle": "n78",
+          "name": "DuskBank",
+          "componentTypes": [
+            "editorOnlyData",
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        }
+      ],
+      "MarketShutter": [
+        {
+          "handle": "n79",
+          "name": "MarketShutter",
+          "componentTypes": [
+            "editorOnlyData",
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n80",
+          "name": "ShutterEdge",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n81",
+          "name": "ShutterFrame",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        }
+      ],
+      "MarketSteamer": [
+        {
+          "handle": "n82",
+          "name": "MarketSteamer",
+          "componentTypes": [
+            "editorOnlyData",
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n83",
+          "name": "SteamerHearth",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n84",
+          "name": "SteamerLid",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        }
+      ],
+      "DuskBicycle": [
+        {
+          "handle": "n85",
+          "name": "DuskBicycle",
+          "componentTypes": [
+            "editorOnlyData",
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n86",
+          "name": "BellCap",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n87",
+          "name": "BicycleFrame",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        }
+      ],
+      "DuskDoor": [
+        {
+          "handle": "n88",
+          "name": "DuskDoor",
+          "componentTypes": [
+            "editorOnlyData",
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n89",
+          "name": "DoorFrame",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "handle": "n90",
+          "name": "DoorLeaf",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        }
+      ]
+    },
+    "spout": "n99",
+    "steam": {
+      "handle": "00a13fcf-1cec-4416-bcc8-9fa02a655940",
+      "id": "00a13fcf-1cec-4416-bcc8-9fa02a655940",
+      "filePath": "scripts/ShoreSteam.lua",
+      "referenceName": "ShoreSteam.lua"
+    },
+    "baked": [
+      "n9:s:adf88912-b803-4df4-9604-aefdce797cdc"
+    ]
+  },
+  "revision": "c6422b235153f58e186e10c69c46f77ba52a93da7954dc1969a1a6b37b032743"
+}

@@ -1,0 +1,183 @@
+{
+  "Rain": {
+    "clip": -11436,
+    "name": "",
+    "length": 24,
+    "cursor": 1541222,
+    "gain": 0.44839999079704285,
+    "playing": true,
+    "loop": true
+  },
+  "S01A": {
+    "clip": "",
+    "duration": 2.45,
+    "caption": "细雨敲在铁皮上。",
+    "cursorRange": [
+      41908,
+      230385
+    ],
+    "movement": "RoofSkin",
+    "ambient": "Rain"
+  },
+  "S01B": {
+    "clip": "",
+    "duration": 2.65,
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "cursorRange": [
+      394,
+      245386
+    ],
+    "movement": "RoofSkin",
+    "ambient": "Rain"
+  },
+  "S02A": {
+    "clip": "",
+    "duration": 2.4,
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "cursorRange": [
+      36010,
+      225965
+    ],
+    "movement": "BasinRipple",
+    "ambient": "Rain"
+  },
+  "S02B": {
+    "clip": "",
+    "duration": 2.9,
+    "caption": "等了半晌，盆心又响一声。",
+    "cursorRange": [
+      5347,
+      264192
+    ],
+    "movement": "BasinRipple",
+    "ambient": "Rain"
+  },
+  "Market": {
+    "clip": -11438,
+    "name": "",
+    "length": 24,
+    "cursor": 143818,
+    "gain": 0.3840000033378601,
+    "playing": true,
+    "loop": true
+  },
+  "S03A": {
+    "clip": "",
+    "duration": 2.6,
+    "caption": "左手边，卷门的链条绷紧。",
+    "cursorRange": [
+      161515,
+      249600
+    ],
+    "movement": "ShutterEdge",
+    "ambient": "Market"
+  },
+  "S03B": {
+    "clip": "",
+    "duration": 2.7,
+    "caption": "门沿上移，顿住时轻颤。",
+    "cursorRange": [
+      5126,
+      249994
+    ],
+    "movement": "ShutterEdge",
+    "ambient": "Market"
+  },
+  "S04A": {
+    "clip": "",
+    "duration": 2.35,
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "cursorRange": [
+      39491,
+      216016
+    ],
+    "movement": "SteamerLid",
+    "ambient": "Market"
+  },
+  "S04B": {
+    "clip": "",
+    "duration": 2.75,
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "cursorRange": [
+      9696,
+      254371
+    ],
+    "movement": "SteamerLid",
+    "ambient": "Market"
+  },
+  "Dusk": {
+    "clip": -11440,
+    "name": "",
+    "length": 24,
+    "cursor": 144211,
+    "gain": 0.3840000033378601,
+    "playing": true,
+    "loop": true
+  },
+  "S05A": {
+    "clip": "",
+    "duration": 2.5,
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "cursorRange": [
+      35011,
+      239875
+    ],
+    "movement": "BellCap",
+    "ambient": "Dusk"
+  },
+  "S05B": {
+    "clip": "",
+    "duration": 3.1,
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "cursorRange": [
+      5107,
+      293011
+    ],
+    "movement": "BellCap",
+    "ambient": "Dusk"
+  },
+  "S06A": {
+    "clip": "",
+    "duration": 2.55,
+    "caption": "坡上的钥匙串碰响，停在锁齿上。",
+    "cursorRange": [
+      86301,
+      244605
+    ],
+    "movement": "DoorLeaf",
+    "ambient": "Dusk"
+  },
+  "S06B": {
+    "clip": "",
+    "duration": 2.65,
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "cursorRange": [
+      4858,
+      250051
+    ],
+    "movement": "DoorLeaf",
+    "ambient": "Dusk"
+  },
+  "S07A": {
+    "clip": "",
+    "duration": 2.449,
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "cursorRange": [
+      134861,
+      221165
+    ],
+    "movement": null,
+    "ambient": "Rain"
+  },
+  "S07B": {
+    "clip": "",
+    "duration": 3.0,
+    "caption": "楼梯间的脚步渐渐远去。",
+    "cursorRange": [
+      9927,
+      283440
+    ],
+    "movement": null,
+    "ambient": "Rain"
+  }
+}

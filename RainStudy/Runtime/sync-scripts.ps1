@@ -16,6 +16,9 @@ if ($Part -eq 'Card') {
 } else {
     $fileName = "$Part.lua"
     $sourceFiles = @(Join-Path $runtimeSource "../Scenery/$fileName")
+    if ($Part -eq 'BakedColors') {
+        $sourceFiles += Join-Path $runtimeSource '../ShoreRoute/River/river-display.lua'
+    }
 }
 $target = Join-Path $PrefabRoot "scripts/$fileName"
 $current = [IO.File]::ReadAllLines($target)

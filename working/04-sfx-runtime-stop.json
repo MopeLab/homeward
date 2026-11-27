@@ -1,0 +1,24 @@
+{
+  "runtimeId": "4c2c2737-c6a3-4471-96f5-51934d88aa85",
+  "status": "not_started",
+  "sampledAt": "2026-11-27T13:48:52.162Z",
+  "diagnostic": null,
+  "source": null,
+  "frameCount": 9389,
+  "frameState": {
+    "acceptingActivity": true,
+    "strictSuspensionAvailable": true,
+    "activityReasons": [],
+    "cadenceMode": "responsive",
+    "cadenceReasons": [],
+    "logicFramesPerSecond": 20,
+    "renderFrameInterval": 1,
+    "mainLoopState": "running",
+    "suspendReasons": [],
+    "suspensionDisabled": false,
+    "debugFrameLockActive": false
+  },
+  "runtimeMemory": {
+    "wasmLinearBytes": 540213248
+  }
+}

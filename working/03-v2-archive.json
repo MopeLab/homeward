@@ -1,0 +1,26 @@
+{
+  "type": "wprefab",
+  "artifactId": "homeward-rain",
+  "revisionId": "external:automation:5ad32035-b9d7-4c08-9043-28cb9b671d24:f05200341ec9d31f1bb53eb4527328f0816c5c9af297a26b8019bb28d16db27a:f05200341ec9d31f1bb53eb4527328f0816c5c9af297a26b8019bb28d16db27a",
+  "createdAtUtc": "2026-11-26T19:53:43.320Z",
+  "artifact": {
+    "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAoKzFbzyuPWSZhiJM1kV60rEwa67IzF6emT_e2vT36FsxPNHcX7DnWL7PMIZW7bCd/voe53ae13koo3pbf.wprefab",
+    "displayName": "听见来处两岸航线",
+    "summary": "homeward-rain",
+    "hasRuntimeScript": true,
+    "hasAudio": true,
+    "hasExpandableAssets": true,
+    "metadata": {
+      "capacity": 67879,
+      "faceCount": 51063,
+      "logicalCenter": [
+        0,
+        1.0399999618530273,
+        -25.750000381469725
+      ],
+      "rigged": false
+    },
+    "thumbnailUri": "tos-cn-i-c2ox06qgwk/aigc_editor/MS4wLjABAAAAoKzFbzyuPWSZhiJM1kV60rEwa67IzF6emT_e2vT36FsxPNHcX7DnWL7PMIZW7bCd/b8a9c50bd75b440a82e26f17699aebc0.png"
+  },
+  "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAoKzFbzyuPWSZhiJM1kV60rEwa67IzF6emT_e2vT36FsxPNHcX7DnWL7PMIZW7bCd/voe53ae13koo3pbf.wprefab"
+}

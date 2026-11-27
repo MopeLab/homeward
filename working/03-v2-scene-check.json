@@ -1,0 +1,587 @@
+{
+  "ok": true,
+  "status": "completed",
+  "result": {
+    "renderers": [
+      {
+        "name": "Node-2",
+        "parent": "water_strip",
+        "position": [
+          0,
+          0,
+          10.8
+        ],
+        "bounds": [
+          88,
+          0.12,
+          43.5
+        ],
+        "center": [
+          0,
+          -0.76,
+          38.25
+        ],
+        "collision": false,
+        "material": "EnvLit_AI_Mat",
+        "emission": 0
+      },
+      {
+        "name": "Node-4",
+        "parent": "water_strip",
+        "position": [
+          0,
+          0,
+          10.8
+        ],
+        "bounds": [
+          33.5,
+          0.12,
+          25
+        ],
+        "center": [
+          -27.25,
+          -0.76,
+          4
+        ],
+        "collision": false,
+        "material": "EnvLit_AI_Mat",
+        "emission": 0
+      },
+      {
+        "name": "Node-6",
+        "parent": "water_strip",
+        "position": [
+          0,
+          0,
+          10.8
+        ],
+        "bounds": [
+          33.5,
+          0.12,
+          25
+        ],
+        "center": [
+          27.25,
+          -0.76,
+          4
+        ],
+        "collision": false,
+        "material": "EnvLit_AI_Mat",
+        "emission": 0
+      },
+      {
+        "name": "HarborPier",
+        "parent": "ShoreRoute",
+        "position": [
+          0,
+          0,
+          10.8
+        ],
+        "bounds": [
+          2.17,
+          1.31,
+          2.25
+        ],
+        "center": [
+          -0.025,
+          -0.385,
+          11.65
+        ],
+        "collision": true,
+        "material": "EnvLit_AI_Mat",
+        "emission": 1
+      },
+      {
+        "name": "BowGlass",
+        "parent": "CentralBoat",
+        "position": [
+          0,
+          0,
+          14.52
+        ],
+        "bounds": [
+          0.174,
+          0.24,
+          0.174
+        ],
+        "center": [
+          -0.65,
+          0.66,
+          15.79
+        ],
+        "collision": false,
+        "material": "EnvLit_AI_Mat",
+        "emission": 0.3199999928474426
+      },
+      {
+        "name": "FerryTimber",
+        "parent": "CentralBoat",
+        "position": [
+          0,
+          0,
+          14.52
+        ],
+        "bounds": [
+          2.158,
+          1.913,
+          4.283
+        ],
+        "center": [
+          0,
+          0.184,
+          14.523
+        ],
+        "collision": true,
+        "material": "EnvLit_AI_Mat",
+        "emission": 1
+      },
+      {
+        "name": "SternGlass",
+        "parent": "CentralBoat",
+        "position": [
+          0,
+          0,
+          14.52
+        ],
+        "bounds": [
+          0.174,
+          0.24,
+          0.174
+        ],
+        "center": [
+          0.65,
+          0.94,
+          13.22
+        ],
+        "collision": false,
+        "material": "EnvLit_AI_Mat",
+        "emission": 0.3199999928474426
+      },
+      {
+        "name": "BowGlass",
+        "parent": "MarketBoat",
+        "position": [
+          -11,
+          0.015,
+          18.35
+        ],
+        "bounds": [
+          0.174,
+          0.24,
+          0.174
+        ],
+        "center": [
+          -11.65,
+          0.675,
+          19.62
+        ],
+        "collision": false,
+        "material": "EnvLit_AI_Mat",
+        "emission": 0.3199999928474426
+      },
+      {
+        "name": "FerryTimber",
+        "parent": "MarketBoat",
+        "position": [
+          -11,
+          0.015,
+          18.35
+        ],
+        "bounds": [
+          2.158,
+          1.913,
+          4.283
+        ],
+        "center": [
+          -11,
+          0.199,
+          18.353
+        ],
+        "collision": true,
+        "material": "EnvLit_AI_Mat",
+        "emission": 1
+      },
+      {
+        "name": "SternGlass",
+        "parent": "MarketBoat",
+        "position": [
+          -11,
+          0.015,
+          18.35
+        ],
+        "bounds": [
+          0.174,
+          0.24,
+          0.174
+        ],
+        "center": [
+          -10.35,
+          0.955,
+          17.05
+        ],
+        "collision": false,
+        "material": "EnvLit_AI_Mat",
+        "emission": 0.3199999928474426
+      },
+      {
+        "name": "BowGlass",
+        "parent": "DuskBoat",
+        "position": [
+          11,
+          0.015,
+          18.35
+        ],
+        "bounds": [
+          0.174,
+          0.24,
+          0.174
+        ],
+        "center": [
+          10.35,
+          0.675,
+          19.62
+        ],
+        "collision": false,
+        "material": "EnvLit_AI_Mat",
+        "emission": 0.3199999928474426
+      },
+      {
+        "name": "FerryTimber",
+        "parent": "DuskBoat",
+        "position": [
+          11,
+          0.015,
+          18.35
+        ],
+        "bounds": [
+          2.158,
+          1.913,
+          4.283
+        ],
+        "center": [
+          11,
+          0.199,
+          18.353
+        ],
+        "collision": true,
+        "material": "EnvLit_AI_Mat",
+        "emission": 1
+      },
+      {
+        "name": "SternGlass",
+        "parent": "DuskBoat",
+        "position": [
+          11,
+          0.015,
+          18.35
+        ],
+        "bounds": [
+          0.174,
+          0.24,
+          0.174
+        ],
+        "center": [
+          11.65,
+          0.955,
+          17.05
+        ],
+        "collision": false,
+        "material": "EnvLit_AI_Mat",
+        "emission": 0.3199999928474426
+      },
+      {
+        "name": "MarketBank",
+        "parent": "ShoreRoute",
+        "position": [
+          -11,
+          0,
+          22
+        ],
+        "bounds": [
+          6.7,
+          4.67,
+          13.58
+        ],
+        "center": [
+          -11.05,
+          1.745,
+          26.99
+        ],
+        "collision": true,
+        "material": "EnvLit_AI_Mat",
+        "emission": 1
+      },
+      {
+        "name": "DuskBank",
+        "parent": "ShoreRoute",
+        "position": [
+          11,
+          0,
+          22
+        ],
+        "bounds": [
+          6.51,
+          6.12,
+          13.345
+        ],
+        "center": [
+          11.055,
+          2.44,
+          26.872
+        ],
+        "collision": true,
+        "material": "EnvLit_AI_Mat",
+        "emission": 1
+      },
+      {
+        "name": "ShutterEdge",
+        "parent": "MarketShutter",
+        "position": [
+          -12.93,
+          1.38,
+          25.4
+        ],
+        "bounds": [
+          0.112,
+          1.044,
+          2.08
+        ],
+        "center": [
+          -12.946,
+          1.794,
+          25.4
+        ],
+        "collision": false,
+        "material": "EnvLit_AI_Mat",
+        "emission": 0
+      },
+      {
+        "name": "ShutterFrame",
+        "parent": "MarketShutter",
+        "position": [
+          -12.8,
+          0,
+          25.4
+        ],
+        "bounds": [
+          0.45,
+          2.515,
+          2.33
+        ],
+        "center": [
+          -13.095,
+          1.257,
+          25.4
+        ],
+        "collision": true,
+        "material": "EnvLit_AI_Mat",
+        "emission": 1
+      },
+      {
+        "name": "SteamerHearth",
+        "parent": "MarketSteamer",
+        "position": [
+          -9.2,
+          0,
+          30.5
+        ],
+        "bounds": [
+          0.847,
+          1.287,
+          0.8
+        ],
+        "center": [
+          -9.213,
+          0.644,
+          30.5
+        ],
+        "collision": true,
+        "material": "EnvLit_AI_Mat",
+        "emission": 1
+      },
+      {
+        "name": "SteamerLid",
+        "parent": "MarketSteamer",
+        "position": [
+          -8.91,
+          1.3,
+          30.5
+        ],
+        "bounds": [
+          0.776,
+          0.244,
+          0.776
+        ],
+        "center": [
+          -9.2,
+          1.404,
+          30.5
+        ],
+        "collision": false,
+        "material": "EnvLit_AI_Mat",
+        "emission": 0
+      },
+      {
+        "name": "BellCap",
+        "parent": "DuskBicycle",
+        "position": [
+          9.376,
+          1.19,
+          25.753
+        ],
+        "bounds": [
+          0.11,
+          0.063,
+          0.104
+        ],
+        "center": [
+          9.373,
+          1.207,
+          25.753
+        ],
+        "collision": false,
+        "material": "EnvLit_AI_Mat",
+        "emission": 0
+      },
+      {
+        "name": "BicycleFrame",
+        "parent": "DuskBicycle",
+        "position": [
+          9.2,
+          0.14,
+          25.4
+        ],
+        "bounds": [
+          0.553,
+          1.058,
+          1.832
+        ],
+        "center": [
+          9.2,
+          0.672,
+          25.4
+        ],
+        "collision": true,
+        "material": "EnvLit_AI_Mat",
+        "emission": 1
+      },
+      {
+        "name": "DoorFrame",
+        "parent": "DuskDoor",
+        "position": [
+          12.8,
+          0.65,
+          30.5
+        ],
+        "bounds": [
+          0.73,
+          2.29,
+          1.56
+        ],
+        "center": [
+          12.98,
+          1.795,
+          30.365
+        ],
+        "collision": true,
+        "material": "EnvLit_AI_Mat",
+        "emission": 1
+      },
+      {
+        "name": "DoorLeaf",
+        "parent": "DuskDoor",
+        "position": [
+          12.94,
+          0.73,
+          29.984
+        ],
+        "bounds": [
+          0.254,
+          2.07,
+          0.978
+        ],
+        "center": [
+          12.842,
+          1.75,
+          30.46
+        ],
+        "collision": false,
+        "material": "EnvLit_AI_Mat",
+        "emission": 0
+      },
+      {
+        "name": "FarShore",
+        "parent": "ShoreRoute",
+        "position": [
+          0,
+          0,
+          42
+        ],
+        "bounds": [
+          45.995,
+          6.275,
+          14.203
+        ],
+        "center": [
+          0.063,
+          2.433,
+          47.598
+        ],
+        "collision": false,
+        "material": "EnvLit_AI_Mat",
+        "emission": 1
+      }
+    ],
+    "lamps": [
+      [
+        "HarborBowLamp",
+        true,
+        1.7000000476837158
+      ],
+      [
+        "TurningBowLight",
+        true,
+        2.200000047683716
+      ],
+      [
+        "MarketBerthLamp",
+        true,
+        2.0999999046325684
+      ],
+      [
+        "DuskBerthLamp",
+        true,
+        2.0999999046325684
+      ],
+      [
+        "ReturnLamp",
+        true,
+        2.0999999046325684
+      ],
+      [
+        "MarketSternLamp",
+        true,
+        1.649999976158142
+      ],
+      [
+        "DuskSternLamp",
+        true,
+        1.649999976158142
+      ],
+      [
+        "SteamLamp",
+        true,
+        1.899999976158142
+      ],
+      [
+        "DoorLamp",
+        true,
+        1.649999976158142
+      ]
+    ]
+  },
+  "startFrame": 673,
+  "endFrame": 673,
+  "durationMs": 1,
+  "mode": "native-puerts"
+}

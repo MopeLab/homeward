@@ -1,0 +1,4350 @@
+[
+  {
+    "t": 327.2781066894531,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 46852,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 758928,
+        "gain": 0.08670113980770111,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Window"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 327.4578857421875,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 55483,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 767554,
+        "gain": 0.08666659891605377,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Window"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 327.6033020019531,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 62467,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 774542,
+        "gain": 0.08666126430034637,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Window"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 327.75640869140625,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 69811,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 781882,
+        "gain": 0.0866597518324852,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Window"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 327.9023132324219,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 76824,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 788895,
+        "gain": 0.08665934950113297,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Window"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 328.0520935058594,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 84009,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 796080,
+        "gain": 0.08665923774242401,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Window"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 328.2029113769531,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 803319,
+        "gain": 0.1691565066576004,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Window"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 328.3534851074219,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 810542,
+        "gain": 0.27953994274139404,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Window"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 328.5049133300781,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 2563,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 817814,
+        "gain": 0.22756312787532806,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 328.652099609375,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 9624,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 824880,
+        "gain": 0.12597812712192535,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 328.80230712890625,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 16839,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 832090,
+        "gain": 0.09749184548854828,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 328.9526062011719,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 24048,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 839309,
+        "gain": 0.08961115032434464,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 329.10198974609375,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 31220,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 846471,
+        "gain": 0.08747598528862,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 329.2524108886719,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 38439,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 853690,
+        "gain": 0.08688179403543472,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 329.4035949707031,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 45701,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 860957,
+        "gain": 0.08672045916318893,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 329.5574035644531,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 53083,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 868334,
+        "gain": 0.08667603880167007,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 329.70599365234375,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 60212,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 875463,
+        "gain": 0.08666379749774933,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 329.85760498046875,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 67493,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 882749,
+        "gain": 0.0866604745388031,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 330.0072021484375,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 74669,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 889925,
+        "gain": 0.08665954321622849,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 330.15740966796875,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 81888,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 897139,
+        "gain": 0.08665928989648819,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 330.3057861328125,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 89002,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 904253,
+        "gain": 0.08665922284126282,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 330.456298828125,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 96226,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 911482,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 330.60260009765625,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 103248,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 918504,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 330.7547912597656,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 110559,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 925814,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 330.9046936035156,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.6880000233650208,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 933005,
+        "gain": 0.16636832058429718,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 331.0546875,
+    "channels": {
+      "Card": {
+        "clip": -11090,
+        "name": "",
+        "length": 2.4000000953674316,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.6880000233650208,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 940205,
+        "gain": 0.2781386375427246,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 盆中双响　两滴挨得很近，水纹叠在一起。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 331.2051086425781,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 220,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 947424,
+        "gain": 0.30926433205604553,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 331.356201171875,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 7478,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 954677,
+        "gain": 0.14759285748004913,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 331.505615234375,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 14644,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 961848,
+        "gain": 0.10321187973022461,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 331.65460205078125,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 21801,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 969000,
+        "gain": 0.09127841889858246,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 331.80828857421875,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 29179,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 976378,
+        "gain": 0.08790461719036102,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 331.9534912109375,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 36148,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 983347,
+        "gain": 0.08700595796108246,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 332.10211181640625,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 43281,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 990480,
+        "gain": 0.08675531297922134,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 332.2546081542969,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 50601,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 997800,
+        "gain": 0.08668553084135056,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 332.40301513671875,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 57720,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1004923,
+        "gain": 0.08666640520095825,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 332.5533142089844,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 64934,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1012133,
+        "gain": 0.0866611897945404,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 332.7026062011719,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 72100,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1019304,
+        "gain": 0.0866597443819046,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 332.8533935546875,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 79339,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1026538,
+        "gain": 0.08665934950113297,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 333.0022888183594,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 86486,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1033685,
+        "gain": 0.08665923774242401,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 333.1520080566406,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 93676,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1040880,
+        "gain": 0.08665920794010162,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 333.30218505859375,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 100886,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1048085,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 333.4551086425781,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 108220,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1055419,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 333.6029968261719,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 115324,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1062523,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 333.75439453125,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1069791,
+        "gain": 0.16751639544963837,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 333.9057922363281,
+    "channels": {
+      "Card": {
+        "clip": -11086,
+        "name": "",
+        "length": 2.450000047683716,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1077058,
+        "gain": 0.2794121503829956,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 棚上碎雨　细雨敲在铁皮上。",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 334.0570068359375,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1084311,
+        "gain": 0.309624582529068,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 334.2066955566406,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1091496,
+        "gain": 0.3178270757198334,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 334.3586120605469,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1098792,
+        "gain": 0.3201054036617279,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 334.50408935546875,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1105771,
+        "gain": 0.3207220435142517,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 334.65679931640625,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1113106,
+        "gain": 0.3208952844142914,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 334.85369873046875,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1122557,
+        "gain": 0.32094821333885193,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 335.0054931640625,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1129843,
+        "gain": 0.3209567666053772,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 335.1554870605469,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1137039,
+        "gain": 0.32095909118652344,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 335.301513671875,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1144051,
+        "gain": 0.32095974683761597,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 335.45330810546875,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1151338,
+        "gain": 0.3209599256515503,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 335.6054992675781,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 6638,
+        "gain": 0.3209599554538727,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 335.7535095214844,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 13747,
+        "gain": 0.32095998525619507,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 335.9065856933594,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 21096,
+        "gain": 0.32095998525619507,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 336.055908203125,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 28262,
+        "gain": 0.32095998525619507,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 336.25408935546875,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 37771,
+        "gain": 0.32095998525619507,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 336.402099609375,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 44875,
+        "gain": 0.32095998525619507,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 336.5533142089844,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 52138,
+        "gain": 0.32095998525619507,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 336.70599365234375,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 59467,
+        "gain": 0.32095998525619507,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 336.85400390625,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 66566,
+        "gain": 0.32095998525619507,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Window"
+      ],
+      [
+        "Basin"
+      ],
+      [
+        "Tin"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  }
+]

@@ -1,0 +1,2662 @@
+[
+  {
+    "t": 529.6253051757812,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1840598,
+        "gain": 0.3840000033378601,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "点「听一听」，等到喜欢的那一拍。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 531.1046142578125,
+    "channels": {
+      "Card": {
+        "clip": -11428,
+        "name": "",
+        "length": 2.549999952316284,
+        "cursor": 86301,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1982611,
+        "gain": 0.103758305311203,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "坡上的钥匙串碰响，停在锁齿上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        359.9851379394531,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 531.2567138671875,
+    "channels": {
+      "Card": {
+        "clip": -11428,
+        "name": "",
+        "length": 2.549999952316284,
+        "cursor": 100903,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1997222,
+        "gain": 0.10370120406150818,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "坡上的钥匙串碰响，停在锁齿上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0.0057832179591059685,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 531.4052124023438,
+    "channels": {
+      "Card": {
+        "clip": -11428,
+        "name": "",
+        "length": 2.549999952316284,
+        "cursor": 115159,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2011469,
+        "gain": 0.1036858856678009,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "坡上的钥匙串碰响，停在锁齿上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        -0.00194989750161767,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 531.556396484375,
+    "channels": {
+      "Card": {
+        "clip": -11428,
+        "name": "",
+        "length": 2.549999952316284,
+        "cursor": 129674,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2025984,
+        "gain": 0.10368161648511887,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "坡上的钥匙串碰响，停在锁齿上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0.0005974661908112466,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 531.7053833007812,
+    "channels": {
+      "Card": {
+        "clip": -11428,
+        "name": "",
+        "length": 2.549999952316284,
+        "cursor": 143988,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2040298,
+        "gain": 0.10368043929338455,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "坡上的钥匙串碰响，停在锁齿上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        -0.00016608941950835288,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 531.855712890625,
+    "channels": {
+      "Card": {
+        "clip": -11428,
+        "name": "",
+        "length": 2.549999952316284,
+        "cursor": 158416,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2054726,
+        "gain": 0.10368011891841888,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "坡上的钥匙串碰响，停在锁齿上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        4.122085010749288e-05,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 532.0040893554688,
+    "channels": {
+      "Card": {
+        "clip": -11428,
+        "name": "",
+        "length": 2.549999952316284,
+        "cursor": 172653,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2068973,
+        "gain": 0.10368002951145172,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "坡上的钥匙串碰响，停在锁齿上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        -8.532346328138374e-06,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 532.1528930664062,
+    "channels": {
+      "Card": {
+        "clip": -11428,
+        "name": "",
+        "length": 2.549999952316284,
+        "cursor": 186938,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2083248,
+        "gain": 0.10368000715970993,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "坡上的钥匙串碰响，停在锁齿上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        1.1784422895289026e-06,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 532.30322265625,
+    "channels": {
+      "Card": {
+        "clip": -11428,
+        "name": "",
+        "length": 2.549999952316284,
+        "cursor": 201367,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2097686,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "坡上的钥匙串碰响，停在锁齿上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 532.4526977539062,
+    "channels": {
+      "Card": {
+        "clip": -11428,
+        "name": "",
+        "length": 2.549999952316284,
+        "cursor": 215719,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2112038,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "坡上的钥匙串碰响，停在锁齿上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 532.6044921875,
+    "channels": {
+      "Card": {
+        "clip": -11428,
+        "name": "",
+        "length": 2.549999952316284,
+        "cursor": 230301,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2126611,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "坡上的钥匙串碰响，停在锁齿上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 532.7534790039062,
+    "channels": {
+      "Card": {
+        "clip": -11428,
+        "name": "",
+        "length": 2.549999952316284,
+        "cursor": 244605,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2140915,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "坡上的钥匙串碰响，停在锁齿上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 532.9019165039062,
+    "channels": {
+      "Card": {
+        "clip": -11428,
+        "name": "",
+        "length": 2.549999952316284,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2155152,
+        "gain": 0.2654372453689575,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "坡上的钥匙串碰响，停在锁齿上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 533.05322265625,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 4858,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2169686,
+        "gain": 0.2541833221912384,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 533.2066040039062,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 19594,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2184413,
+        "gain": 0.14510060846805573,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 533.35498046875,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 33831,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2198650,
+        "gain": 0.11503064632415771,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 533.5045166015625,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 48183,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2213011,
+        "gain": 0.10679986327886581,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 533.6553955078125,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 62669,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2227488,
+        "gain": 0.10453678667545319,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 533.8029174804688,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 76829,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2241648,
+        "gain": 0.10391503572463989,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        2.449894905090332,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 533.9536743164062,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 91306,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2256134,
+        "gain": 0.10374385118484497,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        7.096078872680664,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 534.1016845703125,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 105514,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2270333,
+        "gain": 0.1036977767944336,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        7.999999046325684,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 534.2554931640625,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 120279,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2285107,
+        "gain": 0.10368485748767853,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        7.999999046325684,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 534.40478515625,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 134611,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 2299430,
+        "gain": 0.10368134081363678,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        7.999999046325684,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 534.5549926757812,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 149031,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 9859,
+        "gain": 0.10368036478757858,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        6.930776119232178,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 534.705322265625,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 163459,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 24288,
+        "gain": 0.1036800965666771,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        4.622709274291992,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 534.856689453125,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 178003,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 38832,
+        "gain": 0.10368002206087112,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        2.313701629638672,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 535.005615234375,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 192288,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 53126,
+        "gain": 0.10368000715970993,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0.0009390023769810796,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 535.1538696289062,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 206525,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 67354,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 535.3026123046875,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 220800,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 81619,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 535.4578247070312,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 235699,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 96518,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 535.6072998046875,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 250051,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 110880,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 535.7578735351562,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 125338,
+        "gain": 0.20532402396202087,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 535.9066162109375,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 139613,
+        "gain": 0.33446428179740906,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 536.0573120117188,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 154070,
+        "gain": 0.37035229802131653,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 536.2077026367188,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 168518,
+        "gain": 0.38025200366973877,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 536.3572998046875,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 182880,
+        "gain": 0.3829718232154846,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 536.5064086914062,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 197194,
+        "gain": 0.38371825218200684,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.1399993896484375,
+        0.08000004291534424,
+        -0.5160026550292969
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  }
+]

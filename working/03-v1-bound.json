@@ -1,0 +1,13 @@
+{
+  "changed": {
+    "nodes": 0,
+    "components": 0,
+    "scripts": 2,
+    "resources": 0
+  },
+  "summary": "Updated 0 nodes, 0 components, 2 scripts and 0 resources",
+  "result": [
+    "n48:s:00a13fcf-1cec-4416-bcc8-9fa02a655940"
+  ],
+  "revision": "dbf5636344d62e68e5d24af7c0160304514ab79586c8bf7ffa27a4ef517c5c7d"
+}

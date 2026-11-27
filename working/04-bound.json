@@ -1,0 +1,15 @@
+{
+  "changed": {
+    "nodes": 0,
+    "components": 1,
+    "scripts": 1,
+    "resources": 0
+  },
+  "summary": "Updated 0 nodes, 1 components, 1 scripts and 0 resources",
+  "result": {
+    "items": [],
+    "revision": "2119f9c6c1f18e00dea52954cfe40f8e091a9316caaff42f35fae85d7a241720",
+    "truncated": false
+  },
+  "revision": "b9ec2147bf735c4414fb194c9cbed420ef1105b94763f12637f25cde60402732"
+}

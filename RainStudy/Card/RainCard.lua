@@ -18,18 +18,35 @@ local host
 
 -- Source + beat is stable across card order, replacement and contributor.
 local catalogue = {
-    S01 = {name="雨棚铁皮", art="Tin", A={"棚上碎雨","细雨敲在铁皮上。",2.6},
-           B={"铁皮重滴","一颗重雨滴把棚边敲颤。",2.8}},
-    S02 = {name="檐下接雨盆", art="Basin", A={"盆中双响","两滴挨得很近，水纹叠在一起。",2.6},
-           B={"迟来一滴","等了半晌，盆心又响一声。",2.8}},
-    S07 = {name="宿舍亮窗", art="Window", A={"走啦，吃饭去","楼下传来室友的招呼。",2.6},
-           B={"远去的脚步","楼梯间的脚步渐渐远去。",2.8}}
+    S01 = {name="雨棚铁皮", art="Tin", A={"棚上碎雨","细雨敲在铁皮上。",2.45},
+           B={"铁皮重滴","一颗重雨滴把棚边敲颤。",2.65}},
+    S02 = {name="檐下接雨盆", art="Basin", A={"碗中雨滴","雨滴一声接一声落进搪瓷碗。",19.09},
+           B={"迟来一滴","等了半晌，盆心又响一声。",2.9}},
+    S03 = {name="早市卷帘门", art="Shutter", A={"链条绷紧","左手边，卷门的链条绷紧。",2.6},
+           B={"卷门顿住","门沿上移，顿住时轻颤。",3.241667}},
+    S04 = {name="摊前蒸笼", art="Steamer", A={"竹盖轻碰","右手边，竹盖轻碰笼沿。",2.35},
+           B={"蒸汽呼出","盖沿抬起，白汽越过灯光。",2.75}},
+    S05 = {name="路边单车", art="Bell", A={"两下车铃","墙根的车铃轻轻碰响两下。",1.623787},
+           B={"铃声渐远","铃帽停下来，尾声沿坡散开。",3.1}},
+    S06 = {name="楼道门锁", art="Lock", A={"钥匙相碰","坡上的钥匙串碰响，停在锁齿上。",2.55},
+           B={"钥匙转开","锁舌咔哒，门缝里漏出暖光。",2.137959}},
+    S07 = {name="宿舍亮窗", art="Window", A={"走啦，吃饭去","楼下的室友：「走啦，吃饭去！」",1.802449},
+           B={"远去的脚步","楼梯间的脚步渐渐远去。",3.0}}
 }
-local artNames = {"Tin","Basin","Window"}
+local artNames = {"Tin","Basin","Shutter","Steamer","Bell","Lock","Window"}
 local draft, sealed = {}, false
 local panelOpen, toolsShown, settingsOpen = false, true, false
 local pending, swapMode, swapFrom, replaceAt = nil, false, nil, nil
 local zone, previewBeat, previewSource = nil, nil, nil
+local previewLongLead = false
+local selectedBank, sailingTo, lastRegion = nil,nil,"home"
+local portNames = {bow="末班船 · 船头",marketDock="早市 · 泊位",duskDock="放学路 · 泊位",sailing="末班船 · 航行中"}
+local placeNames = {market="早市",dusk="放学路",home="宿舍",bow="船头"}
+local berthHelp = {
+    bow="左舷是卷门，右舷是车铃。听过任一方向，点靠岸。",
+    marketDock="沿跳板上岸，左手是卷门。回到船边可换岸或返航。",
+    duskDock="沿跳板上岸，坡左停着单车。回到船边可换岸或返航。"
+}
 local walkMessage = "如果只能寄三种声音回家，你会选哪三种？"
 local caption, showCaption = "家里：你那边也下雨了？我刚把窗关上。", true
 local volume, ambience = 0.8, true
@@ -38,6 +55,7 @@ local soundEnds, advanceAt, sequenceAt, sequenceIndex = 0, 0, 0, nil
 local lastZonePoll = -1
 local initialized = false
 local openingEnds = 0
+local openingFallback = 3.317551
 -- The pass-around table owns its two hands and its finished card for this run.
 -- Only the first hand reads the personal draft. Guest collection never writes it.
 local desk, lastLetter
@@ -138,15 +156,24 @@ local function render()
     visible("cardPanelRoot",panelOpen)
     if not panelOpen then
         local current = catalogue[zone]
-        label(hud .. "sourceLabel",current and current.name or (zone == "desk" and "窗边回信桌" or "檐下听雨"))
+        local sceneryName = lastRegion == "market" and "清晨早市" or (lastRegion == "dusk" and "傍晚放学路" or "檐下听雨")
+        label(hud .. "sourceLabel",portNames[zone] or (current and current.name) or (zone == "desk" and "窗边回信桌" or sceneryName))
         local tableEntry = zone == "desk" and not desk
         local canCollect = current ~= nil and (desk ~= nil or not sealed)
-        visible(hud .. "listenBtn",tableEntry or canCollect)
-        visible(hud .. "keepBtn",(tableEntry and lastLetter ~= nil) or (canCollect and previewSource == zone))
-        buttonLabel(hud .. "listenBtn",tableEntry and "合写一封" or (previewBeat and "再听一遍" or "听一听"))
-        buttonLabel(hud .. "keepBtn",tableEntry and "上封合写" or (previewBeat == "B" and "收下落点" or "收下蓄势"))
-        buttonLabel(hud .. "cardEntryBtn",desk and ("乙的声音 · " .. #desk.hands.B .. "/3") or
+        visible(hud .. "cardEntryBtn",zone ~= "sailing")
+        visible(hud .. "listenBtn",tableEntry or canCollect or berthHelp[zone] ~= nil)
+        visible(hud .. "keepBtn",(tableEntry and (lastLetter ~= nil or #draft < 3)) or (canCollect and previewSource == zone) or berthHelp[zone] ~= nil)
+        local canSkipLead = previewLongLead and advanceAt > 0
+        buttonLabel(hud .. "listenBtn",tableEntry and "合写一封" or
+            (canSkipLead and "听落点" or (previewBeat and "再听一遍" or "听一听")))
+        buttonLabel(hud .. "keepBtn",tableEntry and (lastLetter and "上封合写" or "再去听听") or (previewBeat == "B" and "收下落点" or "收下蓄势"))
+        buttonLabel(hud .. "cardEntryBtn",desk and ("乙的声音 · " .. #(desk.hands and desk.hands.B or {}) .. "/3") or
             (zone == "desk" and "坐到回信桌" or ("明信片 · " .. #draft .. "/3")))
+        if berthHelp[zone] then
+            buttonLabel(hud .. "listenBtn",zone == "duskDock" and "听早市" or (zone == "marketDock" and "听暮路" or "← 听早市"))
+            buttonLabel(hud .. "keepBtn",zone == "bow" and "听暮路 →" or "暖灯返航")
+            if selectedBank then buttonLabel(hud .. "cardEntryBtn","靠岸 · " .. placeNames[selectedBank]) end
+        end
         label(hud .. "walkCaption",showCaption and caption ~= "" and caption or walkMessage)
         return
     end
@@ -203,17 +230,57 @@ local function render()
     end
 end
 
+local function hearBank(bank)
+    local spatial = companion()
+    if not spatial or type(spatial.PreviewBank) ~= "function" then return end
+    stopSound()
+    openingEnds = 0
+    mix(true)
+    local duration = spatial.PreviewBank(bank)
+    selectedBank = bank
+    soundEnds = now() + ((type(duration) == "number" and duration > 0) and duration or 2.6)
+    walkMessage = (bank == "market" and "卷门顿住，早市岸灯亮起。" or "两声车铃，放学路岸灯亮起。") .. "点靠岸出发。"
+    caption = walkMessage
+    render()
+end
+
+local function sail(destination)
+    local spatial = companion()
+    if not spatial or type(spatial.BeginVoyage) ~= "function" or not spatial.BeginVoyage(destination) then return end
+    stopSound()
+    openingEnds = 0
+    selectedBank,sailingTo,zone = nil,destination,"sailing"
+    previewSource,previewBeat,caption = nil,nil,""
+    walkMessage = destination == "home" and "船尾的暖灯正与宿舍窗光对齐。" or
+                  (destination == "bow" and "顺着跳板，回到船头。" or (placeNames[destination] .. "的灯接亮了，船正在靠岸。"))
+    render()
+end
+
 local function resetEdit()
     pending, replaceAt, swapFrom, swapMode = nil,nil,nil,false
+end
+
+local function previewLanding()
+    advanceAt = 0
+    previewBeat = "B"
+    play(previewSource,"B")
+    walkMessage = "收下落点，或再听一遍。"
+    render()
 end
 
 local function audition()
     local source = catalogue[zone]
     if (sealed and not desk) or source == nil then return end
+    if previewLongLead and advanceAt > 0 and previewSource == zone then
+        previewLanding()
+        return
+    end
     stopSound()
     openingEnds = 0
     previewSource, previewBeat = zone, "A"
-    advanceAt = play(zone,"A") + 0.2
+    local ends = play(zone,"A")
+    previewLongLead = ends - now() > 4
+    advanceAt = ends + 0.2
     walkMessage = "现在可以收下蓄势，或再等一拍。"
     render()
 end
@@ -239,7 +306,7 @@ local function collect()
     for _, old in ipairs(hand) do
         if old.source == item.source and old.beat == item.beat then
             walkMessage = "这拍已收好，再听一遍。"
-            caption = title .. " · 已在卡上"
+            caption = "已在卡上 · " .. caption
             render()
             return
         end
@@ -247,7 +314,7 @@ local function collect()
     if #hand < 3 then
         table.insert(hand,item)
         walkMessage = desk and ("乙已收下「" .. title .. "」。可回桌选第二格。") or ("已收下「" .. title .. "」。")
-        caption = walkMessage
+        caption = title .. " · " .. caption
     elseif desk then
         caption = "乙已带回三拍。回桌点选要写的那一格。"
     else
@@ -273,11 +340,23 @@ local function nextInSequence()
     render()
 end
 
-local function sequence()
+local function sequence(withPostmark)
     if writing() and desk.phase ~= "confirm" then return end
     if #sheet() == 0 then info = "先在雨棚收下一拍。"; render(); return end
     stopSound()
     sequenceIndex, settingsOpen = 0,false
+    local audio = companion()
+    if withPostmark and audio and type(audio.PlayPostmark) == "function" then
+        local duration = audio.PlayPostmark()
+        if type(duration) == "number" and duration > 0 then
+            soundEnds = now() + duration
+            sequenceAt = soundEnds
+            mix(true)
+            info = "雨夜邮戳"
+            render()
+            return
+        end
+    end
     nextInSequence()
 end
 
@@ -348,7 +427,7 @@ local function otherTableAction()
         info = "请递给" .. names[desk.owner] .. "，点一格试听，再提议第三拍。"
     elseif desk.phase == "confirm" and not sequenceIndex and zone == "desk" then
         desk.phase, lastLetter = "letter",desk.slots
-        sequence()
+        sequence(true)
     end
     render()
 end
@@ -408,7 +487,7 @@ local function stamp()
     else
         sealed = true
         resetEdit()
-        sequence()
+        sequence(true)
     end
     render()
 end
@@ -446,18 +525,24 @@ end
 function Start()
     if not scope then log:warnOnce("scope","明信片控件不可用",scopeError); return end
     bind(hud .. "listenBtn",function()
-        if zone == "desk" and not desk then startTable() else audition() end
+        if berthHelp[zone] then hearBank(zone == "marketDock" and "dusk" or "market")
+        elseif zone == "desk" and not desk then startTable() else audition() end
     end)
     bind(hud .. "keepBtn",function()
-        if zone == "desk" and not desk and lastLetter then
+        if zone == "bow" then hearBank("dusk")
+        elseif zone == "marketDock" or zone == "duskDock" then sail("home")
+        elseif zone == "desk" and not desk and lastLetter then
             stopSound()
             desk = {phase="letter",slots=lastLetter}
             panelOpen,toolsShown,settingsOpen = true,true,false
             info = "点邮戳，重听你们合寄的三格。"
             render()
+        elseif zone == "desk" and not desk and #draft < 3 then sail("bow")
         else collect() end
     end)
-    bind(hud .. "cardEntryBtn",openCard)
+    bind(hud .. "cardEntryBtn",function()
+        if selectedBank and berthHelp[zone] then sail(selectedBank) else openCard() end
+    end)
     bind(card .. "closeBtn",close)
     bind(card .. "paperWakeBtn",function()
         toolsShown = true
@@ -468,7 +553,7 @@ function Start()
         if sequenceIndex then close()
         else toolsShown = true; sequence() end
     end)
-    bind(controls .. "playBtn",sequence)
+    bind(controls .. "playBtn",function() sequence() end)
     bind(controls .. "stampBtn",stamp)
     bind(controls .. "swapBtn",function()
         if desk then otherTableAction(); return end
@@ -493,45 +578,52 @@ function Start()
         bind(card .. "slot" .. i,function() slot(slotIndex) end)
     end
     initialized = true
-    openingEnds = now() + 5.0
+    openingEnds = now() + openingFallback
     render()
 end
 
 function Update()
     if not initialized then return end
     local t = now()
+    if openingEnds > 0 then
+        local audio = companion()
+        local active
+        if audio and type(audio.IsOpeningCaptionActive) == "function" then
+            active = audio.IsOpeningCaptionActive()
+        end
+        if active == nil then active = t < openingEnds end
+        if not active then
+            openingEnds, caption = 0,""
+            render()
+        end
+    end
     if t-lastZonePoll >= 0.12 then
         lastZonePoll = t
         local spatial = companion()
         local current = spatial and type(spatial.GetZone) == "function" and spatial.GetZone() or nil
         if current ~= zone then
+            if selectedBank then stopSound(); selectedBank = nil end
             zone = current
+            if sailingTo and zone ~= "sailing" then
+                lastRegion = (sailingTo == "bow") and "home" or sailingTo
+                sailingTo = nil
+            end
             if writing() and desk.phase ~= "guest" and zone ~= "desk" then
                 returnToDraft("已离开回信桌，个人明信片已取回。")
             end
             if not panelOpen then
                 if advanceAt>0 then stopSound() end
                 previewSource, previewBeat = nil,nil
-                if t >= openingEnds then caption = "" end
-                walkMessage = desk and (zone == "desk" and "乙回到桌边。打开乙的声音，选第二格。" or "乙听一听，收好喜欢的那拍再回桌。") or
+                if openingEnds == 0 then caption = "" end
+                walkMessage = berthHelp[zone] or (desk and (zone == "desk" and "乙回到桌边。打开乙的声音，选第二格。" or "乙听一听，收好喜欢的那拍再回桌。")) or
                               zone == "desk" and "坐到桌边，整理你的三格声音。" or
                               (catalogue[zone] and "点「听一听」，等到喜欢的那一拍。"
-                               or "沿雨棚走走，听听立柱后面。")
+                               or (lastRegion ~= "home" and "沿岸走走，再循暖灯回到泊位。" or "沿旧檐向前，亮灯的跳板通往船头。"))
             end
             render()
         end
     end
-    if openingEnds > 0 and t >= openingEnds then
-        openingEnds, caption = 0,""
-        render()
-    end
-    if advanceAt>0 and t>=advanceAt then
-        advanceAt = 0
-        previewBeat = "B"
-        play(previewSource,"B")
-        walkMessage = "收下落点，或再听一遍。"
-        render()
-    end
+    if advanceAt>0 and t>=advanceAt then previewLanding() end
     if sequenceIndex and t>=sequenceAt then nextInSequence() end
     if soundEnds>0 and t>=soundEnds then soundEnds=0; mix(false) end
 end

@@ -20,14 +20,14 @@
 ---@var S01BMaxDistance:number=20
 ---@name 铁皮重滴最大作用范围
 ---@var S02A:UnityEngine.AudioClip=nil
----@name 两圈水纹音效
+---@name 碗中雨滴音效
 ---@refFrom asset
 ---@assetCategory Music
 ---@dataType Audio
 ---@var S02AVolume:number=0.86
----@name 两圈水纹音量
+---@name 碗中雨滴音量
 ---@var S02AMaxDistance:number=20
----@name 两圈水纹最大作用范围
+---@name 碗中雨滴最大作用范围
 ---@var S02B:UnityEngine.AudioClip=nil
 ---@name 迟来一滴音效
 ---@refFrom asset
@@ -37,6 +37,15 @@
 ---@name 迟来一滴音量
 ---@var S02BMaxDistance:number=20
 ---@name 迟来一滴最大作用范围
+---@var BasinAccent:UnityEngine.AudioClip=nil
+---@name 盆边环境短滴
+---@refFrom asset
+---@assetCategory Music
+---@dataType Audio
+---@var BasinAccentVolume:number=0.86
+---@name 盆边环境短滴音量
+---@var BasinAccentMaxDistance:number=20
+---@name 盆边环境短滴最大作用范围
 ---@var S03A:UnityEngine.AudioClip=nil
 ---@name 链条绷紧音效
 ---@refFrom asset
@@ -136,6 +145,24 @@
 ---@name 环境雨音量
 ---@var RainBedMaxDistance:number=34
 ---@name 环境雨最大作用范围
+---@var MarketBed:UnityEngine.AudioClip=nil
+---@name 清晨早市底声
+---@refFrom asset
+---@assetCategory Music
+---@dataType Audio
+---@var MarketBedVolume:number=0.48
+---@name 清晨早市底声音量
+---@var MarketBedMaxDistance:number=30
+---@name 清晨早市底声最大作用范围
+---@var DuskBed:UnityEngine.AudioClip=nil
+---@name 傍晚放学路底声
+---@refFrom asset
+---@assetCategory Music
+---@dataType Audio
+---@var DuskBedVolume:number=0.48
+---@name 傍晚放学路底声音量
+---@var DuskBedMaxDistance:number=30
+---@name 傍晚放学路底声最大作用范围
 ---@var FamilyVoice:UnityEngine.AudioClip=nil
 ---@name 家人语音音效
 ---@refFrom asset
@@ -145,6 +172,11 @@
 ---@name 家人语音音量
 ---@var FamilyVoiceMaxDistance:number=22
 ---@name 家人语音最大作用范围
+---@var Postmark:UnityEngine.AudioClip=nil
+---@name 邮戳轻响
+---@refFrom asset
+---@assetCategory Music
+---@dataType Audio
 ---@end
 
 local UE = CS.UnityEngine
@@ -153,6 +185,7 @@ local readSettings = {
     S01B = function() return S01B, S01BVolume, S01BMaxDistance end,
     S02A = function() return S02A, S02AVolume, S02AMaxDistance end,
     S02B = function() return S02B, S02BVolume, S02BMaxDistance end,
+    BasinAccent = function() return BasinAccent, BasinAccentVolume, BasinAccentMaxDistance end,
     S03A = function() return S03A, S03AVolume, S03AMaxDistance end,
     S03B = function() return S03B, S03BVolume, S03BMaxDistance end,
     S04A = function() return S04A, S04AVolume, S04AMaxDistance end,
@@ -164,12 +197,17 @@ local readSettings = {
     S07A = function() return S07A, S07AVolume, S07AMaxDistance end,
     S07B = function() return S07B, S07BVolume, S07BMaxDistance end,
     RainBed = function() return RainBed, RainBedVolume, RainBedMaxDistance end,
+    MarketBed = function() return MarketBed, MarketBedVolume, MarketBedMaxDistance end,
+    DuskBed = function() return DuskBed, DuskBedVolume, DuskBedMaxDistance end,
     FamilyVoice = function() return FamilyVoice, FamilyVoiceVolume, FamilyVoiceMaxDistance end,
+    Postmark = function() return Postmark, .65, 20 end,
 }
 
 local ambientOn, masterVolume, duck = true, .8, false
 local playerZ, initialized, openingPending = 0, false, true
-local card, rain, roof, bowl
+local openingCaptionUntil = 0
+local card, rain, roof, bowl, market, dusk, cue
+local ambienceRegion = "home"
 local channels = {}
 local nextDrop = 0
 local dropIndex = 0
@@ -196,7 +234,7 @@ local function anchorScenery()
     local frame = type(GetStudyFrame) == "function" and GetStudyFrame() or nil
     if frame == nil then return false end
     if studyFrame ~= frame then
-        for _, channel in ipairs({rain, roof, bowl}) do
+        for _, channel in ipairs({rain, roof, bowl, market, dusk}) do
             channel.emitter.transform:SetParent(frame, false)
             channel.emitter.transform.localPosition = channel.offset
         end
@@ -250,6 +288,9 @@ local function ensureReady()
     rain = makeChannel("Rain", 0, 3.4, 4)
     roof = makeChannel("Tin", -1.25, 2.75, 2.3)
     bowl = makeChannel("Basin", 1.42, .48, 5.5)
+    market = makeChannel("Market", -11, 1.8, 26)
+    dusk = makeChannel("Dusk", 11, 1.8, 26)
+    cue = makeChannel("ShoreCue", 0, 1.4, 15)
     initialized = true
 end
 
@@ -267,15 +308,44 @@ function PlayBeat(sourceId, beat)
     local key = tostring(sourceId) .. tostring(beat)
     if not readSettings[key] then return 0 end
     ensureReady()
+    stop(cue)
     placeCard()
     local duration = play(card, key, false, 1)
-    if type(HostBeat) == "function" then HostBeat(sourceId, beat) end
+    if type(HostBeat) == "function" then HostBeat(sourceId, beat, duration) end
     return duration
+end
+
+function PlayPostmark()
+    ensureReady()
+    placeCard()
+    return play(card, "Postmark", false, 1)
+end
+
+function PlayShoreCue(destination)
+    if destination ~= "market" and destination ~= "dusk" then return 0 end
+    ensureReady()
+    if not anchorScenery() then return 0 end
+    stop(card)
+    openingPending = false
+    local targetX = destination == "market" and -11 or 11
+    -- A near-field direction cue represents the far bank; it stays audible in mono.
+    local camera = UE.Camera.main
+    local p = camera and studyFrame:InverseTransformPoint(camera.transform.position) or UE.Vector3(0,1.4,15)
+    local delta = UE.Vector3(targetX-p.x, 0, 25.4-p.z)
+    cue.emitter.transform.position = studyFrame:TransformPoint(p + delta.normalized * 2.8)
+    return play(cue, destination == "market" and "S03B" or "S05A", false, 1)
 end
 
 function StopBeat()
     openingPending = false
     stop(card)
+    stop(cue)
+    if type(HostStopBeat) == "function" then HostStopBeat() end
+end
+
+function IsOpeningCaptionActive()
+    return FamilyVoice ~= nil and (openingPending or (card ~= nil and card.key == "FamilyVoice"
+        and (card.source.isPlaying or UE.Time.realtimeSinceStartup < openingCaptionUntil)))
 end
 
 function SetMix(enabled, volume, ducked)
@@ -284,8 +354,9 @@ function SetMix(enabled, volume, ducked)
     duck = ducked == true
 end
 
-function UpdateRain(positionZ)
+function UpdateRain(positionZ, region)
     if type(positionZ) == "number" then playerZ = positionZ end
+    ambienceRegion = region or "home"
 end
 
 function Start()
@@ -304,18 +375,35 @@ function Update()
     crossfade = crossfade + (target - crossfade) * math.min(1, 6 * dt)
     if openingPending and FamilyVoice ~= nil and UE.Camera.main ~= nil then
         openingPending = false
-        play(card, "FamilyVoice", false, 1)
+        local duration = play(card, "FamilyVoice", false, 1)
+        openingCaptionUntil = UE.Time.realtimeSinceStartup + duration
     end
     if card.key then apply(card, 1) end
-    local isReading = duck or card.source.isPlaying
+    if cue.key then apply(cue, 1) end
+    local isReading = duck or card.source.isPlaying or cue.source.isPlaying
     local targetGain = isReading and .27 or 1
     bedGain = bedGain + (targetGain - bedGain) * math.min(1, dt * 7)
     if not anchorScenery() or not ambientOn or masterVolume <= 0 then
         stop(rain)
         stop(roof)
         stop(bowl)
+        stop(market)
+        stop(dusk)
         return
     end
+    if ambienceRegion ~= "home" then
+        if rain.key then stop(rain) end
+        if roof.key then stop(roof) end
+        if bowl.key then stop(bowl) end
+        local onMarket = ambienceRegion == "market"
+        local nearby, far = onMarket and market or dusk, onMarket and dusk or market
+        if far.key then stop(far) end
+        if nearby.key then apply(nearby, bedGain) end
+        if not nearby.source.isPlaying then play(nearby, onMarket and "MarketBed" or "DuskBed", true, bedGain) end
+        return
+    end
+    if market.key then stop(market) end
+    if dusk.key then stop(dusk) end
     local rainLevel = bedGain * (.95 - .27 * crossfade)
     if rain.key then apply(rain, rainLevel) end
     if not rain.source.isPlaying and RainBed ~= nil then play(rain, "RainBed", true, rainLevel) end
@@ -329,7 +417,7 @@ function Update()
         local beat = dropIndex % 3 == 0 and "B" or "A"
         -- Use a single nearby accent per cycle. Crossfade and 3D rolloff control its depth.
         if crossfade < .5 then play(roof, "S01" .. beat, false, roofGain)
-        else play(bowl, "S02" .. beat, false, bowlGain) end
+        else play(bowl, beat == "A" and BasinAccent ~= nil and "BasinAccent" or "S02B", false, bowlGain) end
         nextDrop = (crossfade < .5 and 2.6 or 3.15) + (dropIndex % 3) * .13
     end
 end
@@ -339,6 +427,7 @@ function OnDisable()
 end
 
 function OnDestroy()
+    if type(ReleaseShoreLights)=="function" then ReleaseShoreLights() end
     for _, channel in ipairs(channels) do
         stop(channel)
         UE.Object.Destroy(channel.emitter)

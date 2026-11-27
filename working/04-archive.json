@@ -1,0 +1,26 @@
+{
+  "type": "wprefab",
+  "artifactId": "homeward-rain",
+  "revisionId": "external:automation:55644241-e045-49da-b016-110429991fae:2d45b36b4571f4af57fb76227ee5101e930ec8b545487210301e073284efba93:2d45b36b4571f4af57fb76227ee5101e930ec8b545487210301e073284efba93",
+  "createdAtUtc": "2026-11-27T11:44:15.649Z",
+  "artifact": {
+    "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAoKzFbzyuPWSZhiJM1kV60rEwa67IzF6emT_e2vT36FsxPNHcX7DnWL7PMIZW7bCd/casx9vg065b8g3ax.wprefab",
+    "displayName": "听见来处七组声画",
+    "summary": "homeward-rain",
+    "hasRuntimeScript": true,
+    "hasAudio": true,
+    "hasExpandableAssets": true,
+    "metadata": {
+      "capacity": 71749,
+      "faceCount": 51063,
+      "logicalCenter": [
+        0,
+        1.0399999618530273,
+        -25.750000381469725
+      ],
+      "rigged": false
+    },
+    "thumbnailUri": "tos-cn-i-c2ox06qgwk/aigc_editor/MS4wLjABAAAAoKzFbzyuPWSZhiJM1kV60rEwa67IzF6emT_e2vT36FsxPNHcX7DnWL7PMIZW7bCd/ad11379484d446d89ccfd85ffff6142a.png"
+  },
+  "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAoKzFbzyuPWSZhiJM1kV60rEwa67IzF6emT_e2vT36FsxPNHcX7DnWL7PMIZW7bCd/casx9vg065b8g3ax.wprefab"
+}

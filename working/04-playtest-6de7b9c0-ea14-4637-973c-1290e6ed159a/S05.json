@@ -1,0 +1,2662 @@
+[
+  {
+    "t": 517.3453979492188,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 661738,
+        "gain": 0.3840000033378601,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "点「听一听」，等到喜欢的那一拍。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 519.1182250976562,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 35011,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 831917,
+        "gain": 0.11251451820135117,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        359.6226501464844
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 519.3049926757812,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 52944,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 849859,
+        "gain": 0.10528049618005753,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        356.5771789550781
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 519.456298828125,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 67478,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 864384,
+        "gain": 0.10411336272954941,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        358.96539306640625
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 519.60400390625,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 81657,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 878573,
+        "gain": 0.1038009375333786,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        359.6993103027344
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 519.7548217773438,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 96124,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 893040,
+        "gain": 0.10371313244104385,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        359.93408203125
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 519.9033203125,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 110390,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 907296,
+        "gain": 0.10368906706571579,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        359.99322509765625
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 520.0551147460938,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 124953,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 921869,
+        "gain": 0.1036824882030487,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0.003466308582574129
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 520.2039184570312,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 139257,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 936163,
+        "gain": 0.10368067026138306,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0.0033245421946048737
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 520.3544921875,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 153696,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 950611,
+        "gain": 0.10368018597364426,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0.001622264040634036
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 520.5029296875,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 167942,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 964848,
+        "gain": 0.10368005186319351,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0.0007050071144476533
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 520.6531982421875,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 182380,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 979286,
+        "gain": 0.10368001461029053,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0.00027044324087910354
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 520.8043212890625,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 196886,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 993792,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 520.955322265625,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 211372,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1008278,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 521.105224609375,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 225763,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1022669,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 521.252197265625,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 239875,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1036781,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 521.4058837890625,
+    "channels": {
+      "Card": {
+        "clip": -11424,
+        "name": "",
+        "length": 2.5,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1051546,
+        "gain": 0.265437513589859,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 521.556396484375,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 5107,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1065984,
+        "gain": 0.25407177209854126,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 521.7064208984375,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 19507,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1080394,
+        "gain": 0.144623801112175,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0.1575234830379486
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 521.8546142578125,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 33744,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1094621,
+        "gain": 0.1151544526219368,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        359.70245361328125
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 522.0036010742188,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 48038,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1108925,
+        "gain": 0.10683786869049072,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        359.7432556152344
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 522.1553955078125,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 62611,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1123488,
+        "gain": 0.10454150289297104,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        359.8611145019531
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 522.3076171875,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 77222,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1138109,
+        "gain": 0.10391658544540405,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        359.9405212402344
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 522.4528198242188,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 91161,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1152038,
+        "gain": 0.10374502837657928,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        359.9774475097656
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 522.6057739257812,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 105849,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1166736,
+        "gain": 0.10369783639907837,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        359.9922790527344
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 522.7568969726562,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 120355,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1181242,
+        "gain": 0.10368489474058151,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        -0.0023617902770638466
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 522.9030151367188,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 134381,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1195267,
+        "gain": 0.10368134081363678,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        -0.0006309440941549838
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 523.0548706054688,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 148963,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1209850,
+        "gain": 0.10368037223815918,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        -0.00013983779354020953
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 523.2022705078125,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 163113,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1224000,
+        "gain": 0.1036800965666771,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        -9.845857675827574e-06
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 523.3536987304688,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 177648,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1238525,
+        "gain": 0.10368002206087112,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        1.0836082765308674e-05
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 523.5059204101562,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 192269,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1253146,
+        "gain": 0.10368000715970993,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        7.649849976587575e-06
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 523.652587890625,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 206352,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1267229,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 523.8054809570312,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 221021,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1281907,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 523.952880859375,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 235171,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1296048,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 524.1044921875,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 249734,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1310611,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 524.2548828125,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 264163,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1325059,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 524.4046020507812,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 278544,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1339421,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 524.555419921875,
+    "channels": {
+      "Card": {
+        "clip": -11426,
+        "name": "",
+        "length": 3.0999999046325684,
+        "cursor": 293011,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": -11440,
+        "name": "",
+        "length": 24,
+        "cursor": 1353888,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.17600059509277344,
+        1.0499999523162842,
+        0.3530006408691406
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "S01A": {
+    "samples": 9,
+    "caption": "细雨敲在铁皮上。",
+    "part": "RoofSkin",
+    "length": 2.4500000476837
+  },
+  "S01B": {
+    "samples": 10,
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "part": "RoofSkin",
+    "length": 2.6500000953674
+  },
+  "S02A": {
+    "samples": 75,
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "part": "BasinRipple",
+    "length": 19.090000152588
+  },
+  "S02B": {
+    "samples": 12,
+    "caption": "等了半晌，盆心又响一声。",
+    "part": "BasinRipple",
+    "length": 2.9000000953674
+  },
+  "S03A": {
+    "samples": 10,
+    "caption": "左手边，卷门的链条绷紧。",
+    "part": "ShutterEdge",
+    "length": 2.5999999046326
+  },
+  "S03B": {
+    "samples": 14,
+    "caption": "门沿上移，顿住时轻颤。",
+    "part": "ShutterEdge",
+    "length": 3.2409999370575
+  },
+  "S04A": {
+    "samples": 9,
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "part": "SteamerLid",
+    "length": 2.3499999046326
+  },
+  "S04B": {
+    "samples": 12,
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "part": "SteamerLid",
+    "length": 2.75
+  },
+  "S05A": {
+    "samples": 6,
+    "caption": "墙根的车铃轻轻碰响两下。",
+    "part": "BellCap",
+    "length": 1.6230000257492
+  },
+  "S05B": {
+    "samples": 12,
+    "caption": "铃帽停下来，尾声沿坡散开。",
+    "part": "BellCap",
+    "length": 3.0999999046326
+  },
+  "S06A": {
+    "samples": 9,
+    "caption": "坡上的钥匙串碰响，停在锁齿上。",
+    "part": "DoorLeaf",
+    "length": 2.5499999523163
+  },
+  "S06B": {
+    "samples": 9,
+    "caption": "锁舌咔哒，门缝里漏出暖光。",
+    "part": "DoorLeaf",
+    "length": 2.1370000839233
+  },
+  "S07A": {
+    "samples": 7,
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "part": null,
+    "length": 1.8020000457764
+  },
+  "S07B": {
+    "samples": 13,
+    "caption": "楼梯间的脚步渐渐远去。",
+    "part": null,
+    "length": 3
+  }
+}

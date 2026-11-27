@@ -44,7 +44,8 @@ def layout(width, height):
     slots = []
     for i in range(1, 4):
         box = ""
-        for source, asset in [("Tin", "tinSketch"), ("Basin", "basinSketch"), ("Window", "windowSketch")]:
+        for source in ("Tin", "Basin", "Shutter", "Steamer", "Bell", "Lock", "Window"):
+            asset = source.lower() + "Sketch"
             box += node(f"slot{i}{source}", "image", (63, 8, 152, 152),
                         attrs=f'src="../images/{asset}.png"')
         box += node(f"slot{i}Title", "text", (6, 171, 266, 47), "待收一声", size=28)

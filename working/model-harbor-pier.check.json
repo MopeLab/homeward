@@ -1,0 +1,9 @@
+{
+  "resourceId": "model-harbor-pier",
+  "modelType": 1,
+  "nodeCount": 1,
+  "sourceFiles": [
+    "meta.json",
+    "topology/model.glb"
+  ]
+}

@@ -1,5 +1,47 @@
 # 雨棚样段声音交接
 
+线程 04 的当前制作版包含 14 段独立卡片音轨、雨夜 / 晨市 / 暮路三段 24 秒循环底声、碗边短滴、开场语音和盖章提示声。[当前绑定表](./bindings.json) 列出全部 20 个音频引用，[七组声画内容](../Evidence/04-content.md) 记录现行片段和验证。
+
+### 当前音轨与来源
+
+| 键 | 文件夹位于 `assets/` | 秒 | 版本与使用说明 |
+| --- | --- | ---: | --- |
+| S01A | audio-tin-scatter | 2.45 | 01 原创拟音 v1 |
+| S01B | audio-tin-strike | 2.65 | 01 原创拟音 v1 |
+| S02A | audio-basin-drips-recorded | 19.090 | 交付的 `SFX/S02A.wav`，连续雨滴落在搪瓷碗 |
+| S02B | audio-basin-late | 2.90 | 01 原创拟音 v1 |
+| S03A | audio-shutter-chain | 2.60 | 04 原创拟音 v1 |
+| S03B | audio-shutter-stop-recorded | 3.242 | 交付的 `SFX/S03B.wav` |
+| S04A | audio-steamer-lid | 2.35 | 04 原创拟音 v1 |
+| S04B | audio-steamer-steam | 2.75 | 04 原创拟音 v1 |
+| S05A | audio-bell-double-recorded | 1.624 | 交付的 `SFX/S05A.wav` |
+| S05B | audio-bell-tail | 3.10 | 04 原创拟音 v1 |
+| S06A | audio-lock-keys | 2.55 | 04 原创拟音 v1 |
+| S06B | audio-lock-open-recorded | 2.138 | 交付的 `SFX/S06B.wav` |
+| S07A | audio-window-call-recorded | 1.802 | 制作方提供的 `Voice/S07A_01.wav` |
+| S07B | audio-window-steps | 3.00 | 01 原创拟音 v1 |
+| RainBed | audio-rain-bed | 24.00 | 01 原创循环底声 v1 |
+| MarketBed | audio-market-bed | 24.00 | 04 原创循环底声 v1 |
+| DuskBed | audio-dusk-bed | 24.00 | 04 原创循环底声 v1 |
+| BasinAccent | audio-basin-accent-recorded | 2.800 | 从 S02A 取前三次滴声，用于碗边背景近声 |
+| FamilyVoice | audio-family-voice-recorded | 3.318 | 制作方提供的 `Voice/FamilyVoice_01.wav` |
+| Postmark | audio-postmark | 0.36 | 04 原创拟音 v1 |
+
+原创程序拟音由 Homeward 制作组生成，可用于本作品、剪辑和参赛演示，可署名 Homeward 制作组。01 和 04 的拟音分别由 `make_foley.py` 与 `make_shore_foley.py` 重建。两句现用对白来自用户指定的 WAV，保留完整片长，从 44.1 kHz 单声道浮点转成单声道 16 位 PCM 归档，沿用 `FamilyVoice` 和 `S07A` 绑定键。
+
+### 交付音效的来源与处理
+
+四条可采音效沿用交付 WAV 的起止采样，转单声道 16 位 PCM 入包。按同批 `SFX` 目录里的原文件名登记来源。考虑到 19.09 秒的 A 拍用于主动试听和卡片，盆边环境位另用前 2.8 秒，加短尾部淡出。
+
+| 音轨 | 来源及署名 |
+| --- | --- |
+| S02A、BasinAccent | TRP 的金属器皿滴水录音，Freesound CC0。[原条目](https://freesound.org/people/TRP/sounds/567941/) |
+| S03B | ZapSplat 卷帘门录音，原下载文件编号 43838。项目署名写「Sound effects from ZapSplat」。[署名说明](https://www.zapsplat.com/how-to-credit-us/) |
+| S05A | manofham 的双响车铃，Freesound CC0。[原条目](https://freesound.org/people/manofham/sounds/701038/) |
+| S06B | fuzzpapi 的开锁声，Freesound CC0。[原条目](https://freesound.org/people/fuzzpapi/sounds/147347/) |
+
+## 01 样段原始交接
+
 01 样段使用 8 个已归档的单声道 WAV。六段可采，另有开场语音和一条连续雨底。每个可采片段由声源号和拍号唯一确定。A 是蓄势，B 是落点。三格卡按玩家选定的顺序存这两个字段，回放沿用相同的片段、图案和字幕。
 
 ## 编号与动作

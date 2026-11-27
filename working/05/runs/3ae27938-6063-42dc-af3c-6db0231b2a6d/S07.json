@@ -1,0 +1,420 @@
+[
+  {
+    "t": 274.0350036621094,
+    "channels": {
+      "Card": {
+        "clip": -8258,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 14683,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 274.28070068359375,
+    "channels": {
+      "Card": {
+        "clip": -8258,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 26472,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 274.5307922363281,
+    "channels": {
+      "Card": {
+        "clip": -8258,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 38477,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 274.7799072265625,
+    "channels": {
+      "Card": {
+        "clip": -8258,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 50434,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 275.03118896484375,
+    "channels": {
+      "Card": {
+        "clip": -8258,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 62496,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 275.2829895019531,
+    "channels": {
+      "Card": {
+        "clip": -8258,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 74587,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 275.533203125,
+    "channels": {
+      "Card": {
+        "clip": -8258,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 86517,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 275.78759765625,
+    "channels": {
+      "Card": {
+        "clip": -8260,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 303,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 276.0332946777344,
+    "channels": {
+      "Card": {
+        "clip": -8260,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 12087,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 276.2842102050781,
+    "channels": {
+      "Card": {
+        "clip": -8260,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 24130,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 276.533203125,
+    "channels": {
+      "Card": {
+        "clip": -8260,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 36087,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 276.78021240234375,
+    "channels": {
+      "Card": {
+        "clip": -8260,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 47938,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 277.031005859375,
+    "channels": {
+      "Card": {
+        "clip": -8260,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 59977,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 277.2817077636719,
+    "channels": {
+      "Card": {
+        "clip": -8260,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 72010,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 277.534912109375,
+    "channels": {
+      "Card": {
+        "clip": -8260,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 84164,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 277.7821960449219,
+    "channels": {
+      "Card": {
+        "clip": -8260,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 96034,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 278.0314025878906,
+    "channels": {
+      "Card": {
+        "clip": -8260,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 107996,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 278.28179931640625,
+    "channels": {
+      "Card": {
+        "clip": -8260,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 120015,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 278.5321960449219,
+    "channels": {
+      "Card": {
+        "clip": -8260,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 132039,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 278.78009033203125,
+    "channels": {
+      "Card": {
+        "clip": -8260,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 143938,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 279.03240966796875,
+    "channels": {
+      "Card": {
+        "clip": -8260,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 279.2818908691406,
+    "channels": {
+      "Card": {
+        "clip": -8260,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  }
+]

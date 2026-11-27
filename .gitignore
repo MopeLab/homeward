@@ -1,1 +1,14 @@
 /OfficialDocs
+
+# 剪辑用的原始录音留在本机，游戏实际使用的版本在 RainStudy/Audio/assets。
+/SFX/
+/Voice/
+__pycache__/
+*.py[cod]
+*.pkf
+
+# 成品动图和对应机位截图已归档；逐帧合成输入可由 03 的采集脚本重建。
+/working/03-ripples-reopen/wave-*.png
+
+# 编辑器原始日志可能带临时资源下载签名。
+/working/*-logs.json

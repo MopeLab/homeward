@@ -1,0 +1,54 @@
+{
+  "runtime": "1a2b7ad2-b762-4ca9-889e-dc8a2e3a2c1b",
+  "assets": {
+    "water": {
+      "texture": "",
+      "width": 1024,
+      "display": 1,
+      "pieces": 0
+    },
+    "boats": [
+      {
+        "texture": "",
+        "width": 1024,
+        "display": 1,
+        "pieces": 0
+      },
+      {
+        "texture": "",
+        "width": 1024,
+        "display": 1,
+        "pieces": 0
+      },
+      {
+        "texture": "",
+        "width": 1024,
+        "display": 1,
+        "pieces": 0
+      }
+    ],
+    "old": false,
+    "campusWater": false
+  },
+  "duration": 19.09000015258789,
+  "lowestRequested": {
+    "yaw": 323.00018310546875,
+    "pitch": -4,
+    "camera": [
+      2.1012191772460938,
+      0.3325347900390625,
+      7.4869537353515625
+    ],
+    "direction": [
+      -0.6003463268280029,
+      0.06975647807121277,
+      0.7966921329498291
+    ],
+    "actor": [
+      0,
+      0.0021514892578125,
+      10.275382995605469
+    ],
+    "near": 0.05000000074505806
+  }
+}

@@ -1,0 +1,70 @@
+00:03.032  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+Extensions: writing cache failed ([WinError 5] 拒绝访问。: 'C:\\Users\\Auntn\\AppData\\Roaming\\Blender Foundation\\Blender\\5.3\\extensions').
+Cycles OPTIX NVIDIA GeForce RTX 5060 Laptop GPU
+F:\Mopelab\Homeward\RainStudy\ShoreRoute\Banks\build_banks.py:36: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes = True
+F:\Mopelab\Homeward\RainStudy\ShoreRoute\Banks\build_banks.py:48: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat.use_nodes = True
+00:03.422  image.write      | ERROR OpenImageIO write failed: Could not open file "C:\Users\Auntn\.thumbnails\large\blender_17152_a763e7cbabf0749ef7b2105f191c7edc.png.png"
+Info: Saved as "banks-master.blend"
+Baking MarketMasonry 1536
+Info: Baking map saved to internal image, save it externally or pack it
+Baking ShutterFrame 512
+Info: Baking map saved to internal image, save it externally or pack it
+Baking SteamerHearth 512
+Info: Baking map saved to internal image, save it externally or pack it
+Baking DuskMasonry 1536
+Info: Baking map saved to internal image, save it externally or pack it
+Baking BicycleFrame 512
+Info: Baking map saved to internal image, save it externally or pack it
+Baking DoorFrame 512
+Info: Baking map saved to internal image, save it externally or pack it
+INFO Draco is available, use library at C:\Program Files\Blender Foundation\Blender 5.3\blender.shared\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Program Files\Blender Foundation\Blender 5.3\blender.shared\bf_intern_meshopt_bridge.dll
+03:14:03 | INFO: Starting glTF 2.0 export
+03:14:03 | INFO: Extracting primitive: MarketMasonry
+03:14:03 | INFO: Primitives created: 1
+03:14:03 | INFO: Finished glTF 2.0 export in 0.08947324752807617 s
+
+Exported market-bank
+03:14:03 | INFO: Starting glTF 2.0 export
+03:14:03 | INFO: Extracting primitive: ShutterEdge
+03:14:03 | INFO: Primitives created: 2
+03:14:03 | INFO: Extracting primitive: ShutterFrame
+03:14:03 | INFO: Primitives created: 1
+03:14:03 | INFO: Finished glTF 2.0 export in 0.014099359512329102 s
+
+Exported shutter
+03:14:03 | INFO: Starting glTF 2.0 export
+03:14:03 | INFO: Extracting primitive: SteamerHearth
+03:14:03 | INFO: Primitives created: 1
+03:14:03 | INFO: Extracting primitive: SteamerLid
+03:14:03 | INFO: Primitives created: 3
+03:14:03 | INFO: Finished glTF 2.0 export in 0.015213966369628906 s
+
+Exported steamer
+03:14:03 | INFO: Starting glTF 2.0 export
+03:14:03 | INFO: Extracting primitive: DuskMasonry
+03:14:03 | INFO: Primitives created: 1
+03:14:03 | INFO: Finished glTF 2.0 export in 0.0413365364074707 s
+
+Exported dusk-bank
+03:14:03 | INFO: Starting glTF 2.0 export
+03:14:03 | INFO: Extracting primitive: BellCap
+03:14:03 | INFO: Primitives created: 2
+03:14:03 | INFO: Extracting primitive: BicycleFrame
+03:14:03 | INFO: Primitives created: 1
+03:14:03 | INFO: Finished glTF 2.0 export in 0.02009725570678711 s
+
+Exported bicycle
+03:14:03 | INFO: Starting glTF 2.0 export
+03:14:03 | INFO: Extracting primitive: DoorFrame
+03:14:03 | INFO: Primitives created: 1
+03:14:03 | INFO: Extracting primitive: DoorLeaf
+03:14:03 | INFO: Primitives created: 3
+03:14:03 | INFO: Finished glTF 2.0 export in 0.009362459182739258 s
+
+Exported door
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

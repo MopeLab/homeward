@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "runtime": "125dbba5-94ea-47fd-8d56-cd7e29ad278b",
+  "clipIDs": {
+    "S02A": -11120,
+    "S03B": -11128,
+    "S05A": -11134,
+    "S06B": -11140
+  },
+  "S02AAuditionCursorSeconds": 18.903104166666665,
+  "S02AAtoBSeconds": 19.29849731445313,
+  "S02AReplayCursorSeconds": 19.0545,
+  "S02AToNextSlotSeconds": 19.451297851562458
+}

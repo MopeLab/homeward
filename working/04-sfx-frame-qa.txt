@@ -1,0 +1,4 @@
+S02A frames 916320 Hz 48000 mono True
+S03B frames 155600 Hz 48000 mono True
+S05A frames 71609 Hz 44100 mono True
+S06B frames 94284 Hz 44100 mono True

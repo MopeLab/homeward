@@ -1,0 +1,19 @@
+00:04.516  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+F:\Mopelab\Homeward\RainStudy\ShoreRoute\Backdrop\build_backdrop.py:30: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes=True
+F:\Mopelab\Homeward\RainStudy\ShoreRoute\Backdrop\build_backdrop.py:43: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes=True
+00:04.922  image.write      | ERROR OpenImageIO write failed: Could not open file "C:\Users\Auntn\.thumbnails\large\blender_20244_e380a69a6f03c93ac9cf5bcd4b88ed08.png.png"
+Extensions: writing cache failed ([WinError 5] 拒绝访问。: 'C:\\Users\\Auntn\\AppData\\Roaming\\Blender Foundation\\Blender\\5.3\\extensions').
+Info: Saved as "backdrop-master.blend"
+Info: Baking map saved to internal image, save it externally or pack it
+INFO Draco is available, use library at C:\Program Files\Blender Foundation\Blender 5.3\blender.shared\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Program Files\Blender Foundation\Blender 5.3\blender.shared\bf_intern_meshopt_bridge.dll
+03:52:20 | INFO: Starting glTF 2.0 export
+03:52:20 | INFO: Extracting primitive: Far quay and staggered roofs
+03:52:20 | INFO: Primitives created: 1
+03:52:20 | INFO: Finished glTF 2.0 export in 0.06200456619262695 s
+
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

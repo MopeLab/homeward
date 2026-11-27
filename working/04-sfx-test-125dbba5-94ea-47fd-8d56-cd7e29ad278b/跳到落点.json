@@ -1,0 +1,78 @@
+[
+  {
+    "t": 334.9486999511719,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 19516,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 335.1424865722656,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 28819,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 335.29681396484375,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 36225,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 335.4450988769531,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 43349,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  }
+]

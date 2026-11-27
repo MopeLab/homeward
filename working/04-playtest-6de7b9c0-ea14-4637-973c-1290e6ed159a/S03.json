@@ -1,0 +1,2662 @@
+[
+  {
+    "t": 481.8406982421875,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6880000233650208,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 555360,
+        "gain": 0.3840000033378601,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "点「听一听」，等到喜欢的那一拍。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 484.3870849609375,
+    "channels": {
+      "Card": {
+        "clip": -11416,
+        "name": "",
+        "length": 2.5999999046325684,
+        "cursor": 161515,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 799824,
+        "gain": 0.10368011891841888,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "左手边，卷门的链条绷紧。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.458985447883606,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 484.5563049316406,
+    "channels": {
+      "Card": {
+        "clip": -11416,
+        "name": "",
+        "length": 2.5999999046325684,
+        "cursor": 177758,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 816068,
+        "gain": 0.10368002206087112,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "左手边，卷门的链条绷紧。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.4140487909317017,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 484.7052001953125,
+    "channels": {
+      "Card": {
+        "clip": -11416,
+        "name": "",
+        "length": 2.5999999046325684,
+        "cursor": 192043,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 830343,
+        "gain": 0.10368000715970993,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "左手边，卷门的链条绷紧。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3800688982009888,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 484.85540771484375,
+    "channels": {
+      "Card": {
+        "clip": -11416,
+        "name": "",
+        "length": 2.5999999046325684,
+        "cursor": 206462,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 844762,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "左手边，卷门的链条绷紧。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 485.00628662109375,
+    "channels": {
+      "Card": {
+        "clip": -11416,
+        "name": "",
+        "length": 2.5999999046325684,
+        "cursor": 220948,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 859248,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "左手边，卷门的链条绷紧。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 485.15521240234375,
+    "channels": {
+      "Card": {
+        "clip": -11416,
+        "name": "",
+        "length": 2.5999999046325684,
+        "cursor": 235243,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 873552,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "左手边，卷门的链条绷紧。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 485.30828857421875,
+    "channels": {
+      "Card": {
+        "clip": -11416,
+        "name": "",
+        "length": 2.5999999046325684,
+        "cursor": 249600,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 888250,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "左手边，卷门的链条绷紧。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 485.45599365234375,
+    "channels": {
+      "Card": {
+        "clip": -11416,
+        "name": "",
+        "length": 2.5999999046325684,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 902429,
+        "gain": 0.2677272856235504,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "左手边，卷门的链条绷紧。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 485.605712890625,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 5126,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 916800,
+        "gain": 0.25253114104270935,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 485.755615234375,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 19517,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 931191,
+        "gain": 0.14460217952728271,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.4099681377410889,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 485.9056091308594,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 33907,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 945591,
+        "gain": 0.11494140326976776,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.450622797012329,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 486.0570068359375,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 48442,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 960125,
+        "gain": 0.10677263140678406,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.4913437366485596,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 486.2098083496094,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 63120,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 974794,
+        "gain": 0.10452469438314438,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.532188892364502,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 486.35650634765625,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 77203,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 988877,
+        "gain": 0.10391346365213394,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.5861260890960693,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 486.50738525390625,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 91680,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1003354,
+        "gain": 0.10374356061220169,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.5562397241592407,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 486.65850830078125,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 106195,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1017869,
+        "gain": 0.10369758307933807,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.5677900314331055,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 486.8096008300781,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 120701,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1032375,
+        "gain": 0.10368479043245316,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.5711270570755005,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 486.9591064453125,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 135053,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1046736,
+        "gain": 0.10368132591247559,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.5640686750411987,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 487.1076965332031,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 149318,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1060992,
+        "gain": 0.10368035733699799,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.5176305770874023,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 487.2550048828125,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 163450,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1075124,
+        "gain": 0.1036800965666771,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.4718471765518188,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 487.4065856933594,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 178003,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1089687,
+        "gain": 0.10368002206087112,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.4258228540420532,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 487.5567932128906,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 192422,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1104096,
+        "gain": 0.10368000715970993,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 487.7040100097656,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 206554,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1118237,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 487.8577880859375,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 221338,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1133012,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 488.00408935546875,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 235363,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1147037,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 488.1564025878906,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 249994,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1161668,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 488.3052978515625,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1175952,
+        "gain": 0.20041842758655548,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 488.4556884765625,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1190400,
+        "gain": 0.3337472975254059,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 488.6064147949219,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1204868,
+        "gain": 0.37015706300735474,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 488.7572021484375,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1219335,
+        "gain": 0.38019439578056335,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 488.906494140625,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1233668,
+        "gain": 0.38295379281044006,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 489.0546875,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1247895,
+        "gain": 0.3837145268917084,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 489.2065124511719,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1262468,
+        "gain": 0.38392186164855957,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 489.3577880859375,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1277040,
+        "gain": 0.3839784562587738,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 489.506591796875,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1291277,
+        "gain": 0.38399404287338257,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 489.6571044921875,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1305735,
+        "gain": 0.3839983642101288,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 489.80889892578125,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1320298,
+        "gain": 0.3839995563030243,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "门沿上移，顿住时轻颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        -0.13000011444091797,
+        1.3799999952316284,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "resourceId": "model-harbor-boat",
+  "modelType": 1,
+  "nodeCount": 4,
+  "sourceFiles": [
+    "meta.json",
+    "topology/model.glb"
+  ]
+}

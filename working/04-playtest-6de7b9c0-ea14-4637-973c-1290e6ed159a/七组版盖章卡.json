@@ -1,0 +1,4734 @@
+[
+  {
+    "t": 564.3961181640625,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1789872,
+        "gain": 0.32095998525619507,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "点一格可试听，也可以交换两格。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 564.5554809570312,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1805174,
+        "gain": 0.32095998525619507,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "点一格可试听，也可以交换两格。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 564.7030029296875,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1819325,
+        "gain": 0.32095998525619507,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "点一格可试听，也可以交换两格。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 564.8530883789062,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1833744,
+        "gain": 0.32095998525619507,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "点一格可试听，也可以交换两格。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 565.0057983398438,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1848403,
+        "gain": 0.32095998525619507,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "点一格可试听，也可以交换两格。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 565.156005859375,
+    "channels": {
+      "Card": {
+        "clip": -11444,
+        "name": "",
+        "length": 0.36000001430511475,
+        "cursor": 9976,
+        "gain": 0.5199999809265137,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1862822,
+        "gain": 0.15091797709465027,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "雨夜邮戳",
+    "images": [
+      [],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 565.3035278320312,
+    "channels": {
+      "Card": {
+        "clip": -11444,
+        "name": "",
+        "length": 0.36000001430511475,
+        "cursor": 24136,
+        "gain": 0.5199999809265137,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1876973,
+        "gain": 0.10415282100439072,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "雨夜邮戳",
+    "images": [
+      [],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 565.4578247070312,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 518,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1891785,
+        "gain": 0.09147864580154419,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 565.6082153320312,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 14957,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1906233,
+        "gain": 0.08796834200620651,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 565.7557983398438,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 29126,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1920403,
+        "gain": 0.08702453970909119,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 565.9046020507812,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 43421,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1934688,
+        "gain": 0.08675865828990936,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 566.055908203125,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 57936,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1949203,
+        "gain": 0.08668674528598785,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 566.207275390625,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 72480,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1963747,
+        "gain": 0.08666660636663437,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 566.353271484375,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 86496,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1977763,
+        "gain": 0.08666126430034637,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 566.5067749023438,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 101232,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1992509,
+        "gain": 0.08665976673364639,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 566.6538696289062,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 115344,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2006621,
+        "gain": 0.08665935695171356,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 566.8038940429688,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 129754,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2021021,
+        "gain": 0.08665923774242401,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 566.9534301757812,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 144096,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2035373,
+        "gain": 0.08665920794010162,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 567.1052856445312,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 158688,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2049955,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 567.2507934570312,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 172646,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2063913,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 567.4013061523438,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 187094,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2078361,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 567.5524291992188,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 201610,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2092877,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 567.7047119140625,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 216221,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2107497,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 567.8563232421875,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 230774,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2122041,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 568.0032958984375,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 244896,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2136173,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 568.1558837890625,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2150813,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 568.306396484375,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2165251,
+        "gain": 0.25725480914115906,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 1 格 · 铁皮重滴　一颗重雨滴把棚边敲颤。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 568.4564819335938,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 442,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2179661,
+        "gain": 0.30339524149894714,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 568.6060791015625,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 14813,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2194032,
+        "gain": 0.14604385197162628,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 568.7532958984375,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 28934,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2208163,
+        "gain": 0.10319537669420242,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 568.9017944335938,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 43190,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2222419,
+        "gain": 0.09123347699642181,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 569.0543823242188,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 57850,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2237069,
+        "gain": 0.08791082352399826,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 569.2025756835938,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 72077,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2251296,
+        "gain": 0.0870036631822586,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 569.3541870117188,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 86630,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2265849,
+        "gain": 0.08675339072942734,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 569.502685546875,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 100877,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2280096,
+        "gain": 0.08668500185012817,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 569.6546020507812,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 115459,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2294678,
+        "gain": 0.08666632324457169,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 569.8048706054688,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 129898,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 5145,
+        "gain": 0.08666115254163742,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 569.9555053710938,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 144355,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 19574,
+        "gain": 0.08665972948074341,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 570.1060791015625,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 158803,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 34032,
+        "gain": 0.08665934205055237,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 570.252685546875,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 172877,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 48105,
+        "gain": 0.08665923774242401,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 570.406494140625,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 187651,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 62880,
+        "gain": 0.08665920794010162,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 570.5549926757812,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 201907,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 77126,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 570.7044067382812,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 216240,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 91459,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 570.8536987304688,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 230573,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 105801,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 571.0032958984375,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 244944,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 120163,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 571.1546020507812,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 134707,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 571.3060913085938,
+    "channels": {
+      "Card": {
+        "clip": -11430,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 149241,
+        "gain": 0.25661981105804443,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 2 格 · 钥匙转开　锁舌咔哒，门缝里漏出暖光。",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      []
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 571.4556274414062,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 422,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 163574,
+        "gain": 0.3034612834453583,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 571.6016235351562,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 14438,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 177590,
+        "gain": 0.1468123495578766,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 571.7540893554688,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 29097,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 192259,
+        "gain": 0.10326747596263885,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 571.9027709960938,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 43363,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 206515,
+        "gain": 0.09119563549757004,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 572.0537109375,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 57840,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 221001,
+        "gain": 0.08788897097110748,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 572.205078125,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 72374,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 235526,
+        "gain": 0.08700017631053925,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 572.3516845703125,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 86448,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 249600,
+        "gain": 0.08675344288349152,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 572.5032958984375,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 101011,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 264163,
+        "gain": 0.08668485283851624,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 572.653076171875,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 115392,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 278544,
+        "gain": 0.0866663008928299,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 572.8057250976562,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 130041,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 293203,
+        "gain": 0.08666113018989563,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 572.9534912109375,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 144221,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 307373,
+        "gain": 0.08665972948074341,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 573.1021118164062,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 158486,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 321648,
+        "gain": 0.08665934205055237,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 573.2525024414062,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 172934,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 336086,
+        "gain": 0.08665923774242401,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 573.4024047851562,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 187325,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 350477,
+        "gain": 0.08665920794010162,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 573.5545043945312,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 201926,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 365078,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 573.7015991210938,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 216038,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 379190,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 573.8551025390625,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 230774,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 393926,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 574.0045776367188,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 408297,
+        "gain": 0.16997656226158142,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 574.1533813476562,
+    "channels": {
+      "Card": {
+        "clip": -11432,
+        "name": "",
+        "length": 2.4489998817443848,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 422573,
+        "gain": 0.2792768180370331,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "第 3 格 · 走啦，吃饭去　楼下的室友：「走啦，吃饭去！」",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 574.3018798828125,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 436829,
+        "gain": 0.30937719345092773,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 574.4526977539062,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 451296,
+        "gain": 0.3178167939186096,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 574.602294921875,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 465667,
+        "gain": 0.3200940191745758,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 574.7534790039062,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 480173,
+        "gain": 0.32072219252586365,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 574.9014892578125,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 494381,
+        "gain": 0.32089439034461975,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 575.0579223632812,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 509405,
+        "gain": 0.3209421634674072,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 575.2033081054688,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 523353,
+        "gain": 0.3209550976753235,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 575.3521728515625,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 537657,
+        "gain": 0.32095861434936523,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 575.5037841796875,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 552201,
+        "gain": 0.3209596276283264,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 575.6557006835938,
+    "channels": {
+      "Card": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 566793,
+        "gain": 0.3209598958492279,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.38399839401245117,
+        "playing": false,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.3840000033378601,
+        "playing": false,
+        "loop": true
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "",
+    "images": [
+      [
+        "Tin"
+      ],
+      [
+        "Lock"
+      ],
+      [
+        "Window"
+      ]
+    ],
+    "particleCount": 0,
+    "part": null
+  }
+]

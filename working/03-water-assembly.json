@@ -1,0 +1,15 @@
+{
+  "changed": {
+    "nodes": 15,
+    "components": 13,
+    "scripts": 0,
+    "resources": 0
+  },
+  "summary": "Updated 15 nodes, 13 components, 0 scripts and 0 resources",
+  "result": {
+    "root": "n56",
+    "environment": "n57",
+    "placements": []
+  },
+  "revision": "f1a91d2dfaa9e4683da8535f0119b9dd1ddb5d9c349ab3806336fa3f81b81ddc"
+}

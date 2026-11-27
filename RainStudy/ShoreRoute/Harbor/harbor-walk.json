@@ -1,0 +1,48 @@
+{
+  "source": "exported glTF triangles / Unity local coordinates",
+  "sampleStepM": 0.002,
+  "checks": [
+    {
+      "reach": "campus-pier-to-bow",
+      "xFromCenterM": -0.28,
+      "startZ": 10.9,
+      "endZ": 16.55,
+      "longestUnsupportedRunM": 0.006
+    },
+    {
+      "reach": "campus-pier-to-bow",
+      "xFromCenterM": 0,
+      "startZ": 10.9,
+      "endZ": 16.55,
+      "longestUnsupportedRunM": 0.006
+    },
+    {
+      "reach": "campus-pier-to-bow",
+      "xFromCenterM": 0.28,
+      "startZ": 10.9,
+      "endZ": 16.55,
+      "longestUnsupportedRunM": 0.006
+    },
+    {
+      "reach": "bank-deck-to-land",
+      "xFromCenterM": -0.28,
+      "startZ": 16.3,
+      "endZ": 20.2,
+      "longestUnsupportedRunM": 0.006
+    },
+    {
+      "reach": "bank-deck-to-land",
+      "xFromCenterM": 0,
+      "startZ": 16.3,
+      "endZ": 20.2,
+      "longestUnsupportedRunM": 0.006
+    },
+    {
+      "reach": "bank-deck-to-land",
+      "xFromCenterM": 0.28,
+      "startZ": 16.3,
+      "endZ": 20.2,
+      "longestUnsupportedRunM": 0.006
+    }
+  ]
+}

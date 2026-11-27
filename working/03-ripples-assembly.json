@@ -1,0 +1,15 @@
+{
+  "changed": {
+    "nodes": 3,
+    "components": 2,
+    "scripts": 0,
+    "resources": 0
+  },
+  "summary": "Updated 3 nodes, 2 components, 0 scripts and 0 resources",
+  "result": {
+    "root": "n114",
+    "removedNodes": 1,
+    "addedNodes": 1
+  },
+  "revision": "e43d0edfa05a2e9dc3295b6a715156667e98107dcb2e803d91813b5549478971"
+}

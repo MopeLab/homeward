@@ -1,0 +1,32 @@
+00:04.843  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+Extensions: writing cache failed ([WinError 5] 拒绝访问。: 'C:\\Users\\Auntn\\AppData\\Roaming\\Blender Foundation\\Blender\\5.3\\extensions').
+Baking with NVIDIA GeForce RTX 5060 Laptop GPU
+F:\Mopelab\Homeward\RainStudy\ShoreRoute\Harbor\build_harbor.py:36: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes = True
+F:\Mopelab\Homeward\RainStudy\ShoreRoute\Harbor\build_harbor.py:51: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat.use_nodes=True
+00:05.265  image.write      | ERROR OpenImageIO write failed: Could not open file "C:\Users\Auntn\.thumbnails\large\blender_28636_6255894338bdac4cbe3f10993bc871d5.png.png"
+Info: Saved as "harbor-master.blend"
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+INFO Draco is available, use library at C:\Program Files\Blender Foundation\Blender 5.3\blender.shared\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Program Files\Blender Foundation\Blender 5.3\blender.shared\bf_intern_meshopt_bridge.dll
+03:12:56 | INFO: Starting glTF 2.0 export
+03:12:56 | INFO: Extracting primitive: BowGlass
+03:12:57 | INFO: Primitives created: 1
+03:12:57 | INFO: Extracting primitive: Planked hull
+03:12:57 | INFO: Primitives created: 1
+03:12:57 | INFO: Extracting primitive: SternGlass
+03:12:57 | INFO: Primitives created: 1
+03:12:57 | INFO: Finished glTF 2.0 export in 0.06748294830322266 s
+
+Exported harbor-boat
+03:12:57 | INFO: Starting glTF 2.0 export
+03:12:57 | INFO: Extracting primitive: Underbeam
+03:12:57 | INFO: Primitives created: 1
+03:12:57 | INFO: Finished glTF 2.0 export in 0.01695990562438965 s
+
+Exported harbor-pier
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+
+Blender quit

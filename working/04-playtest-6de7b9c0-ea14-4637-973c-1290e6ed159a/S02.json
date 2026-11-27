@@ -1,0 +1,2662 @@
+[
+  {
+    "t": 461.07159423828125,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 577613,
+        "gain": 0.31890615820884705,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "点「听一听」，等到喜欢的那一拍。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 461.9794006347656,
+    "channels": {
+      "Card": {
+        "clip": -11412,
+        "name": "",
+        "length": 2.4000000953674316,
+        "cursor": 36010,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 664752,
+        "gain": 0.09414681792259216,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.6695876717567444,
+        1,
+        0.6695876717567444
+      ]
+    ]
+  },
+  {
+    "t": 462.15740966796875,
+    "channels": {
+      "Card": {
+        "clip": -11412,
+        "name": "",
+        "length": 2.4000000953674316,
+        "cursor": 53098,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 681850,
+        "gain": 0.08798858523368835,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.6218060255050659,
+        1,
+        0.6218060255050659
+      ]
+    ]
+  },
+  {
+    "t": 462.3089904785156,
+    "channels": {
+      "Card": {
+        "clip": -11412,
+        "name": "",
+        "length": 2.4000000953674316,
+        "cursor": 67652,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 696403,
+        "gain": 0.08702465146780014,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.8031395077705383,
+        1,
+        0.8031395077705383
+      ]
+    ]
+  },
+  {
+    "t": 462.4559020996094,
+    "channels": {
+      "Card": {
+        "clip": -11412,
+        "name": "",
+        "length": 2.4000000953674316,
+        "cursor": 81754,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 710496,
+        "gain": 0.08675975352525711,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.9843252897262573,
+        1,
+        0.9843252897262573
+      ]
+    ]
+  },
+  {
+    "t": 462.6094970703125,
+    "channels": {
+      "Card": {
+        "clip": -11412,
+        "name": "",
+        "length": 2.4000000953674316,
+        "cursor": 96509,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 725251,
+        "gain": 0.08668666332960129,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1.1663970947265625,
+        1,
+        1.1663970947265625
+      ]
+    ]
+  },
+  {
+    "t": 462.7615051269531,
+    "channels": {
+      "Card": {
+        "clip": -11412,
+        "name": "",
+        "length": 2.4000000953674316,
+        "cursor": 111092,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 739834,
+        "gain": 0.08666668832302094,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1.190000057220459,
+        1,
+        1.190000057220459
+      ]
+    ]
+  },
+  {
+    "t": 462.90679931640625,
+    "channels": {
+      "Card": {
+        "clip": -11412,
+        "name": "",
+        "length": 2.4000000953674316,
+        "cursor": 125050,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 753792,
+        "gain": 0.08666127920150757,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1.190000057220459,
+        1,
+        1.190000057220459
+      ]
+    ]
+  },
+  {
+    "t": 463.055908203125,
+    "channels": {
+      "Card": {
+        "clip": -11412,
+        "name": "",
+        "length": 2.4000000953674316,
+        "cursor": 139354,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 768096,
+        "gain": 0.08665976673364639,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1.190000057220459,
+        1,
+        1.190000057220459
+      ]
+    ]
+  },
+  {
+    "t": 463.2065124511719,
+    "channels": {
+      "Card": {
+        "clip": -11412,
+        "name": "",
+        "length": 2.4000000953674316,
+        "cursor": 153821,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 782563,
+        "gain": 0.08665934950113297,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1.190000057220459,
+        1,
+        1.190000057220459
+      ]
+    ]
+  },
+  {
+    "t": 463.3555908203125,
+    "channels": {
+      "Card": {
+        "clip": -11412,
+        "name": "",
+        "length": 2.4000000953674316,
+        "cursor": 168125,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 796867,
+        "gain": 0.08665923774242401,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1.190000057220459,
+        1,
+        1.190000057220459
+      ]
+    ]
+  },
+  {
+    "t": 463.5071105957031,
+    "channels": {
+      "Card": {
+        "clip": -11412,
+        "name": "",
+        "length": 2.4000000953674316,
+        "cursor": 182679,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 811421,
+        "gain": 0.08665920794010162,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1.190000057220459,
+        1,
+        1.190000057220459
+      ]
+    ]
+  },
+  {
+    "t": 463.6568908691406,
+    "channels": {
+      "Card": {
+        "clip": -11412,
+        "name": "",
+        "length": 2.4000000953674316,
+        "cursor": 197050,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 825792,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 463.806884765625,
+    "channels": {
+      "Card": {
+        "clip": -11412,
+        "name": "",
+        "length": 2.4000000953674316,
+        "cursor": 211460,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 840202,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 463.9578857421875,
+    "channels": {
+      "Card": {
+        "clip": -11412,
+        "name": "",
+        "length": 2.4000000953674316,
+        "cursor": 225965,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 854707,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 464.10589599609375,
+    "channels": {
+      "Card": {
+        "clip": -11412,
+        "name": "",
+        "length": 2.4000000953674316,
+        "cursor": 0,
+        "gain": 0.6880000233650208,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 868896,
+        "gain": 0.22132733464241028,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "两滴挨得很近，水纹叠在一起。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 464.2607116699219,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 5347,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 883776,
+        "gain": 0.21221619844436646,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.4399999976158142,
+        1,
+        0.4399999976158142
+      ]
+    ]
+  },
+  {
+    "t": 464.4092102050781,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 19593,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 898022,
+        "gain": 0.12140069901943207,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.4399999976158142,
+        1,
+        0.4399999976158142
+      ]
+    ]
+  },
+  {
+    "t": 464.5567932128906,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 33753,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 912182,
+        "gain": 0.09619907289743423,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.4399999976158142,
+        1,
+        0.4399999976158142
+      ]
+    ]
+  },
+  {
+    "t": 464.7095031738281,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 48422,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 926851,
+        "gain": 0.0892450362443924,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.4399999976158142,
+        1,
+        0.4399999976158142
+      ]
+    ]
+  },
+  {
+    "t": 464.8576965332031,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 62640,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 941069,
+        "gain": 0.08737851679325104,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.4399999976158142,
+        1,
+        0.4399999976158142
+      ]
+    ]
+  },
+  {
+    "t": 465.0083923339844,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 77107,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 955546,
+        "gain": 0.08685419708490372,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.4399999976158142,
+        1,
+        0.4399999976158142
+      ]
+    ]
+  },
+  {
+    "t": 465.156005859375,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 91277,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 969706,
+        "gain": 0.08671344071626663,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.4399999976158142,
+        1,
+        0.4399999976158142
+      ]
+    ]
+  },
+  {
+    "t": 465.3078918457031,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 105859,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 984288,
+        "gain": 0.0866740420460701,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.4399999976158142,
+        1,
+        0.4399999976158142
+      ]
+    ]
+  },
+  {
+    "t": 465.4588928222656,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 120365,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 998794,
+        "gain": 0.08666329085826874,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.47507208585739136,
+        1,
+        0.47507208585739136
+      ]
+    ]
+  },
+  {
+    "t": 465.60540771484375,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 134429,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1012858,
+        "gain": 0.08666032552719116,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.6561840772628784,
+        1,
+        0.6561840772628784
+      ]
+    ]
+  },
+  {
+    "t": 465.7558898925781,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 148867,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1027306,
+        "gain": 0.0866595059633255,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.8382189273834229,
+        1,
+        0.8382189273834229
+      ]
+    ]
+  },
+  {
+    "t": 465.9090881347656,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 163593,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1042032,
+        "gain": 0.08665928244590759,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1.021250605583191,
+        1,
+        1.021250605583191
+      ]
+    ]
+  },
+  {
+    "t": 466.0581970214844,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 177897,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1056326,
+        "gain": 0.08665922284126282,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1.190000057220459,
+        1,
+        1.190000057220459
+      ]
+    ]
+  },
+  {
+    "t": 466.2073974609375,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 192221,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1070650,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1.190000057220459,
+        1,
+        1.190000057220459
+      ]
+    ]
+  },
+  {
+    "t": 466.36138916015625,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 207005,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1085443,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 466.50738525390625,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 221011,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1099440,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 466.6557922363281,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 235257,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1113686,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 466.80828857421875,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 249897,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1128326,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 466.95721435546875,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 264192,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1142630,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 467.1091003417969,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 0,
+        "gain": 0.6880000233650208,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1157203,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 467.26080322265625,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 0,
+        "gain": 0.6880000233650208,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1171786,
+        "gain": 0.2226179838180542,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 467.410888671875,
+    "channels": {
+      "Card": {
+        "clip": -11414,
+        "name": "",
+        "length": 2.9000000953674316,
+        "cursor": 0,
+        "gain": 0.6880000233650208,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1186186,
+        "gain": 0.2940135896205902,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "type": "wprefab",
+  "artifactId": "homeward-rain",
+  "revisionId": "external:automation:6551d035-073d-401d-a2bd-39732f345992:b268429ce19a222f6617c4015820702d7e7302c7b1a563ac94973cc3ccf8b2a8:b268429ce19a222f6617c4015820702d7e7302c7b1a563ac94973cc3ccf8b2a8",
+  "createdAtUtc": "2026-11-27T16:28:41.153Z",
+  "artifact": {
+    "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAoKzFbzyuPWSZhiJM1kV60rEwa67IzF6emT_e2vT36FsxPNHcX7DnWL7PMIZW7bCd/x465o9e9p7d663y8.wprefab",
+    "displayName": "听见来处 · 修订水岸",
+    "summary": "homeward-rain",
+    "hasRuntimeScript": true,
+    "hasAudio": true,
+    "hasExpandableAssets": true,
+    "metadata": {
+      "capacity": 105233,
+      "faceCount": 84047,
+      "logicalCenter": [
+        0,
+        1.0399999618530273,
+        -23.800000000000068
+      ],
+      "rigged": false
+    },
+    "thumbnailUri": "tos-cn-i-c2ox06qgwk/aigc_editor/MS4wLjABAAAAoKzFbzyuPWSZhiJM1kV60rEwa67IzF6emT_e2vT36FsxPNHcX7DnWL7PMIZW7bCd/32274e2acabc47acb723aa9a504d6c2e.png"
+  },
+  "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAoKzFbzyuPWSZhiJM1kV60rEwa67IzF6emT_e2vT36FsxPNHcX7DnWL7PMIZW7bCd/x465o9e9p7d663y8.wprefab"
+}

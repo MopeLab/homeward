@@ -1,0 +1,2144 @@
+[
+  {
+    "frame": 1546,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1553,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1554,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1555,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1556,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1557,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1558,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1559,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1560,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1561,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1562,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1563,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1564,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1565,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1566,
+    "particles": 1,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1567,
+    "particles": 2,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3087,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1568,
+    "particles": 3,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3172,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1569,
+    "particles": 5,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3259,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1570,
+    "particles": 6,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.334,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1571,
+    "particles": 7,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3421,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1572,
+    "particles": 8,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.35,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1573,
+    "particles": 10,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3576,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1574,
+    "particles": 11,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3647,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1575,
+    "particles": 12,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3715,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1576,
+    "particles": 13,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3778,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1577,
+    "particles": 14,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3837,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1578,
+    "particles": 14,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.389,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1579,
+    "particles": 14,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3938,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1580,
+    "particles": 14,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3981,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1581,
+    "particles": 14,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.4017,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1582,
+    "particles": 14,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.4046,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1583,
+    "particles": 14,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.407,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1584,
+    "particles": 14,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.4087,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1585,
+    "particles": 14,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.4097,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1586,
+    "particles": 14,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.41,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1587,
+    "particles": 14,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.4097,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1588,
+    "particles": 14,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.4087,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1589,
+    "particles": 11,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.407,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1590,
+    "particles": 9,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.4046,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1591,
+    "particles": 6,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.4016,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1592,
+    "particles": 6,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3979,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1593,
+    "particles": 5,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3938,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1594,
+    "particles": 4,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.389,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1595,
+    "particles": 3,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3836,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1596,
+    "particles": 2,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3777,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1597,
+    "particles": 2,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3714,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1598,
+    "particles": 0,
+    "systems": 1,
+    "lid": [
+      0.29,
+      1.3646,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1599,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3574,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1600,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3498,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1601,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3421,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1602,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.334,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1603,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3257,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1604,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3171,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1605,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3086,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1606,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1607,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1608,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1609,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1610,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1611,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1612,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1613,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1614,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1615,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1616,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1617,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1618,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1619,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1620,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1621,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1622,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": -7952
+  },
+  {
+    "frame": 1623,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1624,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1625,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1626,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1627,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1628,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1629,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1630,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1631,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1632,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1633,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1634,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1635,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1636,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1637,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1638,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1639,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1640,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1641,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1642,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1643,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1644,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1645,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1646,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1647,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1648,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1649,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1650,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1651,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1652,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1653,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1654,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1655,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1656,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1657,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1658,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1659,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1660,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1661,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1662,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1663,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1664,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1665,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1666,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1667,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1668,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1669,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1670,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1671,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1672,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1673,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1674,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1675,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1676,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  },
+  {
+    "frame": 1677,
+    "particles": 0,
+    "systems": 0,
+    "lid": [
+      0.29,
+      1.3,
+      0
+    ],
+    "angles": [
+      0,
+      0,
+      0
+    ],
+    "visible": true,
+    "clip": null
+  }
+]

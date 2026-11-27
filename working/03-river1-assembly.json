@@ -1,0 +1,222 @@
+{
+  "changed": {
+    "nodes": 48,
+    "components": 26,
+    "scripts": 0,
+    "resources": 0
+  },
+  "summary": "Updated 48 nodes, 26 components, 0 scripts and 0 resources",
+  "result": {
+    "hulls": {
+      "CentralBoat": [
+        {
+          "name": "CentralBoat",
+          "handle": "n101",
+          "componentTypes": [
+            "editorOnlyData",
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "name": "BowGlass",
+          "handle": "n102",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "name": "FerryTimber",
+          "handle": "n103",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "name": "SternGlass",
+          "handle": "n104",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        }
+      ],
+      "MarketBoat": [
+        {
+          "name": "MarketBoat",
+          "handle": "n105",
+          "componentTypes": [
+            "editorOnlyData",
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "name": "BowGlass",
+          "handle": "n106",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "name": "FerryTimber",
+          "handle": "n107",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "name": "SternGlass",
+          "handle": "n108",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        }
+      ],
+      "DuskBoat": [
+        {
+          "name": "DuskBoat",
+          "handle": "n109",
+          "componentTypes": [
+            "editorOnlyData",
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "name": "BowGlass",
+          "handle": "n110",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "name": "FerryTimber",
+          "handle": "n111",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        },
+        {
+          "name": "SternGlass",
+          "handle": "n112",
+          "componentTypes": [
+            "physicsColliderData",
+            "glbSliceData"
+          ]
+        }
+      ]
+    },
+    "river": [
+      {
+        "name": "RiverSurface",
+        "handle": "n113",
+        "componentTypes": [
+          "editorOnlyData",
+          "physicsColliderData",
+          "glbSliceData"
+        ]
+      }
+    ],
+    "solid": {
+      "enableCollision": true,
+      "dynamicFriction": 0.6,
+      "staticFriction": 0.6,
+      "bounciness": 0,
+      "enableRigidBody": false,
+      "mass": -1,
+      "drag": 0,
+      "angularDrag": 0,
+      "useGravity": true,
+      "isKinematic": false
+    },
+    "oldCampus": [
+      {
+        "name": "volume",
+        "handle": "n13",
+        "componentTypes": [
+          "glbSliceData"
+        ]
+      },
+      {
+        "name": "Node-2",
+        "handle": "n14",
+        "componentTypes": [
+          "physicsColliderData",
+          "glbSliceData"
+        ]
+      }
+    ],
+    "oldRiver": [
+      {
+        "name": "map-shore-water",
+        "handle": "n56",
+        "componentTypes": [
+          "editorOnlyData"
+        ]
+      },
+      {
+        "name": "Environment",
+        "handle": "n57",
+        "componentTypes": [
+          "editorOnlyData",
+          "physicsColliderData",
+          "glbSliceData"
+        ]
+      },
+      {
+        "name": "water_strip",
+        "handle": "n58",
+        "componentTypes": [
+          "glbSliceData"
+        ]
+      },
+      {
+        "name": "Node-2",
+        "handle": "n59",
+        "componentTypes": [
+          "physicsColliderData",
+          "glbSliceData"
+        ]
+      },
+      {
+        "name": "water_strip",
+        "handle": "n60",
+        "componentTypes": [
+          "glbSliceData"
+        ]
+      },
+      {
+        "name": "Node-4",
+        "handle": "n61",
+        "componentTypes": [
+          "physicsColliderData",
+          "glbSliceData"
+        ]
+      },
+      {
+        "name": "water_strip",
+        "handle": "n62",
+        "componentTypes": [
+          "glbSliceData"
+        ]
+      },
+      {
+        "name": "Node-6",
+        "handle": "n63",
+        "componentTypes": [
+          "physicsColliderData",
+          "glbSliceData"
+        ]
+      }
+    ]
+  },
+  "revision": "8dd833c22976d9a6517c4d0299dfc2c8526dd91ef80262c105faa053e25ece77"
+}

@@ -1,0 +1,4952 @@
+[
+  {
+    "t": 337.0513000488281,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 19593,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 331713,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 103689,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.5977006554603577,
+        1,
+        0.5977006554603577
+      ]
+    ]
+  },
+  {
+    "t": 337.2948913574219,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 31291,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 343416,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 115392,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.8237000703811646,
+        1,
+        0.8237000703811646
+      ]
+    ]
+  },
+  {
+    "t": 337.54510498046875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 43296,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 355416,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 127392,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 337.7969055175781,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 55387,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 367507,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 139200,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 338.047607421875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 67420,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 379540,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.14117760956287384,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.4845218062400818,
+        1,
+        0.4845218062400818
+      ]
+    ]
+  },
+  {
+    "t": 338.2934875488281,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 79224,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 391344,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 9735,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.7099699378013611,
+        1,
+        0.7099699378013611
+      ]
+    ]
+  },
+  {
+    "t": 338.5458984375,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 91334,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 403459,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 21850,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.9362449645996094,
+        1,
+        0.9362449645996094
+      ]
+    ]
+  },
+  {
+    "t": 338.7969970703125,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 103396,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 415516,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 33907,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 339.0481872558594,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 115445,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 427565,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 45956,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 339.2958068847656,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 127329,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 439454,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 57845,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.5977006554603577,
+        1,
+        0.5977006554603577
+      ]
+    ]
+  },
+  {
+    "t": 339.5466003417969,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 139372,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 451492,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 69883,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.823148787021637,
+        1,
+        0.823148787021637
+      ]
+    ]
+  },
+  {
+    "t": 339.7959899902344,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 151339,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 463464,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 81855,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 340.04559326171875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 163324,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 475444,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 93835,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 340.2961120605469,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 175344,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 487469,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 105864,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.4845218062400818,
+        1,
+        0.4845218062400818
+      ]
+    ]
+  },
+  {
+    "t": 340.547607421875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 187420,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 499540,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 117931,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.7105212211608887,
+        1,
+        0.7105212211608887
+      ]
+    ]
+  },
+  {
+    "t": 340.7959899902344,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 199339,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 511459,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 129850,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.9361346960067749,
+        1,
+        0.9361346960067749
+      ]
+    ]
+  },
+  {
+    "t": 341.0437927246094,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 211233,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 523353,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.14117760956287384,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 341.2969055175781,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 223382,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 535502,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.14117760956287384,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 341.5470886230469,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 235396,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 547516,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 7473,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.5974250435829163,
+        1,
+        0.5974250435829163
+      ]
+    ]
+  },
+  {
+    "t": 341.7981872558594,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 247449,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 559574,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 19531,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.8233417272567749,
+        1,
+        0.8233417272567749
+      ]
+    ]
+  },
+  {
+    "t": 342.04541015625,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 259310,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 571430,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 31392,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 342.2943115234375,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 271257,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 583377,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 43334,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 342.5447998046875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 283281,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 595406,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 55363,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.48416346311569214,
+        1,
+        0.48416346311569214
+      ]
+    ]
+  },
+  {
+    "t": 342.794189453125,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 295253,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 607377,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 67334,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.7106038928031921,
+        1,
+        0.7106038928031921
+      ]
+    ]
+  },
+  {
+    "t": 343.0447998046875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 307286,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 619406,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 79363,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.9369616508483887,
+        1,
+        0.9369616508483887
+      ]
+    ]
+  },
+  {
+    "t": 343.29400634765625,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 319243,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 631363,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 91320,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 343.5459899902344,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 331339,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 643459,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 103416,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 343.7948913574219,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 343286,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 655411,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 115368,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.5977006554603577,
+        1,
+        0.5977006554603577
+      ]
+    ]
+  },
+  {
+    "t": 344.0452880859375,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 355315,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 667435,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 127392,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.8230661153793335,
+        1,
+        0.8230661153793335
+      ]
+    ]
+  },
+  {
+    "t": 344.2955017089844,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 367315,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 679435,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.14117760956287384,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 344.547607421875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 379420,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 691540,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.14117760956287384,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 344.7929992675781,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 391195,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 703315,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.14117760956287384,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.4839980900287628,
+        1,
+        0.4839980900287628
+      ]
+    ]
+  },
+  {
+    "t": 345.0451965332031,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 403300,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 715425,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 9845,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.7100526094436646,
+        1,
+        0.7100526094436646
+      ]
+    ]
+  },
+  {
+    "t": 345.2956848144531,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 415324,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 727449,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 21864,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.9360520243644714,
+        1,
+        0.9360520243644714
+      ]
+    ]
+  },
+  {
+    "t": 345.5481872558594,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 427449,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 739569,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 33989,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 345.7956848144531,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 439329,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 751449,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 45864,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 346.04559326171875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 451324,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 763444,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 57859,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.5971493721008301,
+        1,
+        0.5971493721008301
+      ]
+    ]
+  },
+  {
+    "t": 346.29559326171875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 463324,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 775444,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 69859,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.8235071301460266,
+        1,
+        0.8235071301460266
+      ]
+    ]
+  },
+  {
+    "t": 346.5448913574219,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 475291,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 787416,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 81831,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 346.7934875488281,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 487224,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 799344,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 93759,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 347.0458068847656,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 499334,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 811454,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 105869,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.48515579104423523,
+        1,
+        0.48515579104423523
+      ]
+    ]
+  },
+  {
+    "t": 347.29730224609375,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 511401,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 823521,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 117941,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.7112378478050232,
+        1,
+        0.7112378478050232
+      ]
+    ]
+  },
+  {
+    "t": 347.5445861816406,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 523276,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 835396,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 129811,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.9359692931175232,
+        1,
+        0.9359692931175232
+      ]
+    ]
+  },
+  {
+    "t": 347.7951965332031,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 535305,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 847430,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.14117760956287384,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 348.04559326171875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 547324,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 859444,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 230,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 348.2934875488281,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 559224,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 871344,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 12130,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.5972596406936646,
+        1,
+        0.5972596406936646
+      ]
+    ]
+  },
+  {
+    "t": 348.5469970703125,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 571387,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 883507,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 24293,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.8232314586639404,
+        1,
+        0.8232314586639404
+      ]
+    ]
+  },
+  {
+    "t": 348.7972106933594,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 583401,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 895521,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 36307,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 349.0445861816406,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 595272,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 907392,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 48178,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 349.2943115234375,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 607262,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 919382,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 60168,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.4839980900287628,
+        1,
+        0.4839980900287628
+      ]
+    ]
+  },
+  {
+    "t": 349.5466003417969,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 619373,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 931493,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 72279,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.7104384899139404,
+        1,
+        0.7104384899139404
+      ]
+    ]
+  },
+  {
+    "t": 349.7959899902344,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 631339,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 943464,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 84250,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.9364930391311646,
+        1,
+        0.9364930391311646
+      ]
+    ]
+  },
+  {
+    "t": 350.04339599609375,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 643214,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 955334,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 96120,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 350.29510498046875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 655300,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 967420,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 108206,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 350.5434875488281,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 667224,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 979344,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 120130,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.5972596406936646,
+        1,
+        0.5972596406936646
+      ]
+    ]
+  },
+  {
+    "t": 350.7936096191406,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 679224,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 991344,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 132130,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.822955846786499,
+        1,
+        0.822955846786499
+      ]
+    ]
+  },
+  {
+    "t": 351.043701171875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 691229,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1003353,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.14117760956287384,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 351.293701171875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 703233,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1015358,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.14117760956287384,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 351.5458068847656,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 715334,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1027454,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 9840,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.485431432723999,
+        1,
+        0.485431432723999
+      ]
+    ]
+  },
+  {
+    "t": 351.7934875488281,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 727219,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1039339,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 21725,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.7109622359275818,
+        1,
+        0.7109622359275818
+      ]
+    ]
+  },
+  {
+    "t": 352.0448913574219,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 739291,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1051411,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 33797,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.9369616508483887,
+        1,
+        0.9369616508483887
+      ]
+    ]
+  },
+  {
+    "t": 352.293212890625,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 751204,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1063324,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 45710,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 352.5445861816406,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 763272,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1075397,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 57783,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 352.7952880859375,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 775310,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1087430,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 69816,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.5981416702270508,
+        1,
+        0.5981416702270508
+      ]
+    ]
+  },
+  {
+    "t": 353.0456848144531,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 787329,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1099449,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 81835,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.8228731155395508,
+        1,
+        0.8228731155395508
+      ]
+    ]
+  },
+  {
+    "t": 353.2951965332031,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 799300,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1111420,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 93806,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 353.54449462890625,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 811272,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1123392,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 105778,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 353.79541015625,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 823310,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1135435,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 117821,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.4840807616710663,
+        1,
+        0.4840807616710663
+      ]
+    ]
+  },
+  {
+    "t": 354.0415954589844,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 835128,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 1147248,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 129634,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.7098045349121094,
+        1,
+        0.7098045349121094
+      ]
+    ]
+  },
+  {
+    "t": 354.2936096191406,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 847224,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 7344,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.14117760956287384,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.9355007410049438,
+        1,
+        0.9355007410049438
+      ]
+    ]
+  },
+  {
+    "t": 354.5434875488281,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 859219,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 19344,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.14117760956287384,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 354.79510498046875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 871300,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 31420,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 216,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 355.0459899902344,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 883339,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 43464,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 12260,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.5967910289764404,
+        1,
+        0.5967910289764404
+      ]
+    ]
+  },
+  {
+    "t": 355.2984924316406,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 895464,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 55584,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 24380,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.8233417272567749,
+        1,
+        0.8233417272567749
+      ]
+    ]
+  },
+  {
+    "t": 355.54620361328125,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 907349,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 67473,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 36269,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 355.7970886230469,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 19.09000015258789,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.6880000233650208,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 79517,
+        "gain": 0.1701405644416809,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 48313,
+        "gain": 0.27717816829681396,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "雨滴一声接一声落进搪瓷碗。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 356.04229736328125,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 4833,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 91281,
+        "gain": 0.1674356758594513,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 60077,
+        "gain": 0.27277159690856934,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 356.29339599609375,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 16891,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 103339,
+        "gain": 0.09608088433742523,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 72135,
+        "gain": 0.1565265953540802,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 356.54669189453125,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 29045,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 115497,
+        "gain": 0.08774764090776443,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 84293,
+        "gain": 0.14295080304145813,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 356.7944030761719,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 40939,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 127387,
+        "gain": 0.08678561449050903,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 96183,
+        "gain": 0.141383558511734,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 357.04510498046875,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 52972,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 139420,
+        "gain": 0.08667389303445816,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 108216,
+        "gain": 0.14120154082775116,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 357.2937927246094,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 64910,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 151363,
+        "gain": 0.08666088432073593,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 120159,
+        "gain": 0.1411803513765335,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.5583069324493408,
+        1,
+        0.5583069324493408
+      ]
+    ]
+  },
+  {
+    "t": 357.5430908203125,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 76872,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 163320,
+        "gain": 0.08665939420461655,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 132116,
+        "gain": 0.1411779224872589,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.7834793925285339,
+        1,
+        0.7834793925285339
+      ]
+    ]
+  },
+  {
+    "t": 357.7973937988281,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 89088,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 175536,
+        "gain": 0.08665921539068222,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.14117763936519623,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 358.04510498046875,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 100977,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 187425,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 2601,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 358.2936096191406,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 112896,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 199344,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 14520,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 358.5423889160156,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 124838,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 211291,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 26467,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 358.7925109863281,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 136848,
+        "gain": 0.6880000233650208,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 223296,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 38472,
+        "gain": 0.14117760956287384,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 359.04620361328125,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.6880000233650208,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 235469,
+        "gain": 0.2562003433704376,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 50645,
+        "gain": 0.417379230260849,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 359.2921142578125,
+    "channels": {
+      "Card": {
+        "clip": -11122,
+        "name": "",
+        "length": 2.9000000953674316,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.6880000233650208,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11146,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 247277,
+        "gain": 0.3134302794933319,
+        "playing": true,
+        "loop": true
+      },
+      "Basin": {
+        "clip": -11124,
+        "name": "",
+        "length": 2.799999952316284,
+        "rate": 48000,
+        "cursor": 62453,
+        "gain": 0.5106132626533508,
+        "playing": true,
+        "loop": false
+      }
+    },
+    "caption": "等了半晌，盆心又响一声。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  }
+]

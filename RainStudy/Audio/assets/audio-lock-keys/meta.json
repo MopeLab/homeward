@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 4,
+  "resourceId": "audio-lock-keys",
+  "displayName": "钥匙相碰",
+  "summary": "散乱钥匙互碰，末尾为一次试齿。"
+}

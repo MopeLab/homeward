@@ -1,0 +1,2008 @@
+[
+  {
+    "t": 277.19830322265625,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 37838,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 659093,
+        "gain": 0.08689925074577332,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 277.3548889160156,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 45360,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 666615,
+        "gain": 0.08670222759246826,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 277.5039978027344,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 52516,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 673771,
+        "gain": 0.08667095750570297,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 277.65509033203125,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 59764,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 681019,
+        "gain": 0.08666243404150009,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 277.80609130859375,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 67017,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 688272,
+        "gain": 0.08666007965803146,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 277.9540100097656,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 74112,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 695371,
+        "gain": 0.08665943890810013,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 278.10540771484375,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 81379,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 702638,
+        "gain": 0.0866592600941658,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 278.2535095214844,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 709743,
+        "gain": 0.08665921539068222,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 278.4071960449219,
+    "channels": {
+      "Card": {
+        "clip": -11110,
+        "name": "",
+        "length": 1.8020000457763672,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 717120,
+        "gain": 0.25731074810028076,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼下的室友：「走啦，吃饭去！」",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 278.55511474609375,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 4824,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 724229,
+        "gain": 0.1685926765203476,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 278.7041015625,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 11971,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 731371,
+        "gain": 0.10937736928462982,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 278.8583984375,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 19378,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 738782,
+        "gain": 0.0928301215171814,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 279.056396484375,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 28887,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 748287,
+        "gain": 0.08776069432497025,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 279.20458984375,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 36000,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 755400,
+        "gain": 0.08696462213993073,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 279.356201171875,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 43272,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 762677,
+        "gain": 0.0867430716753006,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 279.5039978027344,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 50367,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 769767,
+        "gain": 0.08668210357427597,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 279.6568908691406,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 57710,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 777110,
+        "gain": 0.08666547387838364,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 279.8070983886719,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 64915,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 784315,
+        "gain": 0.08666091412305832,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 279.95440673828125,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 71990,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 791390,
+        "gain": 0.08665966987609863,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 280.1080017089844,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 79358,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 798763,
+        "gain": 0.08665932714939117,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 280.256103515625,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 86467,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 805872,
+        "gain": 0.08665923029184341,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 280.4060974121094,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 93672,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 813072,
+        "gain": 0.08665920794010162,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 280.5591125488281,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 101011,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 820416,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 280.70599365234375,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 108067,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 827472,
+        "gain": 0.08665920048952103,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 280.85430908203125,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 115186,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 834586,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 281.006591796875,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 122491,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 841891,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 281.1553039550781,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 129634,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 849034,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 281.306396484375,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 136891,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 856291,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 281.4552001953125,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 144000,
+        "gain": 0.7199999690055847,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 863424,
+        "gain": 0.08665919303894043,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 281.6061096191406,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 870672,
+        "gain": 0.22250506281852722,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 281.75738525390625,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 877934,
+        "gain": 0.29386863112449646,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 281.9064025878906,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 885082,
+        "gain": 0.3134397566318512,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 282.0546875,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 892200,
+        "gain": 0.318897008895874,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 282.2056884765625,
+    "channels": {
+      "Card": {
+        "clip": -11112,
+        "name": "",
+        "length": 3,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7199999690055847,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 899453,
+        "gain": 0.32039162516593933,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "楼梯间的脚步渐渐远去。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  }
+]

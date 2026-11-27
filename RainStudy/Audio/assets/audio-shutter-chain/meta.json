@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 4,
+  "resourceId": "audio-shutter-chain",
+  "displayName": "链条绷紧",
+  "summary": "链节逐渐加速，摩擦声衔接门帘起步。"
+}

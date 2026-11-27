@@ -1,0 +1,2008 @@
+[
+  {
+    "t": 264.70220947265625,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 58330,
+        "gain": 0.7599999904632568,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 59285,
+        "gain": 0.12107480317354202,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "家里：你那边也下雨了？我刚把窗关上。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 264.8702087402344,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 66399,
+        "gain": 0.7599999904632568,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 67349,
+        "gain": 0.12106922268867493,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "家里：你那边也下雨了？我刚把窗关上。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 265.02349853515625,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 73753,
+        "gain": 0.7599999904632568,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 74707,
+        "gain": 0.1210683286190033,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "家里：你那边也下雨了？我刚把窗关上。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 265.173095703125,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 80938,
+        "gain": 0.7599999904632568,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 81888,
+        "gain": 0.1210680902004242,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "家里：你那边也下雨了？我刚把窗关上。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 265.322998046875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 88129,
+        "gain": 0.7599999904632568,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 89083,
+        "gain": 0.12106802314519882,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "家里：你那边也下雨了？我刚把窗关上。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 265.4718017578125,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 95271,
+        "gain": 0.7599999904632568,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 96221,
+        "gain": 0.12106800079345703,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "家里：你那边也下雨了？我刚把窗关上。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 265.6199035644531,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 102380,
+        "gain": 0.7599999904632568,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 103330,
+        "gain": 0.12106799334287643,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "家里：你那边也下雨了？我刚把窗关上。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 265.77349853515625,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 109753,
+        "gain": 0.7599999904632568,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 110703,
+        "gain": 0.12106799334287643,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "家里：你那边也下雨了？我刚把窗关上。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 265.9208068847656,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 116828,
+        "gain": 0.7599999904632568,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 117778,
+        "gain": 0.12106799334287643,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "家里：你那边也下雨了？我刚把窗关上。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 266.0745849609375,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 124210,
+        "gain": 0.7599999904632568,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 125160,
+        "gain": 0.12106799334287643,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "家里：你那边也下雨了？我刚把窗关上。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 266.21990966796875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 131180,
+        "gain": 0.7599999904632568,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 132135,
+        "gain": 0.12106799334287643,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "家里：你那边也下雨了？我刚把窗关上。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 266.3725891113281,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 138514,
+        "gain": 0.7599999904632568,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 139464,
+        "gain": 0.12106799334287643,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "家里：你那边也下雨了？我刚把窗关上。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 266.5237121582031,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 145767,
+        "gain": 0.7599999904632568,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 146722,
+        "gain": 0.12106799334287643,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "家里：你那边也下雨了？我刚把窗关上。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 266.67059326171875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 152818,
+        "gain": 0.7599999904632568,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 153768,
+        "gain": 0.12106799334287643,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "家里：你那边也下雨了？我刚把窗关上。",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 266.8218994140625,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 161030,
+        "gain": 0.2360924482345581,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 266.970703125,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 168168,
+        "gain": 0.3897983431816101,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 267.1250915527344,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 175579,
+        "gain": 0.43243083357810974,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 267.273193359375,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 182693,
+        "gain": 0.44395866990089417,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 267.42059326171875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 189768,
+        "gain": 0.4471776783466339,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 267.57330322265625,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 197098,
+        "gain": 0.4480721950531006,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 267.7550964355469,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 205829,
+        "gain": 0.4483419954776764,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 267.90618896484375,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 213072,
+        "gain": 0.448384165763855,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 268.0566101074219,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 220291,
+        "gain": 0.44839560985565186,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 268.20361328125,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 227352,
+        "gain": 0.44839876890182495,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 268.3573913574219,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 234735,
+        "gain": 0.4483996629714966,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 268.5036926269531,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 241762,
+        "gain": 0.4483999013900757,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 268.6536865234375,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 248957,
+        "gain": 0.44839996099472046,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 268.80419921875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 256176,
+        "gain": 0.44839996099472046,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 268.955810546875,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 263458,
+        "gain": 0.44839999079704285,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 269.10540771484375,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 270638,
+        "gain": 0.44839999079704285,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 269.2554931640625,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 277838,
+        "gain": 0.44839999079704285,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 269.4070129394531,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 285110,
+        "gain": 0.44839999079704285,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 269.555908203125,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 292258,
+        "gain": 0.44839999079704285,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  },
+  {
+    "t": 269.7080993652344,
+    "channels": {
+      "Card": {
+        "clip": -11120,
+        "name": "",
+        "length": 3.316999912261963,
+        "rate": 48000,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11114,
+        "name": "",
+        "length": 24,
+        "rate": 48000,
+        "cursor": 299568,
+        "gain": 0.44839999079704285,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "rate": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "如果只能寄三种声音回家，你会选哪三种？",
+    "images": [],
+    "particleCount": 0,
+    "part": null
+  }
+]

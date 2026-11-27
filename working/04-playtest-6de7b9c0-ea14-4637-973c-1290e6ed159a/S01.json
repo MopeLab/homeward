@@ -1,0 +1,2662 @@
+[
+  {
+    "t": 450.3146057128906,
+    "channels": {
+      "Card": {
+        "clip": -11442,
+        "name": "",
+        "length": 4.617000102996826,
+        "cursor": 0,
+        "gain": 0.7599999904632568,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1848941,
+        "gain": 0.44839999079704285,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "点「听一听」，等到喜欢的那一拍。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 451.3916931152344,
+    "channels": {
+      "Card": {
+        "clip": -11408,
+        "name": "",
+        "length": 2.450000047683716,
+        "cursor": 41908,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1952342,
+        "gain": 0.12783923745155334,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "细雨敲在铁皮上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0.999751091003418,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 451.559814453125,
+    "channels": {
+      "Card": {
+        "clip": -11408,
+        "name": "",
+        "length": 2.450000047683716,
+        "cursor": 58046,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1968480,
+        "gain": 0.12227017432451248,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "细雨敲在铁皮上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1.00016450881958,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 451.7084045410156,
+    "channels": {
+      "Card": {
+        "clip": -11408,
+        "name": "",
+        "length": 2.450000047683716,
+        "cursor": 72302,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1982746,
+        "gain": 0.12139882892370224,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "细雨敲在铁皮上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0.9999060034751892,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 451.8584899902344,
+    "channels": {
+      "Card": {
+        "clip": -11408,
+        "name": "",
+        "length": 2.450000047683716,
+        "cursor": 86712,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 1997146,
+        "gain": 0.1211591437458992,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "细雨敲在铁皮上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0.9999378323554993,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 452.0078125,
+    "channels": {
+      "Card": {
+        "clip": -11408,
+        "name": "",
+        "length": 2.450000047683716,
+        "cursor": 101054,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2011488,
+        "gain": 0.12109316140413284,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "细雨敲在铁皮上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0.9999774098396301,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 452.15771484375,
+    "channels": {
+      "Card": {
+        "clip": -11408,
+        "name": "",
+        "length": 2.450000047683716,
+        "cursor": 115435,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2025878,
+        "gain": 0.12107478082180023,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "细雨敲在铁皮上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0.9999942183494568,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 452.306396484375,
+    "channels": {
+      "Card": {
+        "clip": -11408,
+        "name": "",
+        "length": 2.450000047683716,
+        "cursor": 129720,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2040154,
+        "gain": 0.12106987088918686,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "细雨敲在铁皮上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0.9999991655349731,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 452.4560852050781,
+    "channels": {
+      "Card": {
+        "clip": -11408,
+        "name": "",
+        "length": 2.450000047683716,
+        "cursor": 144081,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2054525,
+        "gain": 0.12106851488351822,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "细雨敲在铁皮上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1.0000001192092896,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 452.60791015625,
+    "channels": {
+      "Card": {
+        "clip": -11408,
+        "name": "",
+        "length": 2.450000047683716,
+        "cursor": 158654,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2069098,
+        "gain": 0.12106813490390778,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "细雨敲在铁皮上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1.0000001192092896,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 452.7569885253906,
+    "channels": {
+      "Card": {
+        "clip": -11408,
+        "name": "",
+        "length": 2.450000047683716,
+        "cursor": 172977,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2083411,
+        "gain": 0.12106803059577942,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "细雨敲在铁皮上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 452.9056091308594,
+    "channels": {
+      "Card": {
+        "clip": -11408,
+        "name": "",
+        "length": 2.450000047683716,
+        "cursor": 187243,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2097686,
+        "gain": 0.12106800824403763,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "细雨敲在铁皮上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 453.0592041015625,
+    "channels": {
+      "Card": {
+        "clip": -11408,
+        "name": "",
+        "length": 2.450000047683716,
+        "cursor": 201979,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2112422,
+        "gain": 0.12106800079345703,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "细雨敲在铁皮上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 453.2047119140625,
+    "channels": {
+      "Card": {
+        "clip": -11408,
+        "name": "",
+        "length": 2.450000047683716,
+        "cursor": 215947,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2126390,
+        "gain": 0.12106799334287643,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "细雨敲在铁皮上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 453.3551025390625,
+    "channels": {
+      "Card": {
+        "clip": -11408,
+        "name": "",
+        "length": 2.450000047683716,
+        "cursor": 230385,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2140819,
+        "gain": 0.12106799334287643,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "细雨敲在铁皮上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 453.50518798828125,
+    "channels": {
+      "Card": {
+        "clip": -11408,
+        "name": "",
+        "length": 2.450000047683716,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2155238,
+        "gain": 0.2365507185459137,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "细雨敲在铁皮上。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 453.6601867675781,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 394,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2170118,
+        "gain": 0.39034679532051086,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 453.80841064453125,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 14621,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2184346,
+        "gain": 0.19501294195652008,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1.0019031763076782,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 453.9552917480469,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 28733,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2198458,
+        "gain": 0.14141865074634552,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1.0005860328674316,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 454.1062927246094,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 43229,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2212944,
+        "gain": 0.12666863203048706,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1.0018597841262817,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 454.25909423828125,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 57898,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2227613,
+        "gain": 0.12259449064731598,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1.0001529455184937,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 454.4065856933594,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 72058,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2241773,
+        "gain": 0.12148401886224747,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0.9999108910560608,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 454.5570983886719,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 86506,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2256230,
+        "gain": 0.12118320167064667,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0.9999378323554993,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 454.7073059082031,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 100915,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2270640,
+        "gain": 0.12109959870576859,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0.9999775290489197,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 454.8583068847656,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 115421,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2285146,
+        "gain": 0.12107673287391663,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1.0040597915649414,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 455.006591796875,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 129658,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 2299373,
+        "gain": 0.12107038497924805,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1.0026307106018066,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 455.1564025878906,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 144029,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 9754,
+        "gain": 0.12106864899396896,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1.0010472536087036,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 455.3052062988281,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 158314,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 24029,
+        "gain": 0.12106817960739136,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1.0002864599227905,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 455.4565124511719,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 172839,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 38554,
+        "gain": 0.12106804549694061,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1.0000414848327637,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 455.6068115234375,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 187267,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 52982,
+        "gain": 0.12106800824403763,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0.9999886155128479,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 455.7593078613281,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 201907,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 67622,
+        "gain": 0.12106800079345703,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 455.908203125,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 216211,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 81926,
+        "gain": 0.12106799334287643,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 456.0624084472656,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 231005,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 96730,
+        "gain": 0.12106799334287643,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 456.2120056152344,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 245386,
+        "gain": 0.7039999961853027,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 111101,
+        "gain": 0.12106799334287643,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 456.3572998046875,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 125050,
+        "gain": 0.23448853194713593,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 456.5093994140625,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 139642,
+        "gain": 0.38965868949890137,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 456.6601867675781,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 154128,
+        "gain": 0.4324088394641876,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 456.8053894042969,
+    "channels": {
+      "Card": {
+        "clip": -11410,
+        "name": "",
+        "length": 2.6500000953674316,
+        "cursor": 0,
+        "gain": 0.7039999961853027,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": -11436,
+        "name": "",
+        "length": 24,
+        "cursor": 168048,
+        "gain": 0.44393283128738403,
+        "playing": true,
+        "loop": true
+      },
+      "Market": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "一颗重雨滴把棚边敲颤。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "resourceId": "model-market-bank",
+  "modelType": 1,
+  "nodeCount": 1,
+  "sourceFiles": [
+    "meta.json",
+    "topology/model.glb"
+  ]
+}

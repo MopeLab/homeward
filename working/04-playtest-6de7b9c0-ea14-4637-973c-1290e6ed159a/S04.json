@@ -1,0 +1,2662 @@
+[
+  {
+    "t": 494.63531494140625,
+    "channels": {
+      "Card": {
+        "clip": -11418,
+        "name": "",
+        "length": 2.700000047683716,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1783642,
+        "gain": 0.3840000033378601,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "点「听一听」，等到喜欢的那一拍。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.2999999523162842,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 495.6170959472656,
+    "channels": {
+      "Card": {
+        "clip": -11420,
+        "name": "",
+        "length": 2.3499999046325684,
+        "cursor": 39491,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1877895,
+        "gain": 0.1095045804977417,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3066034317016602,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 495.806396484375,
+    "channels": {
+      "Card": {
+        "clip": -11420,
+        "name": "",
+        "length": 2.3499999046325684,
+        "cursor": 57664,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1896068,
+        "gain": 0.10472866147756577,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3028696775436401,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 495.9580993652344,
+    "channels": {
+      "Card": {
+        "clip": -11420,
+        "name": "",
+        "length": 2.3499999046325684,
+        "cursor": 72227,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1910631,
+        "gain": 0.10396332293748856,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3009392023086548,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 496.1061096191406,
+    "channels": {
+      "Card": {
+        "clip": -11420,
+        "name": "",
+        "length": 2.3499999046325684,
+        "cursor": 86425,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1924829,
+        "gain": 0.10375872999429703,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3014507293701172,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 496.2582092285156,
+    "channels": {
+      "Card": {
+        "clip": -11420,
+        "name": "",
+        "length": 2.3499999046325684,
+        "cursor": 101027,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1939440,
+        "gain": 0.10370168834924698,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3000226020812988,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 496.4049987792969,
+    "channels": {
+      "Card": {
+        "clip": -11420,
+        "name": "",
+        "length": 2.3499999046325684,
+        "cursor": 115129,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1953533,
+        "gain": 0.10368593037128448,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.300581932067871,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 496.55670166015625,
+    "channels": {
+      "Card": {
+        "clip": -11420,
+        "name": "",
+        "length": 2.3499999046325684,
+        "cursor": 129683,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1968087,
+        "gain": 0.10368163138628006,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3001792430877686,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 496.7051086425781,
+    "channels": {
+      "Card": {
+        "clip": -11420,
+        "name": "",
+        "length": 2.3499999046325684,
+        "cursor": 143939,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1982343,
+        "gain": 0.10368044674396515,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3001840114593506,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 496.8546142578125,
+    "channels": {
+      "Card": {
+        "clip": -11420,
+        "name": "",
+        "length": 2.3499999046325684,
+        "cursor": 158281,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 1996685,
+        "gain": 0.10368011891841888,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.300126314163208,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 497.0032043457031,
+    "channels": {
+      "Card": {
+        "clip": -11420,
+        "name": "",
+        "length": 2.3499999046325684,
+        "cursor": 172556,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2010960,
+        "gain": 0.10368002951145172,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3000386953353882,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 497.1542053222656,
+    "channels": {
+      "Card": {
+        "clip": -11420,
+        "name": "",
+        "length": 2.3499999046325684,
+        "cursor": 187043,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2025447,
+        "gain": 0.10368000715970993,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3000625371932983,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 497.30560302734375,
+    "channels": {
+      "Card": {
+        "clip": -11420,
+        "name": "",
+        "length": 2.3499999046325684,
+        "cursor": 201577,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2039991,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.2999999523162842,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 497.45599365234375,
+    "channels": {
+      "Card": {
+        "clip": -11420,
+        "name": "",
+        "length": 2.3499999046325684,
+        "cursor": 216016,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2054429,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.2999999523162842,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 497.6034851074219,
+    "channels": {
+      "Card": {
+        "clip": -11420,
+        "name": "",
+        "length": 2.3499999046325684,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2068580,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.2999999523162842,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 497.7543029785156,
+    "channels": {
+      "Card": {
+        "clip": -11420,
+        "name": "",
+        "length": 2.3499999046325684,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2083056,
+        "gain": 0.3068512976169586,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "右手边，竹盖轻碰笼沿。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.2999999523162842,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 497.9056091308594,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 9696,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2097591,
+        "gain": 0.2009500414133072,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 3,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3172087669372559,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 498.0539855957031,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 23933,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2111837,
+        "gain": 0.13024891912937164,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 7,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3421730995178223,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 498.20318603515625,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 38256,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2126151,
+        "gain": 0.11103913187980652,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 11,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3646128177642822,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 498.3570861816406,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 53030,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2140925,
+        "gain": 0.10569657385349274,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 15,
+    "part": [
+      [
+        0.28999996185302734,
+        1.383633017539978,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 498.5032043457031,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 67056,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2154951,
+        "gain": 0.10423319786787033,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 15,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3980116844177246,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 498.654296875,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 81561,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2169456,
+        "gain": 0.10383256524801254,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 15,
+    "part": [
+      [
+        0.28999996185302734,
+        1.4069448709487915,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 498.8046875,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 96009,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2183904,
+        "gain": 0.10372144728899002,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 14,
+    "part": [
+      [
+        0.28999996185302734,
+        1.4099998474121094,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 498.9540100097656,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 110342,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2198237,
+        "gain": 0.10369141399860382,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 10,
+    "part": [
+      [
+        0.28999996185302734,
+        1.4069485664367676,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 499.10369873046875,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 124704,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2212599,
+        "gain": 0.10368313640356064,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 6,
+    "part": [
+      [
+        0.28999996185302734,
+        1.397987723350525,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 499.2539978027344,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 139142,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2227037,
+        "gain": 0.10368085652589798,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 3,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3836089372634888,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 499.40521240234375,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 153657,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2241552,
+        "gain": 0.10368023812770844,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.36464262008667,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 499.5567932128906,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 168201,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2256096,
+        "gain": 0.10368005931377411,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3420610427856445,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 499.70709228515625,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 182640,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2270535,
+        "gain": 0.10368001461029053,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.3171566724777222,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 499.8540954589844,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 196752,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2284647,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.2999999523162842,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 500.00531005859375,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 211267,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 2299162,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.2999999523162842,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 500.15411376953125,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 225552,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 9447,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.2999999523162842,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 500.3038024902344,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 239913,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 23808,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.2999999523162842,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 500.45440673828125,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 254371,
+        "gain": 0.6800000071525574,
+        "playing": true,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 38266,
+        "gain": 0.10367999970912933,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.2999999523162842,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 500.6033020019531,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 52570,
+        "gain": 0.2002221941947937,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.2999999523162842,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 500.7554931640625,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 67181,
+        "gain": 0.3336962163448334,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.2999999523162842,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 500.9042053222656,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 81456,
+        "gain": 0.37027502059936523,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.2999999523162842,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "t": 501.0537109375,
+    "channels": {
+      "Card": {
+        "clip": -11422,
+        "name": "",
+        "length": 2.75,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      },
+      "Rain": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.32095909118652344,
+        "playing": false,
+        "loop": true
+      },
+      "Market": {
+        "clip": -11438,
+        "name": "",
+        "length": 24,
+        "cursor": 95808,
+        "gain": 0.3801901638507843,
+        "playing": true,
+        "loop": true
+      },
+      "Dusk": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 1,
+        "playing": false,
+        "loop": false
+      },
+      "ShoreCue": {
+        "clip": null,
+        "name": null,
+        "length": 0,
+        "cursor": 0,
+        "gain": 0.6800000071525574,
+        "playing": false,
+        "loop": false
+      }
+    },
+    "caption": "盖沿抬起，白汽越过灯光。",
+    "images": [],
+    "particleCount": 0,
+    "part": [
+      [
+        0.28999996185302734,
+        1.2999999523162842,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  }
+]

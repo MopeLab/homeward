@@ -12,3 +12,4 @@
 | 03 两岸 | [航线](03-shore-route.md) · [水岸修订](03-river-revision.md) · [动态水纹](../Game/Evidence/03-river-ripples.md) |
 | 04 声画 | [七组内容、对白及替换音轨](04-content.md) |
 | 05 验收 | [本地整局与录制版](05/README.md) |
+| 06 提交材料 | [续作记录](06/README.md) |

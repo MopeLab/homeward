@@ -7,4 +7,5 @@
 - [游戏源码与资产](Game/) · [后续制作指引](AGENTS.md)
 - [策划方案](Homeward.main.md) · [制作分工与当前版本](Homeward.modelWorks.md)
 - [录制版与桌面验收](Game/Evidence/05-playtest.md) · [当前可编辑整包](Game/Homeward-ripples.wprefab)
+- [参赛材料与演示成片位置](Game/Evidence/06-submission/README.md)
 - [音轨来源及署名](Game/Audio/README.md) · [各线程工作笔记](working/README.md)
